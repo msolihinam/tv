@@ -45,43 +45,43 @@ http://36.37.252.114:888/Apple/OneTV-043/playlist.m3u8
 #EXTINF:803, tvg-id="" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/813_160.png" tvg-name="Astro Supersport 3"  group-title="Sport",Astro Supersport 3
 http://36.37.252.114:888/Apple/OneTV-044/playlist.m3u8
 
-#EXTINF:I101, tvg-id="EPG N/A" tvg-logo="https://tv1.rtm.gov.my/assets/img/logo3.png" tvg-name="GTV"  group-title="INDONESIA",GTV INDONESIA
+#EXTINF:I101, tvg-id="EPG N/A" tvg-logo="https://www.lyngsat.com/logo/tv/gg/gtv-id.png" tvg-name="GTV"  group-title="INDONESIA",GTV INDONESIA
 https://vcdn2.rctiplus.id/live/eds/gtv_fta/live_fta/gtv_fta.m3u8
 
-#EXTINF:I102, tvg-id="EPG N/A" tvg-logo="https://tv1.rtm.gov.my/assets/img/logo3.png" tvg-name="INEWS TV"  group-title="INDONESIA",INEWS TV INDONESIA
+#EXTINF:I102, tvg-id="EPG N/A" tvg-logo="https://www.lyngsat.com/logo/tv/ii/inews-id.png" tvg-name="INEWS TV"  group-title="INDONESIA",INEWS TV INDONESIA
 https://vcdn2.rctiplus.id/live/eds/inews_fta/live_fta/inews_fta.m3u8
 
-#EXTINF:I103, tvg-id="EPG N/A" tvg-logo="https://tv1.rtm.gov.my/assets/img/logo3.png" tvg-name="METRO TV"  group-title="INDONESIA",METRO TV INDONESIA
+#EXTINF:I103, tvg-id="EPG N/A" tvg-logo="https://www.lyngsat.com/logo/tv/mm/metro_tv_id.png" tvg-name="METRO TV"  group-title="INDONESIA",METRO TV INDONESIA
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
 
-#EXTINF:I104, tvg-id="EPG N/A" tvg-logo="https://tv1.rtm.gov.my/assets/img/logo3.png" tvg-name="MNC"  group-title="INDONESIA",MNC TV INDONESIA
+#EXTINF:I104, tvg-id="EPG N/A" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mnc_id_tv.png" tvg-name="MNC"  group-title="INDONESIA",MNC TV INDONESIA
 https://vcdn2.rctiplus.id/live/eds/mnctv_fta/live_fta/mnctv_fta.m3u8
 
-#EXTINF:I105, tvg-id="EPG N/A" tvg-logo="https://tv1.rtm.gov.my/assets/img/logo3.png" tvg-name="RCTI"  group-title="INDONESIA",RCTI INDONESIA
+#EXTINF:I105, tvg-id="EPG N/A" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rcti_id.png" tvg-name="RCTI"  group-title="INDONESIA",RCTI INDONESIA
 https://vcdn2.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta.m3u8
 
-#EXTINF:I106, tvg-id="EPG N/A" tvg-logo="https://tv1.rtm.gov.my/assets/img/logo3.png" tvg-name="TRANS TV"  group-title="INDONESIA",TRANS TV INDONESIA
+#EXTINF:I106, tvg-id="EPG N/A" tvg-logo="https://www.lyngsat.com/logo/tv/tt/trans_tv_id.png" tvg-name="TRANS TV"  group-title="INDONESIA",TRANS TV INDONESIA
 https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
 
-#EXTINF:I107, tvg-id="EPG N/A" tvg-logo="https://tv1.rtm.gov.my/assets/img/logo3.png" tvg-name="TVRI"  group-title="INDONESIA",TVRI INDONESIA
+#EXTINF:I107, tvg-id="EPG N/A" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tvri-id.png" tvg-name="TVRI"  group-title="INDONESIA",TVRI INDONESIA
 http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(03)/index.m3u8
 
-#EXTINF:I108, tvg-id="EPG N/A" tvg-logo="https://tv1.rtm.gov.my/assets/img/logo3.png" tvg-name="BERITASATU"  group-title="INDONESIA",BERITA SATU INDONESIA
+#EXTINF:I108, tvg-id="EPG N/A" tvg-logo="https://www.lyngsat.com/logo/tv/bb/berita-satu-news-channel-id.png" tvg-name="BERITASATU"  group-title="INDONESIA",BERITA SATU INDONESIA
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/playlist.m3u8
 
-#EXTINF:I109, tvg-id="EPG N/A" tvg-logo="https://tv1.rtm.gov.my/assets/img/logo3.png" tvg-name="CNNI"  group-title="INDONESIA",CNN INDONESIA
+#EXTINF:I109, tvg-id="EPG N/A" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cnn_id.png" tvg-name="CNNI"  group-title="INDONESIA",CNN INDONESIA
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
 
-#EXTINF:I110, tvg-id="EPG N/A" tvg-logo="https://tv1.rtm.gov.my/assets/img/logo3.png" tvg-name="CNBCI"  group-title="INDONESIA",CNBC INDONESIA
+#EXTINF:I110, tvg-id="EPG N/A" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cmbc-indonesia-us-id.png" tvg-name="CNBCI"  group-title="INDONESIA",CNBC INDONESIA
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
 
-#EXTINF:I111, tvg-id="EPG N/A" tvg-logo="https://tv1.rtm.gov.my/assets/img/logo3.png" tvg-name="DAAI"  group-title="INDONESIA",DAII TV INDONESIA
+#EXTINF:I111, tvg-id="EPG N/A" tvg-logo="https://www.lyngsat.com/logo/tv/dd/da-ai-tv-indonesia-tw-in.png" tvg-name="DAAI"  group-title="INDONESIA",DAAI TV INDONESIA
 https://edge.nim.mivo.tv/daaitv/daaitv2_all/playlist.m3u8
 
-#EXTINF:I112, tvg-id="EPG N/A" tvg-logo="https://tv1.rtm.gov.my/assets/img/logo3.png" tvg-name="MAGNA"  group-title="INDONESIA",MAGNA TV INDONESIA
+#EXTINF:I112, tvg-id="EPG N/A" tvg-logo="https://www.lyngsat.com/logo/tv/mm/magna-channel-id.png" tvg-name="MAGNA"  group-title="INDONESIA",MAGNA CHANNEL INDONESIA
 https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
 
-#EXTINF:I113, tvg-id="EPG N/A" tvg-logo="https://tv1.rtm.gov.my/assets/img/logo3.png" tvg-name="NUSANTARA"  group-title="INDONESIA",NUSANTARA TV INDONESIA
+#EXTINF:I113, tvg-id="EPG N/A" tvg-logo="https://www.lyngsat.com/logo/tv/nn/nusantara_tv_id.png" tvg-name="NUSANTARA"  group-title="INDONESIA",NUSANTARA TV INDONESIA
 https://v6.siar.us/nusantaratv/live/playlist.m3u8
 
 #EXTINF:T103, tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/453832506/Untitled-1_reasonably_small.gif" tvg-name="CH3"  group-title="THAI",CH3 THAILAND
