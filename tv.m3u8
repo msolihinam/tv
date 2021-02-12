@@ -1,8 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://xhanafix.com/wp-content/uploads/2020/12/for-email-sign.jpg" tvg-name="XHANAFIX.COM"  group-title="xhanafix",XHANAFIX.COM
-https://xhanafix.com/wp-content/uploads/2021/01/outro.mp4
-
 #EXTINF:101, tvg-id="EPG N/A" tvg-logo="https://tv1.rtm.gov.my/assets/img/logo3.png" tvg-name="TV1"  group-title="MALAYSIA",TV1
 https://rtm1mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/playlist.m3u8
 
