@@ -21,7 +21,7 @@ https://rtmsportshdmobile.secureswiftcontent.com/Origin02/ngrp:RTM2/playlist.m3u
 #EXTINF:103+, tvg-id="" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428038_ico.png" tvg-name="TV3 BACKUP"  group-title="MALAYSIA",TV3 RECORDED
 http://ts.lemmovie.com/55a7edc5-112d-47ce-92bd-d242cf580f46.m3u8
 
-#EXTINF:120, tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b1/Bernama_News_Channel_Logo.png" tvg-name="TV3 BACKUP"  group-title="MALAYSIA",BERNAMA TV
+#EXTINF:120, tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b1/Bernama_News_Channel_Logo.png" tvg-name="BERNAMA"  group-title="MALAYSIA",BERNAMA TV
 https://youtu.be/h3jvIjLVTUk
 
 #EXTINF:111, tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/39/Astro_Ria_HD.png" tvg-name="ASTRO RIA"  group-title="MALAYSIA",ASTRO RIA
@@ -77,6 +77,9 @@ https://streaming-a-802.cdn.nextologies.com/SBS_Live_HD/live/SBS_Live_HD_1500k/c
 
 #EXTINF:K003 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2d/Korean_Broadcasting_System.svg/640px-Korean_Broadcasting_System.svg.png" group-title="South Korea", KBS NEWS
 https://youtu.be/0fiUZfzNVfc
+
+#EXTINF:I101, tvg-id="EPG N/A" tvg-logo="https://media.kompas.tv/webassets/assets_v1/kompastv.png" tvg-name="KOMPAS TV"  group-title="INDONESIA",KOMPAS TV INDONESIA
+https://www.youtube.com/embed/gIB2egm7tL8
 
 #EXTINF:I101, tvg-id="EPG N/A" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428072_ico.png" tvg-name="GTV"  group-title="INDONESIA",GTV INDONESIA
 https://vcdn2.rctiplus.id/live/eds/gtv_fta/live_fta/gtv_fta.m3u8
