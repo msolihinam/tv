@@ -339,6 +339,10 @@
 
 ///// ASTRO WARNA \\\\\
 
+  <channel id="ASTRO WARNA">
+    <display-name lang="en">ASTRO WARNA</display-name>
+    <url>mohdsolihin</url>
+  </channel>
   <programme start="20210216173000 +0800" stop="20210216174500 +0800" channel="ASTRO WARNA">
     <title lang="en">Buletin Lawak 2016 (HD) Ep08</title>
     <desc lang="en">Saksikan perkembangan terkini dunia komedi tanah air dan yang terbaru di Astro Warna, di hoskan oleh Zulin Aziz</desc>
