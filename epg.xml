@@ -336,7 +336,50 @@
     <title lang="en">Atp Uncovered</title>
     <desc lang="en">Rancangan padat dengan informasi untuk tontonan anda.</desc>
   </programme>
-  <programme start="20210218000 +0800" stop="20210218000 +0800" channel="TV1">
+
+///// ASTRO WARNA \\\\\
+
+  <programme start="20210216173000 +0800" stop="20210216174500 +0800" channel="ASTRO WARNA">
+    <title lang="en">Buletin Lawak 2016 (HD) Ep08</title>
+    <desc lang="en">Saksikan perkembangan terkini dunia komedi tanah air dan yang terbaru di Astro Warna, di hoskan oleh Zulin Aziz</desc>
+  </programme>
+  <programme start="20210216174500 +0800" stop="20210216180000 +0800" channel="ASTRO WARNA">
+    <title lang="en">Lawak Boss Boss Ep08</title>
+    <desc lang="en">Bersama Zizan Razak dan CEO syarikat terkenal dan bagaimanakah mereka melakukan cabaran dan bermain permainan menarik?</desc>
+  </programme>
+  <programme start="20210216180000 +0800" stop="20210216183000 +0800" channel="ASTRO WARNA">
+    <title lang="en">Betul Ke Bohong? S6 (HD) Ep02</title>
+    <desc lang="en">Betul Ke Bohong? musim keenam membawa Johan sebagai hos dan Ray, Haniff, Angah dan Achey sebagai kapten kumpulan, Nantikan siapa artis jemputan untuk minggu ini.</desc>
+  </programme>
+  <programme start="20210216183000 +0800" stop="20210216190000 +0800" channel="ASTRO WARNA">
+    <title lang="en">Pecah Perut Ep06</title>
+    <desc lang="en">Sebuah program sketsa komedi yang menampilkan barisan pelawak dan pelakon popular seperti Kamal Adli, Sherry Al-Hadad, Shahrul Shiro, Mamak Puteh dan ramai lagi</desc>
+  </programme>
+  <programme start="20210216190000 +0800" stop="20210216193000 +0800" channel="ASTRO WARNA">
+    <title lang="en">Di Balik Tawa Ep11</title>
+    <desc lang="en">Sebuah program bual bicara menggunakan konsep terbuka atau sesi perkongsian daripada pelawak-pelawak yang akan menceritakan pengalaman dan kisah yang mereka tidak pernah kongsi dengan masyarakat.</desc>
+  </programme>
+  <programme start="20210216193000 +0800" stop="20210216200000 +0800" channel="ASTRO WARNA">
+    <title lang="en">Ustaz Evo Ep07</title>
+    <desc lang="en">Sebuah program islamik komedi menampilkan PU Azman bersama pelawak merungkai persoalan agama.</desc>
+  </programme>
+  <programme start="20210216200000 +0800" stop="20210216205500 +0800" channel="ASTRO WARNA">
+    <title lang="en">Warung Sepahtu Ep05</title>
+    <desc lang="en">Meriah betul Warung Sepahtu kali ini kerana kehadiran tetamu yang cantik jelita, iaitu Lana Nordin dan Sharifah Sakinah.</desc>
+  </programme>
+  <programme start="202102162055000 +0800" stop="20210216210000 +0800" channel="ASTRO WARNA">
+    <title lang="en">Kapsul Zon Lawak Ep125</title>
+    <desc lang="en">Saksikan aksi lucu dan menghiburkan daripada kapsul popular iaitu Ceritaruk & Troll Lala setiap Isnin, Rabu & Jumaat hanya di Astro Warna & Warna HD.</desc>
+  </programme>
+  <programme start="20210216210000 +0800" stop="20210216220000 +0800" channel="ASTRO WARNA">
+    <title lang="en">Potong Ep08</title>
+    <desc lang="en">Midun terpaksa berlawan dengan "MMA fighter" kerana itu adalah syarat yang diberikan oleh lelaki tersebut sebelum membenarkan Midun menyunatkannya.</desc>
+  </programme>
+  <programme start="20210216220000 +0800" stop="20210217000000 +0800" channel="ASTRO WARNA">
+    <title lang="en">Senario XX</title>
+    <desc lang="en">Zorogon yang berasal dari Planet Zuhal turun ke bumi untuk mengangkut bahan tenaga. Malangnya kapalnya rosak dan dia terkandas di bumi. Lakonan Wahid & Saiful Apek.</desc>
+  </programme>
+  <programme start="20210216000 +0800" stop="20210216000 +0800" channel="ASTRO WARNA">
     <title lang="en"></title>
     <desc lang="en"></desc>
   </programme>
