@@ -67,7 +67,7 @@
   <programme start="20210216140000 +0800" stop="20210216150000 +0800" channel="TV1">
     <title lang="en">Kuppa Kopi</title>
     <desc lang="en">Sebuah program bual bicara belia di Sarawak mengetengahkan kupasan and perbincangan topik segar yang pastinya dapat menyuntik semangat terutama dalam kalangan remaja.(n)</desc>
-    <category lang="en">Talk Show</category>
+    <category lang="en">Bual Bicara</category>
     <category lang="en">U</category>
   </programme>
   <programme start="20210216150000 +0800" stop="20210216160000 +0800" channel="TV1">
@@ -79,13 +79,67 @@
   <programme start="20210216160000 +0800" stop="20210216163000 +0800" channel="TV1">
     <title lang="en">Versi Organik</title>
     <desc lang="en">Bersama Intan Ladyana menyaksikan pakar seni taman, Rosly Hj. Ya membuat dekorasi hiasan terpakai menggunakan sarang burung, alat ganti motorsikal dan botol plastik.(n)</desc>
-    <category lang="en">Others (TV Show)</category>
+    <category lang="en">Aneka TV</category>
     <category lang="en">U</category>
   </programme>
   <programme start="20210216163000 +0800" stop="20210216170000 +0800" channel="TV1">
     <title lang="en">Demi Negara</title>
     <desc lang="en">Saksikan perkongsian usaha pihak Jabatan Perhilitan dalam memelihara biodiversiti dan konservasi hidupab liar secara menyeluruh di Malaysia dengan penubuhan Pusat Menyelamat Hidupan Liar Kebangsaan.(n)</desc>
-    <category lang="en">Others (TV Show)</category>
+    <category lang="en">Aneka TV</category>
     <category lang="en">U</category>
+  </programme>
+  <programme start="20210216170000 +0800" stop="20210216180000 +0800" channel="TV1">
+    <title lang="en">Berita Wilayah</title>
+    <desc lang="en">Laporan berita semasa dalam negeri.(n)</desc>
+    <category lang="en">Berita</category>
+    <category lang="en">U</category>
+  </programme>
+  <programme start="20210216180000 +0800" stop="20210216190000 +0800" channel="TV1">
+    <title lang="en">Fikrah</title>
+    <desc lang="en">Siri bual bicara agama Islam mengenai isu semasa persekitaran hidup manusia menyentuh pelbagai topik yang akan dibincangkan, bersama tetamu dan ahli panel jemputan.(n)</desc>
+    <category lang="en">Bicara Agama</category>
+    <category lang="en">U</category>
+  </programme>
+  <programme start="20210216000 +0800" stop="20210216000 +0800" channel="TV1">
+    <title lang="en">Mimpi Yang Sempurna</title>
+    <desc lang="en">Eh, betul ke Wardah nak pulang ke kampung berjalan kaki? Semuanya kerana Haiman! Kali ini pun, Arissa tidak akan teragak-agak untuk bawa lari Akim sekali lagi, jika Haiman benar-benar mencabarnya!(n)</desc>
+    <category lang="en">Drama</category>
+    <category lang="en">U</category>
+  </programme>
+  <programme start="20210216000 +0800" stop="20210216000 +0800" channel="TV1">
+    <title lang="en"></title>
+    <desc lang="en">.(n)</desc>
+    <category lang="en"></category>
+    <category lang="en"></category>
+  </programme>
+  <programme start="20210216000 +0800" stop="20210216000 +0800" channel="TV1">
+    <title lang="en"></title>
+    <desc lang="en">.(n)</desc>
+    <category lang="en"></category>
+    <category lang="en"></category>
+  </programme>
+  <programme start="20210216000 +0800" stop="20210216000 +0800" channel="TV1">
+    <title lang="en"></title>
+    <desc lang="en">.(n)</desc>
+    <category lang="en"></category>
+    <category lang="en"></category>
+  </programme>
+  <programme start="20210216000 +0800" stop="20210216000 +0800" channel="TV1">
+    <title lang="en"></title>
+    <desc lang="en">.(n)</desc>
+    <category lang="en"></category>
+    <category lang="en"></category>
+  </programme>
+  <programme start="20210216000 +0800" stop="20210216000 +0800" channel="TV1">
+    <title lang="en"></title>
+    <desc lang="en">.(n)</desc>
+    <category lang="en"></category>
+    <category lang="en"></category>
+  </programme>
+  <programme start="20210216000 +0800" stop="20210216000 +0800" channel="TV1">
+    <title lang="en"></title>
+    <desc lang="en">.(n)</desc>
+    <category lang="en"></category>
+    <category lang="en"></category>
   </programme>
 </tv>
