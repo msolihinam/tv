@@ -34,7 +34,7 @@ https://nonton.site:8443/provision/pp/37337
 https://androidrepublica.website/List/Dailymotion/drama.m3u8|Referer=https://www.dailymotion.com/embed/video/k1FijVynGNsZ2ZrAGJ0
 
 #EXTINF:12, tvg-id="" tvg-logo="https://raw.githubusercontent.com/msolihinam/tv/main/logo/Bernama.png" tvg-name="BERNAMA"  group-title="MALAYSIA",BERNAMA TV
-https://youtu.be/h3jvIjLVTUk
+plugin://plugin.video.youtube/play/?video_id=h3jvIjLVTUk
 
 #EXTINF:111, tvg-id="" tvg-logo="https://raw.githubusercontent.com/msolihinam/tv/main/logo/Ria.png" tvg-name="ASTRO RIA"  group-title="MALAYSIA",ASTRO RIA
 http://ts.lemmovie.com/0d98a346-7dc3-46ac-93b8-62a4b1e2c578.m3u8
