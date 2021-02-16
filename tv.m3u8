@@ -152,6 +152,3 @@ http://m.live.net.sa:1935/live/quran/playlist.m3u8
 
 #EXTINF:M101, tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a2/Makkah_logo.png" tvg-name="MEKAH"  group-title="LIFE",MEKAH TV
 http://makkahtv.srfms.com:1935/makkahtv/livestream/playlist.m3u8
-
-#EXTINF:M101, TV3
-https://androidrepublica.website/List/Dailymotion/tv3.m3u8|Referer=https://www.dailymotion.com/embed/video/k3GVzd2cWbveXyrApah
