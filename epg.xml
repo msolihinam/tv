@@ -372,6 +372,37 @@
     <desc lang="en">Ingin melarikan diri dari dunianya yang sedang pupus, dukun Orc yang bernama Gul'dan telah menggunakan sihir untuk membuka portal menuju ke alam manusia.</desc>
   </programme>
 
+///// TV3 \\\\\
+
+  <channel id="TV3">
+    <display-name lang="en">TV3</display-name>
+    <url>mohdsolihin</url>
+  </channel>
+  <programme start="20210216173000 +0800" stop="20210216190000 +0800" channel="TV3">
+    <title lang="en">Setelah Ku Dimiliki</title>
+    <desc lang="en">Sarra sendiri tidak tahu yang dia mengandung. Doktor yang merawat Sarra bagitahu yang kandungan Sarra masih terlalu awal dan belum kuat.</desc>
+  </programme>
+  <programme start="20210216190000 +0800" stop="20210216200000 +0800" channel="TV3">
+    <title lang="en">Rahimah Tanpa Rahim</title>
+    <desc lang="en">Jauhar terasa dirinya diketepikan. Keadaan itu bertambah serius apabila ibu Jauhar sengaja menokok tambah</desc>
+  </programme>
+  <programme start="20210216200000 +0800" stop="20210216210000 +0800" channel="TV3">
+    <title lang="en">(L) Buletin Utama</title>
+    <desc lang="en">Berita tempatan dan antarabangsa yang terkini.</desc>
+  </programme>
+  <programme start="20210216210000 +0800" stop="20210216220000 +0800" channel="TV3">
+    <title lang="en">999</title>
+    <desc lang="en">999 is a Malaysian investigative reality television series which focuses on crimes in the country.</desc>
+  </programme>
+  <programme start="20210216220000 +0800" stop="20210216230000 +0800" channel="TV3">
+    <title lang="en">Takdir Yang Tertulis</title>
+    <desc lang="en">Juweta mula mengatur strategi untuk membuatkan Ruhila jujur dengan Azlan dan juga jujur dengan dirinya sendiri tentang Mika</desc>
+  </programme>
+  <programme start="20210216230000 +0800" stop="20210217000000 +0800" channel="TV3">
+    <title lang="en">Mother</title>
+    <desc lang="en">Su Jin tidak mewarisi sebarang kekayaan. Ibunya mewasiatkan harta kekayaannya kepada 2 orang adiknya Hyun Jin dan Yi Jin.</desc>
+  </programme>
+
 ///// ASTRO WARNA \\\\\
 
   <channel id="ASTRO WARNA">
