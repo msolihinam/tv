@@ -129,7 +129,7 @@ https://tc-live1.sanook.com/live/22302_ch5.m3u8
 #EXTINF:T108 tvg-id="" tvg-name="" tvg-language="Thai" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428078_ico.png" tvg-country="TH" tvg-url="" group-title="THAI",CHANNEL 8 THAILAND
 http://usa.login.in.th:1935/ch8/ch8/playlist.m3u8
 
-#EXTINF:401, tvg-id="" tvg-logo="https://s123.convertio.me/p/qz8jHD3kLYRrLoX4i07XiQ/3a4d5d028bb364cd7189e4d0da3ff001/HBO_logo.png" tvg-name="HBO ASIA"  group-title="MOVIES",HBO ASIA
+#EXTINF:401, tvg-id="" tvg-logo="https://s3-ap-southeast-1.amazonaws.com/www.hboasia.com/assets/img/img-logo-white-hbo.png" tvg-name="HBO ASIA"  group-title="MOVIES",HBO ASIA
 http://36.37.252.114:888/Apple/OneTV-030/playlist.m3u8
 
 #EXTINF:402, tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" tvg-name="HBO HITS"  group-title="MOVIES",HBO HITS
@@ -154,4 +154,4 @@ http://m.live.net.sa:1935/live/quran/playlist.m3u8
 http://makkahtv.srfms.com:1935/makkahtv/livestream/playlist.m3u8
 
 #EXTINF:M101, TV3
-https://androidrepublica.website/List/Dailymotion/tv3.m3u8
+https://androidrepublica.website/List/Dailymotion/tv3.m3u8|Referer=https://www.dailymotion.com/embed/video/k3GVzd2cWbveXyrApah
