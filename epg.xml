@@ -4,66 +4,6 @@
     <display-name lang="en">TV1</display-name>
     <url>mohdsolihin</url>
   </channel>
-  <channel id="TV2">
-    <display-name lang="en">TV2</display-name>
-    <url>mohdsolihin</url>
-  </channel>
-  <channel id="TV3">
-    <display-name lang="en">TV3</display-name>
-    <url>mohdsolihin</url>
-  </channel>
-  <channel id="NTV7">
-    <display-name lang="en">NTV7</display-name>
-    <url>mohdsolihin</url>
-  </channel>
-  <channel id="8TV">
-    <display-name lang="en">8TV</display-name>
-    <url>mohdsolihin</url>
-  </channel>
-  <channel id="BERNAMA">
-    <display-name lang="en">BERNAMA</display-name>
-    <url>mohdsolihin</url>
-  </channel>
-  <channel id="TV9">
-    <display-name lang="en">TV9</display-name>
-    <url>mohdsolihin</url>
-  </channel>
-  <channel id="Alhijrah">
-    <display-name lang="en">TV Alhijrah</display-name>
-    <url>mohdsolihin</url>
-  </channel>
-  <channel id="Okey">
-    <display-name lang="en">TV Okey</display-name>
-    <url>mohdsolihin</url>
-  </channel>
-  <channel id="GoShop">
-    <display-name lang="en">Go Shop</display-name>
-    <url>mohdsolihin</url>
-  </channel>
-  <channel id="NAS">
-    <display-name lang="en">Nasional FM</display-name>
-    <url>mohdsolihin</url>
-  </channel>
-  <channel id="AI FM">
-    <display-name lang="en">AI FM</display-name>
-    <url>mohdsolihin</url>
-  </channel>
-  <channel id="ASYIK">
-    <display-name lang="en">ASYIK FM</display-name>
-    <url>mohdsolihin</url>
-  </channel>
-  <channel id="MINNAL">
-    <display-name lang="en">MINNAL FM</display-name>
-    <url>mohdsolihin</url>
-  </channel>
-  <channel id="TRAXX">
-    <display-name lang="en">TRAXX FM</display-name>
-    <url>mohdsolihin</url>
-  </channel>
-  <channel id="WAI">
-    <display-name lang="en">WAI FM</display-name>
-    <url>mohdsolihin</url>
-  </channel>
   <programme start="20210216140000 +0800" stop="20210216150000 +0800" channel="TV1">
     <title lang="en">Kuppa Kopi</title>
     <desc lang="en">Sebuah program bual bicara belia di Sarawak mengetengahkan kupasan and perbincangan topik segar yang pastinya dapat menyuntik semangat terutama dalam kalangan remaja.</desc>
@@ -130,130 +70,134 @@
   </programme>
   <programme start="20210217020000 +0800" stop="20210217023000 +0800" channel="TV1">
     <title lang="en">Citarasa Medika</title>
-    <desc lang="en"></desc>
+    <desc lang="en">Saksikan perkongsian resipi menu sihat untuk penyakit Diabetes.</desc>
   </programme>
   <programme start="20210217230000 +0800" stop="20210217030000 +0800" channel="TV1">
     <title lang="en">Kota Warisan Alam</title>
-    <desc lang="en"></desc>
+    <desc lang="en">Bersama Mohammad Naim Bin Shamsol Nahar, Ikuti paparan berkaitan pelancongan Ekologi dengan berkunjung ke Tamparuli yang terkenal dengan jambatan gantungnya.</desc>
   </programme>
   <programme start="20210217030000 +0800" stop="20210217033000 +0800" channel="TV1">
     <title lang="en">Destinasi Hikmah</title>
-    <desc lang="en"></desc>
+    <desc lang="en">Destinasi pilihan dalam episod kali ini ialah di sekitar Endau, Mersing, Johor. Pengacara Omar Mokhtar mengunjungi Pusat Tahfiz Al-Khairiah yang dibina sejak tahun 2010.</desc>
   </programme>
   <programme start="20210217033000 +0800" stop="20210217043000 +0800" channel="TV1">
     <title lang="en">Dari Mata Arisa</title>
-    <desc lang="en"></desc>
+    <desc lang="en">Drama yang padat dengan kisah suka dan duka.</desc>
   </programme>
   <programme start="20210217043000 +0800" stop="20210217050000 +0800" channel="TV1">
     <title lang="en">Jom Kayuh</title>
-    <desc lang="en"></desc>
+    <desc lang="en">Jom! Saksikan Danny dan Melati Melissa bergerak ke Lundu dan melakukan kayuhan santai bersama En. Azhar Bujang dari Kuching Giant Cycling Club.</desc>
   </programme>
   <programme start="20210217050000 +0800" stop="20210217060000 +0800" channel="TV1">
     <title lang="en">Cinta Untuk Raf</title>
-    <desc lang="en"></desc>
+    <desc lang="en">Pertemuan tidak diduga antara Tuan Raza, pemilik hospital dan Tasya yang memiliki “split personality”. Orked merawat Nuh Sulaiman yang menpunyai sejarah hitam kemalangan jiwa</desc>
   </programme>
   <programme start="20210217060000 +0800" stop="20210217070000 +0800" channel="TV1">
     <title lang="en">Fikrah</title>
-    <desc lang="en"></desc>
+    <desc lang="en">Siri bual bicara agama Islam mengenai isu semasa persekitaran hidup manusia menyentuh pelbagai topik yang akan dibincangkan, bersama tetamu dan ahli panel jemputan.</desc>
   </programme>
   <programme start="20210217070000 +0800" stop="20210217073000 +0800" channel="TV1">
     <title lang="en">Berita Pagi</title>
-    <desc lang="en"></desc>
+    <desc lang="en">Saksikan berita pagi yang memaparkan perkembangan terkini, isu-isu semasa dalam dan luar negara.</desc>
   </programme>
   <programme start="20210217073000 +0800" stop="20210217074500 +0800" channel="TV1">
     <title lang="en">Berita Pagi Sabah</title>
-    <desc lang="en"></desc>
+    <desc lang="en">Saksikan berita yang memaparkan perkembangan terkini dan isu-isu semasa dari Sabah.</desc>
   </programme>
   <programme start="20210217074500 +0800" stop="20210217080000 +0800" channel="TV1">
     <title lang="en">Berita Pagi Sarawak</title>
-    <desc lang="en"></desc>
+    <desc lang="en">Saksikan berita yang memaparkan perkembangan terkini dan isu-isu semasa dari Sarawak.</desc>
   </programme>
   <programme start="20210217080000 +0800" stop="20210217100000 +0800" channel="TV1">
     <title lang="en">(L) Selamat Pagi Malaysia</title>
-    <desc lang="en"></desc>
+    <desc lang="en">Ikuti kupasan pelbagai topik menarik dalam program bual bicara berbentuk interaktif Selamat Pagi Malaysia (Nadi Seri Pagi).</desc>
   </programme>
   <programme start="20210217100000 +0800" stop="20210217103000 +0800" channel="TV1">
     <title lang="en">Fit X</title>
-    <desc lang="en"></desc>
+    <desc lang="en">Zawen berkongsi mengenai isu Wanita dan Aktiviti Air bersama selebriti, Ras Adiba Radzi dan aktiviti Aqualogix iaitu senaman dalam air bersama jurulatih, Karolina Wan Hassan.</desc>
   </programme>
   <programme start="20210217103000 +0800" stop="20210217110000 +0800" channel="TV1">
     <title lang="en">Nadi Cergas</title>
-    <desc lang="en"></desc>
+    <desc lang="en">Sebuah rancangan yang menarik khas untuk anda</desc>
   </programme>
   <programme start="20210217110000 +0800" stop="20210217113000 +0800" channel="TV1">
     <title lang="en">Gelak Sampai Kenyang</title>
-    <desc lang="en"></desc>
+    <desc lang="en">Saksikan Anas Ridzuan, Najua P.Ramlee dan Bob-T bersama pemilik Piece-za berkongsi resepi menu pizza iaitu Grilled Beef Pizza dan Chicken Peperoni Pizza</desc>
   </programme>
   <programme start="20210217113000 +0800" stop="20210217120000 +0800" channel="TV1">
     <title lang="en">Klik-Klik Andalus</title>
-    <desc lang="en"></desc>
+    <desc lang="en">Jom! Bersama Anding melawati Qurzatte yang berdekatan dengan Gurun Sahara dan membawa penonton meninjau Kasbah Ait Ben Hadou</desc>
   </programme>
   <programme start="20210217120000 +0800" stop="20210217130000 +0800" channel="TV1">
     <title lang="en">Mysteries of the Mekong</title>
-    <desc lang="en"></desc>
+    <desc lang="en">Sungai Mekong terus mengalir ke arah Asia Tenggara iaitu negara Thailand. Thailand yang merupakan negara beriklim tropika, menjadikannya salah satu negara dengan biodiversiti paling banyak di dunia</desc>
   </programme>
   <programme start="20210217130000 +0800" stop="20210217133000 +0800" channel="TV1">
     <title lang="en">Berita Tengah Hari</title>
-    <desc lang="en"></desc>
+    <desc lang="en">Saksikan Berita Tengah Hari yang memaparkan perkembangan terkini, isu-isu semasa dalam dan luar negara.</desc>
   </programme>
   <programme start="202102171330000 +0800" stop="20210217140000 +0800" channel="TV1">
     <title lang="en">Citra Wanita</title>
-    <desc lang="en"></desc>
+    <desc lang="en">Saksikan paparan ikon, Fione Tan yang merupakan jurulatih pemasaran internet dan kenali Dayangku Farahtiwan, peminat sukan permotoran dan pemandu ‘Drift’</desc>
   </programme>
   <programme start="20210217140000 +0800" stop="20210217150000 +0800" channel="TV1">
     <title lang="en">My Halal</title>
-    <desc lang="en"></desc>
+    <desc lang="en">Sebuah rancangan yang menarik khas untuk anda</desc>
   </programme>
   <programme start="20210217150000 +0800" stop="20210217160000 +0800" channel="TV1">
     <title lang="en">Cinta Untuk Raf</title>
-    <desc lang="en"></desc>
+    <desc lang="en">Ibu Raf mencurigai suaminya Tuan Raza bersama Tasya. Orked menerima hadiah daripada Noh yang menyebabkan Raf cemburu.</desc>
   </programme>
   <programme start="20210217160000 +0800" stop="20210217163000 +0800" channel="TV1">
     <title lang="en">Sinei Kitak Tok</title>
-    <desc lang="en"></desc>
+    <desc lang="en">Jom! Ikut Fadzril Hisyam berenang dan menyelam dalam ekspedisi mencari batu permata serta mempelajari proses mencanang batu sebelum dijadikan batu cincin</desc>
   </programme>
   <programme start="20210217163000 +0800" stop="20210217170000 +0800" channel="TV1">
     <title lang="en">Panorama</title>
-    <desc lang="en"></desc>
+    <desc lang="en">Saksikan paparan tentang LEPEH WEH yang memaparkan tentang tempat-tempat bersejarah serta aktiviti menarik yang terdapat di Kuala Lipis, Pahang</desc>
   </programme>
   <programme start="20210217170000 +0800" stop="20210217180000 +0800" channel="TV1">
     <title lang="en">Berita Wilayah</title>
-    <desc lang="en"></desc>
+    <desc lang="en">Laporan berita semasa dalam negeri.</desc>
   </programme>
   <programme start="20210217180000 +0800" stop="20210217183000 +0800" channel="TV1">
     <title lang="en">Bakul Telur Emas</title>
-    <desc lang="en"></desc>
+    <desc lang="en">Saksikan pengacara, Nazril Nash Idrus bersama pakar perunding kewangan membantu dan berkongsi tips “Yang Ditunggang, Menunggang”</desc>
   </programme>
   <programme start="20210217183000 +0800" stop="20210217190000 +0800" channel="TV1">
     <title lang="en">Pewaris Legasi</title>
-    <desc lang="en"></desc>
+    <desc lang="en">Malajah memaparkan promosi produk kraf tangan tradisional Malaysia dan generasi pewarisnya.</desc>
   </programme>
   <programme start="20210217190000 +0800" stop="20210217200000 +0800" channel="TV1">
     <title lang="en">Mimpi Yang Sempurna</title>
-    <desc lang="en"></desc>
+    <desc lang="en">Haiman luahkan perasaan! Wardah masih tidak boleh lupakan peristiwa 5 tahun Haiman menghilang. Akim pula betul-betul nak tahu tentang Haiman.</desc>
   </programme>
   <programme start="20210217200000 +0800" stop="20210217210000 +0800" channel="TV1">
     <title lang="en">Berita Perdana</title>
-    <desc lang="en"></desc>
+    <desc lang="en">Ikuti berita yang memaparkan perkembangan terkini dan semasa termasuk berita ekonomi dan kewangan.</desc>
   </programme>
-  <programme start="20210217210000 +0800" stop="20210217220000 +0800" channel="TV1">
-    <title lang="en">Berita Politikonomi</title>
-    <desc lang="en"></desc>
+  <programme start="20210217210000 +0800" stop="20210217213000 +0800" channel="TV1">
+    <title lang="en">Temu Minda</title>
+    <desc lang="en">Saksikan temu bual khas Menteri Komunikasi dan Multimedia, Dato’ Saifuddin Abdullah dengan topik MASA DEPAN DIGITAL MALAYSIA bersama Tan Sri Jamaludin Ibrahim dan Dr. Zunika Binti Mohamed</desc>
+  </programme>
+  <programme start="20210217213000 +0800" stop="20210217220000 +0800" channel="TV1">
+    <title lang="en">Feminin Waja</title>
+    <desc lang="en">Ikuti kegigihan Nur Izzah Atiqah yang bertindak selaku Juruteknik Bengkel untuk kenderaan mewah di Cycle & Carriage Bintang Berhad</desc>
   </programme>
   <programme start="20210217220000 +0800" stop="20210217223000 +0800" channel="TV1">
     <title lang="en">Rona Sabah</title>
-    <desc lang="en"></desc>
+    <desc lang="en">Saksikan paparan menarik mengenai SELAM LATOK-LATOK mengisahkan latok-latok yang tumbuh di dasar laut dan menjadi sumber pendapatan masyarakat setempat</desc>
   </programme>
   <programme start="20210217223000 +0800" stop="20210217230000 +0800" channel="TV1">
     <title lang="en">Jodoh Tersasar Alamat</title>
-    <desc lang="en"></desc>
+    <desc lang="en">Kali pertama terlihatkan Nasha, Issey terus jatuh cinta kepadanya. Issey mula mengorak langkah untuk memikat hati Nasha sehingga menimbulkan perasaan rimas Nasha padanya.</desc>
   </programme>
   <programme start="20210217230000 +0800" stop="20210217233000 +0800" channel="TV1">
     <title lang="en">Berita Dunia</title>
-    <desc lang="en"></desc>
+    <desc lang="en">Ikuti paparan berita semasa dari luar negara dalam Berita Dunia.</desc>
   </programme>
   <programme start="20210217233000 +0800" stop="20210218000000 +0800" channel="TV1">
     <title lang="en">ATP Uncovered</title>
-    <desc lang="en"></desc>
+    <desc lang="en">Saksikan kisah ‘Classic Match’ antara Novak Djokovik dan Rafael Nadal di kejohanan ATP Madrid Open, Sepanyol pada tahun 2009 serta kisah pemain tenis beregu terkenal dunia ‘Bryan Brothers’</desc>
   </programme>
 </tv>
