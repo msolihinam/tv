@@ -337,6 +337,41 @@
     <desc lang="en">Rancangan padat dengan informasi untuk tontonan anda.</desc>
   </programme>
 
+///// TV2 \\\\\
+
+  <channel id="TV2">
+    <display-name lang="en">TV2</display-name>
+    <url>mohdsolihin</url>
+  </channel>
+  <programme start="20210216170000 +0800" stop="20210216180000 +0800" channel="TV2">
+    <title lang="en">Life Without Regret</title>
+    <desc lang="en">Wen Long dan isterinya berkunjung ke rumah kawan baik dan bakal birasnya bernama Ehsan di Perlis.</desc>
+  </programme>
+  <programme start="20210216180000 +0800" stop="20210216190000 +0800" channel="TV2">
+    <title lang="en">Skrin Sentuh Hati Eryna</title>
+    <desc lang="en">Eryna sangat teruja bila dapat bertemu dengan Khusyairi, tapi siapa Khusyairi? Namun selepas 5 tahun berlalu, Eryna masih tidak puas asa mencari cinta.</desc>
+  </programme>
+  <programme start="20210216190000 +0800" stop="20210216193000 +0800" channel="TV2">
+    <title lang="en">Ladang Pak Awang</title>
+    <desc lang="en">Kisah kegigihan sebuah keluarga tani dalam megusahakan ladang pertanian warisan seorang petani terkenal bernama Pak Awang.</desc>
+  </programme>
+  <programme start="20210216193000 +0800" stop="20210216200000 +0800" channel="TV2">
+    <title lang="en">Berita Tamil</title>
+    <desc lang="en">Ikuti berita yang memaparkan perkembangan terkini dan semasa termasuk berita ekonomi dan kewangan.</desc>
+  </programme>
+  <programme start="20210216200000 +0800" stop="20210216203000 +0800" channel="TV2">
+    <title lang="en">Berita Mandarin</title>
+    <desc lang="en">Ikuti berita yang memaparkan perkembangan terkini dan semasa termasuk berita ekonomi dan kewangan.</desc>
+  </programme>
+  <programme start="20210216203000 +0800" stop="20210216213000 +0800" channel="TV2">
+    <title lang="en">Lelaki Itu Untukku</title>
+    <desc lang="en">Drama kekeluargaan yang mengisahkan tentang hubungan dingin seorang anak gadis terhadap bapanya.</desc>
+  </programme>
+  <programme start="20210216213000 +0800" stop="20210217000000 +0800" channel="TV2">
+    <title lang="en">Warcraft</title>
+    <desc lang="en">Ingin melarikan diri dari dunianya yang sedang pupus, dukun Orc yang bernama Gul'dan telah menggunakan sihir untuk membuka portal menuju ke alam manusia.</desc>
+  </programme>
+
 ///// ASTRO WARNA \\\\\
 
   <channel id="ASTRO WARNA">
@@ -383,8 +418,5 @@
     <title lang="en">Senario XX</title>
     <desc lang="en">Zorogon yang berasal dari Planet Zuhal turun ke bumi untuk mengangkut bahan tenaga. Malangnya kapalnya rosak dan dia terkandas di bumi. Lakonan Wahid & Saiful Apek.</desc>
   </programme>
-  <programme start="20210216000 +0800" stop="20210216000 +0800" channel="ASTRO WARNA">
-    <title lang="en"></title>
-    <desc lang="en"></desc>
-  </programme>
+
 </tv>
