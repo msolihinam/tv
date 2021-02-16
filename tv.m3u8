@@ -9,8 +9,8 @@ https://rtm1mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/playlist.m3u8
 #EXTINF:102, tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/ms/7/79/RTM_TV2new.png" tvg-name="TV2"  group-title="MALAYSIA",TV2
 https://rtm2mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/playlist.m3u8
 
-#EXTINF:106, tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Okey_RTM.png" tvg-name="TV OKEY"  group-title="MALAYSIA",TV OKEY
-https://rtmokeymobile.secureswiftcontent.com/Origin02/ngrp:RTM2/playlist.m3u8
+#EXTINF:103, tvg-id="" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428038_ico.png" tvg-name="TV3 BACKUP"  group-title="MALAYSIA",TV3
+https://androidrepublica.website/List/Dailymotion/tv3.m3u8|Referer=https://www.dailymotion.com/embed/video/k3GVzd2cWbveXyrApah
 
 #EXTINF:104, tvg-id="" tvg-logo="https://berita.rtm.gov.my/images/logobes.jpg" tvg-name="BERITA RTM"  group-title="MALAYSIA",BERITA RTM
 https://rtmbesmobile.secureswiftcontent.com/Origin03/ngrp:RTM3/playlist.m3u8
@@ -18,8 +18,8 @@ https://rtmbesmobile.secureswiftcontent.com/Origin03/ngrp:RTM3/playlist.m3u8
 #EXTINF:105, tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/02/RTM_HD_Sports.png" tvg-name="TV SUKAN"  group-title="MALAYSIA",RTM SPORTS HD
 https://rtmsportshdmobile.secureswiftcontent.com/Origin02/ngrp:RTM2/playlist.m3u8
 
-#EXTINF:103+, tvg-id="" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428038_ico.png" tvg-name="TV3 BACKUP"  group-title="MALAYSIA",TV3 RECORDED
-http://ts.lemmovie.com/55a7edc5-112d-47ce-92bd-d242cf580f46.m3u8
+#EXTINF:106, tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Okey_RTM.png" tvg-name="TV OKEY"  group-title="MALAYSIA",TV OKEY
+https://rtmokeymobile.secureswiftcontent.com/Origin02/ngrp:RTM2/playlist.m3u8
 
 #EXTINF:120, tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b1/Bernama_News_Channel_Logo.png" tvg-name="BERNAMA"  group-title="MALAYSIA",BERNAMA TV
 https://youtu.be/h3jvIjLVTUk
