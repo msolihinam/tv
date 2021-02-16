@@ -28,7 +28,7 @@ https://androidrepublica.website/List/Dailymotion/8tv.m3u8|Referer=https://www.d
 https://androidrepublica.website/List/Dailymotion/tv9.m3u8|Referer=https://www.dailymotion.com/embed/video/k1FijVynGNsZ2ZrAGJ0
 
 #EXTINF:110, tvg-id="" tvg-logo="https://raw.githubusercontent.com/msolihinam/tv/main/logo/Hijrah.png" tvg-name="TV9"  group-title="MALAYSIA",TV ALHIJRAH
-https://nonton.site:8443/provision/pp/37337
+https://nonton.site:8443/provision/pp/37337&mode=12
 
 #EXTINF:11, tvg-id="" tvg-logo="https://raw.githubusercontent.com/msolihinam/tv/main/logo/DramaSangat.png" tvg-name="Drama Sangat"  group-title="MALAYSIA",DRAMA SANGAT
 https://androidrepublica.website/List/Dailymotion/drama.m3u8|Referer=https://www.dailymotion.com/embed/video/k1FijVynGNsZ2ZrAGJ0
