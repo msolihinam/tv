@@ -1,8 +1,4 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/msolihinam/tv/main/epg.xml"
-#EXT-X-VERSION:3
-#EXT-X-MEDIA-SEQUENCE:0
-#EXT-X-ALLOW-CACHE:YES
-#EXT-X-TARGETDURATION:10
 
 #EXTINF:101, tvg-id="" tvg-logo="https://raw.githubusercontent.com/msolihinam/tv/main/logo/TV1.png" tvg-name="TV1"  group-title="MALAYSIA",TV1
 https://rtm1mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/playlist.m3u8
@@ -13,7 +9,7 @@ https://rtm2mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/playlist.m3u8
 #EXTINF:103, tvg-id="" tvg-logo="https://raw.githubusercontent.com/msolihinam/tv/main/logo/TV3.png" tvg-name="TV3"  group-title="MALAYSIA",TV3
 https://raw.githubusercontent.com/msolihinam/tv/main/tv3.m3u8|Referer=https://www.dailymotion.com/embed/video/k3GVzd2cWbveXyrApah
 
-#EXTINF:10, tvg-id="" tvg-logo="https://raw.githubusercontent.com/msolihinam/tv/main/logo/Hijrah.png" tvg-name="TV9"  group-title="MALAYSIA",TV ALHIJRAH
+#EXTINF:104, tvg-id="" tvg-logo="https://raw.githubusercontent.com/msolihinam/tv/main/logo/Hijrah.png" tvg-name="TV9"  group-title="MALAYSIA",TV ALHIJRAH
 https://nonton.site:8443/provision/pp/3733
 
 #EXTINF:105, tvg-id="" tvg-logo="https://raw.githubusercontent.com/msolihinam/tv/main/logo/Berita_RTM.png" tvg-name="BERITA RTM"  group-title="MALAYSIA",BERITA RTM
