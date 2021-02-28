@@ -1993,764 +1993,764 @@
 
 ///// ALHIJRAH \\\\\
 
-<channel id="TV ALHIJRAH">
-<display-name lang="en">TV ALHIJRAH</display-name>
+<channel id="ALHIJRAH">
+<display-name lang="en">ALHIJRAH</display-name>
 <url>mohdsolihin</url>
 </channel>
-<programme start="20210228000000 +0800" stop="20210228003000 +0800" channel="TV ALHIJRAH">
+<programme start="20210228000000 +0800" stop="20210228003000 +0800" channel="ALHIJRAH">
 <title lang="en">Berita Tvalhijrah</title>
 </programme>
-<programme start="20210228003000 +0800" stop="20210228010000 +0800" channel="TV ALHIJRAH">
+<programme start="20210228003000 +0800" stop="20210228010000 +0800" channel="ALHIJRAH">
 <title lang="en">Saat Syahdu</title>
 </programme>
-<programme start="20210228010000 +0800" stop="20210228030000 +0800" channel="TV ALHIJRAH">
+<programme start="20210228010000 +0800" stop="20210228030000 +0800" channel="ALHIJRAH">
 <title lang="en">Alunan Surah-Surah</title>
 </programme>
-<programme start="20210228030000 +0800" stop="20210228050000 +0800" channel="TV ALHIJRAH">
+<programme start="20210228030000 +0800" stop="20210228050000 +0800" channel="ALHIJRAH">
 <title lang="en">Malam Dhijrah</title>
 </programme>
-<programme start="20210228050000 +0800" stop="20210228050500 +0800" channel="TV ALHIJRAH">
+<programme start="20210228050000 +0800" stop="20210228050500 +0800" channel="ALHIJRAH">
 <title lang="en">Doa - Doa</title>
 </programme>
-<programme start="20210228050500 +0800" stop="20210228051000 +0800" channel="TV ALHIJRAH">
+<programme start="20210228050500 +0800" stop="20210228051000 +0800" channel="ALHIJRAH">
 <title lang="en">Selawat - Selawat</title>
 </programme>
-<programme start="20210228051000 +0800" stop="20210228052500 +0800" channel="TV ALHIJRAH">
+<programme start="20210228051000 +0800" stop="20210228052500 +0800" channel="ALHIJRAH">
 <title lang="en">Surah Al Quran</title>
 </programme>
-<programme start="20210228052500 +0800" stop="20210228053000 +0800" channel="TV ALHIJRAH">
+<programme start="20210228052500 +0800" stop="20210228053000 +0800" channel="ALHIJRAH">
 <title lang="en">Zikir - Zikir</title>
 </programme>
-<programme start="20210228053000 +0800" stop="20210228063000 +0800" channel="TV ALHIJRAH">
+<programme start="20210228053000 +0800" stop="20210228063000 +0800" channel="ALHIJRAH">
 <title lang="en">Not Available</title>
 </programme>
-<programme start="20210228063000 +0800" stop="20210228070000 +0800" channel="TV ALHIJRAH">
+<programme start="20210228063000 +0800" stop="20210228070000 +0800" channel="ALHIJRAH">
 <title lang="en">Bacaan Yassin</title>
 </programme>
-<programme start="20210228070000 +0800" stop="20210228093000 +0800" channel="TV ALHIJRAH">
+<programme start="20210228070000 +0800" stop="20210228093000 +0800" channel="ALHIJRAH">
 <title lang="en">Assalamualaikum (L)</title>
 </programme>
-<programme start="20210228093000 +0800" stop="20210228100000 +0800" channel="TV ALHIJRAH">
+<programme start="20210228093000 +0800" stop="20210228100000 +0800" channel="ALHIJRAH">
 <title lang="en">Home Shopping</title>
 </programme>
-<programme start="20210228100000 +0800" stop="20210228110000 +0800" channel="TV ALHIJRAH">
+<programme start="20210228100000 +0800" stop="20210228110000 +0800" channel="ALHIJRAH">
 <title lang="en">Go Shop</title>
 </programme>
-<programme start="20210228110000 +0800" stop="20210228113000 +0800" channel="TV ALHIJRAH">
+<programme start="20210228110000 +0800" stop="20210228113000 +0800" channel="ALHIJRAH">
 <title lang="en">Jom Shoppe</title>
 </programme>
-<programme start="20210228113000 +0800" stop="20210228120000 +0800" channel="TV ALHIJRAH">
+<programme start="20210228113000 +0800" stop="20210228120000 +0800" channel="ALHIJRAH">
 <title lang="en">KAFA D' Hijrah</title>
 </programme>
-<programme start="20210228120000 +0800" stop="20210228130000 +0800" channel="TV ALHIJRAH">
+<programme start="20210228120000 +0800" stop="20210228130000 +0800" channel="ALHIJRAH">
 <title lang="en">Not Available</title>
 </programme>
-<programme start="20210228130000 +0800" stop="20210228133000 +0800" channel="TV ALHIJRAH">
+<programme start="20210228130000 +0800" stop="20210228133000 +0800" channel="ALHIJRAH">
 <title lang="en">Panggilan Agung Zohor</title>
 </programme>
-<programme start="20210228133000 +0800" stop="20210228140000 +0800" channel="TV ALHIJRAH">
+<programme start="20210228133000 +0800" stop="20210228140000 +0800" channel="ALHIJRAH">
 <title lang="en">Home Shopping</title>
 </programme>
-<programme start="20210228140000 +0800" stop="20210228143000 +0800" channel="TV ALHIJRAH">
+<programme start="20210228140000 +0800" stop="20210228143000 +0800" channel="ALHIJRAH">
 <title lang="en">Go Shop</title>
 </programme>
-<programme start="20210228143000 +0800" stop="20210228150000 +0800" channel="TV ALHIJRAH">
+<programme start="20210228143000 +0800" stop="20210228150000 +0800" channel="ALHIJRAH">
 <title lang="en">Go Shop</title>
 </programme>
-<programme start="20210228150000 +0800" stop="20210228153000 +0800" channel="TV ALHIJRAH">
+<programme start="20210228150000 +0800" stop="20210228153000 +0800" channel="ALHIJRAH">
 <title lang="en">Home Shopping</title>
 </programme>
-<programme start="20210228153000 +0800" stop="20210228160000 +0800" channel="TV ALHIJRAH">
+<programme start="20210228153000 +0800" stop="20210228160000 +0800" channel="ALHIJRAH">
 <title lang="en">Home Shopping</title>
 </programme>
-<programme start="20210228160000 +0800" stop="20210228163000 +0800" channel="TV ALHIJRAH">
+<programme start="20210228160000 +0800" stop="20210228163000 +0800" channel="ALHIJRAH">
 <title lang="en">Bazaar...Jom!</title>
 </programme>
-<programme start="20210228163000 +0800" stop="20210228170000 +0800" channel="TV ALHIJRAH">
+<programme start="20210228163000 +0800" stop="20210228170000 +0800" channel="ALHIJRAH">
 <title lang="en">KAFA D' Hijrah</title>
 </programme>
-<programme start="20210228170000 +0800" stop="20210228180000 +0800" channel="TV ALHIJRAH">
+<programme start="20210228170000 +0800" stop="20210228180000 +0800" channel="ALHIJRAH">
 <title lang="en">Not Available</title>
 </programme>
-<programme start="20210228180000 +0800" stop="20210228183000 +0800" channel="TV ALHIJRAH">
+<programme start="20210228180000 +0800" stop="20210228183000 +0800" channel="ALHIJRAH">
 <title lang="en">Cinta Ilmu</title>
 </programme>
-<programme start="20210228183000 +0800" stop="20210228190000 +0800" channel="TV ALHIJRAH">
+<programme start="20210228183000 +0800" stop="20210228190000 +0800" channel="ALHIJRAH">
 <title lang="en">Cinta Suami Isteri</title>
 </programme>
-<programme start="20210228190000 +0800" stop="20210228192500 +0800" channel="TV ALHIJRAH">
+<programme start="20210228190000 +0800" stop="20210228192500 +0800" channel="ALHIJRAH">
 <title lang="en">Panggilan Agung Maghrib</title>
 </programme>
-<programme start="20210228192500 +0800" stop="20210228193000 +0800" channel="TV ALHIJRAH">
+<programme start="20210228192500 +0800" stop="20210228193000 +0800" channel="ALHIJRAH">
 <title lang="en">Nasa'ih Jiwa</title>
 </programme>
-<programme start="20210228193000 +0800" stop="20210228200000 +0800" channel="TV ALHIJRAH">
+<programme start="20210228193000 +0800" stop="20210228200000 +0800" channel="ALHIJRAH">
 <title lang="en">E-Kaunter Netizen: Syamsul Debat</title>
 </programme>
-<programme start="20210228200000 +0800" stop="20210228203000 +0800" channel="TV ALHIJRAH">
+<programme start="20210228200000 +0800" stop="20210228203000 +0800" channel="ALHIJRAH">
 <title lang="en">Berita Alhijrah (L)</title>
 </programme>
-<programme start="20210228203000 +0800" stop="20210228204500 +0800" channel="TV ALHIJRAH">
+<programme start="20210228203000 +0800" stop="20210228204500 +0800" channel="ALHIJRAH">
 <title lang="en">Kapsul Bayan Linnas</title>
 </programme>
-<programme start="20210228204500 +0800" stop="20210228210000 +0800" channel="TV ALHIJRAH">
+<programme start="20210228204500 +0800" stop="20210228210000 +0800" channel="ALHIJRAH">
 <title lang="en">Globalhijrah (L)</title>
 </programme>
-<programme start="20210228210000 +0800" stop="20210228220000 +0800" channel="TV ALHIJRAH">
+<programme start="20210228210000 +0800" stop="20210228220000 +0800" channel="ALHIJRAH">
 <title lang="en">Hijrah Berselawat</title>
 </programme>
-<programme start="20210228220000 +0800" stop="20210228230000 +0800" channel="TV ALHIJRAH">
+<programme start="20210228220000 +0800" stop="20210228230000 +0800" channel="ALHIJRAH">
 <title lang="en">Maidatul Quran</title>
 </programme>
-<programme start="20210228230000 +0800" stop="20210301000000 +0800" channel="TV ALHIJRAH">
+<programme start="20210228230000 +0800" stop="20210301000000 +0800" channel="ALHIJRAH">
 <title lang="en">Not Available</title>
 </programme>
-<programme start="20210301000000 +0800" stop="20210301003000 +0800" channel="TV ALHIJRAH">
+<programme start="20210301000000 +0800" stop="20210301003000 +0800" channel="ALHIJRAH">
 <title lang="en">Berita Tvalhijrah</title>
 </programme>
-<programme start="20210301003000 +0800" stop="20210301010000 +0800" channel="TV ALHIJRAH">
+<programme start="20210301003000 +0800" stop="20210301010000 +0800" channel="ALHIJRAH">
 <title lang="en">Saat Syahdu</title>
 </programme>
-<programme start="20210301010000 +0800" stop="20210301030000 +0800" channel="TV ALHIJRAH">
+<programme start="20210301010000 +0800" stop="20210301030000 +0800" channel="ALHIJRAH">
 <title lang="en">Alunan Surah-Surah</title>
 </programme>
-<programme start="20210301030000 +0800" stop="20210301050000 +0800" channel="TV ALHIJRAH">
+<programme start="20210301030000 +0800" stop="20210301050000 +0800" channel="ALHIJRAH">
 <title lang="en">Malam Dhijrah</title>
 </programme>
-<programme start="20210301050000 +0800" stop="20210301050500 +0800" channel="TV ALHIJRAH">
+<programme start="20210301050000 +0800" stop="20210301050500 +0800" channel="ALHIJRAH">
 <title lang="en">Doa - Doa</title>
 </programme>
-<programme start="20210301050500 +0800" stop="20210301051000 +0800" channel="TV ALHIJRAH">
+<programme start="20210301050500 +0800" stop="20210301051000 +0800" channel="ALHIJRAH">
 <title lang="en">Selawat - Selawat</title>
 </programme>
-<programme start="20210301051000 +0800" stop="20210301052500 +0800" channel="TV ALHIJRAH">
+<programme start="20210301051000 +0800" stop="20210301052500 +0800" channel="ALHIJRAH">
 <title lang="en">Surah Al Quran</title>
 </programme>
-<programme start="20210301052500 +0800" stop="20210301053000 +0800" channel="TV ALHIJRAH">
+<programme start="20210301052500 +0800" stop="20210301053000 +0800" channel="ALHIJRAH">
 <title lang="en">Zikir - Zikir</title>
 </programme>
-<programme start="20210301053000 +0800" stop="20210301060000 +0800" channel="TV ALHIJRAH">
+<programme start="20210301053000 +0800" stop="20210301060000 +0800" channel="ALHIJRAH">
 <title lang="en">Panggilan Agung Subuh</title>
 </programme>
-<programme start="20210301060000 +0800" stop="20210301070000 +0800" channel="TV ALHIJRAH">
+<programme start="20210301060000 +0800" stop="20210301070000 +0800" channel="ALHIJRAH">
 <title lang="en">Not Available</title>
 </programme>
-<programme start="20210301070000 +0800" stop="20210301093000 +0800" channel="TV ALHIJRAH">
+<programme start="20210301070000 +0800" stop="20210301093000 +0800" channel="ALHIJRAH">
 <title lang="en">Assalamualaikum (L)</title>
 </programme>
-<programme start="20210301093000 +0800" stop="20210301100000 +0800" channel="TV ALHIJRAH">
+<programme start="20210301093000 +0800" stop="20210301100000 +0800" channel="ALHIJRAH">
 <title lang="en">Home Shopping</title>
 </programme>
-<programme start="20210301100000 +0800" stop="20210301103000 +0800" channel="TV ALHIJRAH">
+<programme start="20210301100000 +0800" stop="20210301103000 +0800" channel="ALHIJRAH">
 <title lang="en">Go Shop</title>
 </programme>
-<programme start="20210301103000 +0800" stop="20210301110000 +0800" channel="TV ALHIJRAH">
+<programme start="20210301103000 +0800" stop="20210301110000 +0800" channel="ALHIJRAH">
 <title lang="en">Go Shop</title>
 </programme>
-<programme start="20210301110000 +0800" stop="20210301113000 +0800" channel="TV ALHIJRAH">
+<programme start="20210301110000 +0800" stop="20210301113000 +0800" channel="ALHIJRAH">
 <title lang="en">Jom Shoppe</title>
 </programme>
-<programme start="20210301113000 +0800" stop="20210301120000 +0800" channel="TV ALHIJRAH">
+<programme start="20210301113000 +0800" stop="20210301120000 +0800" channel="ALHIJRAH">
 <title lang="en">KAFA D' Hijrah</title>
 </programme>
-<programme start="20210301120000 +0800" stop="20210301130000 +0800" channel="TV ALHIJRAH">
+<programme start="20210301120000 +0800" stop="20210301130000 +0800" channel="ALHIJRAH">
 <title lang="en">Not Available</title>
 </programme>
-<programme start="20210301130000 +0800" stop="20210301133000 +0800" channel="TV ALHIJRAH">
+<programme start="20210301130000 +0800" stop="20210301133000 +0800" channel="ALHIJRAH">
 <title lang="en">Panggilan Agung Zohor</title>
 </programme>
-<programme start="20210301133000 +0800" stop="20210301140000 +0800" channel="TV ALHIJRAH">
+<programme start="20210301133000 +0800" stop="20210301140000 +0800" channel="ALHIJRAH">
 <title lang="en">Home Shopping</title>
 </programme>
-<programme start="20210301140000 +0800" stop="20210301150000 +0800" channel="TV ALHIJRAH">
+<programme start="20210301140000 +0800" stop="20210301150000 +0800" channel="ALHIJRAH">
 <title lang="en">Go Shop</title>
 </programme>
-<programme start="20210301150000 +0800" stop="20210301153000 +0800" channel="TV ALHIJRAH">
+<programme start="20210301150000 +0800" stop="20210301153000 +0800" channel="ALHIJRAH">
 <title lang="en">Home Shopping</title>
 </programme>
-<programme start="20210301153000 +0800" stop="20210301160000 +0800" channel="TV ALHIJRAH">
+<programme start="20210301153000 +0800" stop="20210301160000 +0800" channel="ALHIJRAH">
 <title lang="en">Home Shopping</title>
 </programme>
-<programme start="20210301160000 +0800" stop="20210301163000 +0800" channel="TV ALHIJRAH">
+<programme start="20210301160000 +0800" stop="20210301163000 +0800" channel="ALHIJRAH">
 <title lang="en">AYAT RIWAYAT</title>
 </programme>
-<programme start="20210301163000 +0800" stop="20210301170000 +0800" channel="TV ALHIJRAH">
+<programme start="20210301163000 +0800" stop="20210301170000 +0800" channel="ALHIJRAH">
 <title lang="en">KAFA D' Hijrah</title>
 </programme>
-<programme start="20210301170000 +0800" stop="20210301180000 +0800" channel="TV ALHIJRAH">
+<programme start="20210301170000 +0800" stop="20210301180000 +0800" channel="ALHIJRAH">
 <title lang="en">Not Available</title>
 </programme>
-<programme start="20210301180000 +0800" stop="20210301183000 +0800" channel="TV ALHIJRAH">
+<programme start="20210301180000 +0800" stop="20210301183000 +0800" channel="ALHIJRAH">
 <title lang="en">MAI NGAJI</title>
 </programme>
-<programme start="20210301183000 +0800" stop="20210301190000 +0800" channel="TV ALHIJRAH">
+<programme start="20210301183000 +0800" stop="20210301190000 +0800" channel="ALHIJRAH">
 <title lang="en">KAFA D' Hijrah</title>
 </programme>
-<programme start="20210301190000 +0800" stop="20210301192500 +0800" channel="TV ALHIJRAH">
+<programme start="20210301190000 +0800" stop="20210301192500 +0800" channel="ALHIJRAH">
 <title lang="en">Panggilan Agung Maghrib</title>
 </programme>
-<programme start="20210301192500 +0800" stop="20210301193000 +0800" channel="TV ALHIJRAH">
+<programme start="20210301192500 +0800" stop="20210301193000 +0800" channel="ALHIJRAH">
 <title lang="en">Teladan & Sempadan</title>
 </programme>
-<programme start="20210301193000 +0800" stop="20210301200000 +0800" channel="TV ALHIJRAH">
+<programme start="20210301193000 +0800" stop="20210301200000 +0800" channel="ALHIJRAH">
 <title lang="en">Cinta Ilmu</title>
 </programme>
-<programme start="20210301200000 +0800" stop="20210301203000 +0800" channel="TV ALHIJRAH">
+<programme start="20210301200000 +0800" stop="20210301203000 +0800" channel="ALHIJRAH">
 <title lang="en">Berita Alhijrah (L)</title>
 </programme>
-<programme start="20210301203000 +0800" stop="20210301210000 +0800" channel="TV ALHIJRAH">
+<programme start="20210301203000 +0800" stop="20210301210000 +0800" channel="ALHIJRAH">
 <title lang="en">Tawajjuh</title>
 </programme>
-<programme start="20210301210000 +0800" stop="20210301213000 +0800" channel="TV ALHIJRAH">
+<programme start="20210301210000 +0800" stop="20210301213000 +0800" channel="ALHIJRAH">
 <title lang="en">My H.A.U.S</title>
 </programme>
-<programme start="20210301213000 +0800" stop="20210301220000 +0800" channel="TV ALHIJRAH">
+<programme start="20210301213000 +0800" stop="20210301220000 +0800" channel="ALHIJRAH">
 <title lang="en">Tijarah</title>
 </programme>
-<programme start="20210301220000 +0800" stop="20210301230000 +0800" channel="TV ALHIJRAH">
+<programme start="20210301220000 +0800" stop="20210301230000 +0800" channel="ALHIJRAH">
 <title lang="en">Not Available</title>
 </programme>
-<programme start="20210301230000 +0800" stop="20210301233000 +0800" channel="TV ALHIJRAH">
+<programme start="20210301230000 +0800" stop="20210301233000 +0800" channel="ALHIJRAH">
 <title lang="en">Cinta Ilmu</title>
 </programme>
-<programme start="20210301233000 +0800" stop="20210302000000 +0800" channel="TV ALHIJRAH">
+<programme start="20210301233000 +0800" stop="20210302000000 +0800" channel="ALHIJRAH">
 <title lang="en">Haflah Al-Quran</title>
 </programme>
-<programme start="20210302000000 +0800" stop="20210302003000 +0800" channel="TV ALHIJRAH">
+<programme start="20210302000000 +0800" stop="20210302003000 +0800" channel="ALHIJRAH">
 <title lang="en">Berita Tvalhijrah</title>
 </programme>
-<programme start="20210302003000 +0800" stop="20210302010000 +0800" channel="TV ALHIJRAH">
+<programme start="20210302003000 +0800" stop="20210302010000 +0800" channel="ALHIJRAH">
 <title lang="en">Saat Syahdu</title>
 </programme>
-<programme start="20210302010000 +0800" stop="20210302030000 +0800" channel="TV ALHIJRAH">
+<programme start="20210302010000 +0800" stop="20210302030000 +0800" channel="ALHIJRAH">
 <title lang="en">Alunan Surah-Surah</title>
 </programme>
-<programme start="20210302030000 +0800" stop="20210302050000 +0800" channel="TV ALHIJRAH">
+<programme start="20210302030000 +0800" stop="20210302050000 +0800" channel="ALHIJRAH">
 <title lang="en">Malam Dhijrah</title>
 </programme>
-<programme start="20210302050000 +0800" stop="20210302050500 +0800" channel="TV ALHIJRAH">
+<programme start="20210302050000 +0800" stop="20210302050500 +0800" channel="ALHIJRAH">
 <title lang="en">Doa - Doa</title>
 </programme>
-<programme start="20210302050500 +0800" stop="20210302051000 +0800" channel="TV ALHIJRAH">
+<programme start="20210302050500 +0800" stop="20210302051000 +0800" channel="ALHIJRAH">
 <title lang="en">Selawat - Selawat</title>
 </programme>
-<programme start="20210302051000 +0800" stop="20210302052500 +0800" channel="TV ALHIJRAH">
+<programme start="20210302051000 +0800" stop="20210302052500 +0800" channel="ALHIJRAH">
 <title lang="en">Surah Al Quran</title>
 </programme>
-<programme start="20210302052500 +0800" stop="20210302053000 +0800" channel="TV ALHIJRAH">
+<programme start="20210302052500 +0800" stop="20210302053000 +0800" channel="ALHIJRAH">
 <title lang="en">Zikir - Zikir</title>
 </programme>
-<programme start="20210302053000 +0800" stop="20210302060000 +0800" channel="TV ALHIJRAH">
+<programme start="20210302053000 +0800" stop="20210302060000 +0800" channel="ALHIJRAH">
 <title lang="en">Panggilan Agung Subuh</title>
 </programme>
-<programme start="20210302060000 +0800" stop="20210302070000 +0800" channel="TV ALHIJRAH">
+<programme start="20210302060000 +0800" stop="20210302070000 +0800" channel="ALHIJRAH">
 <title lang="en">Not Available</title>
 </programme>
-<programme start="20210302070000 +0800" stop="20210302093000 +0800" channel="TV ALHIJRAH">
+<programme start="20210302070000 +0800" stop="20210302093000 +0800" channel="ALHIJRAH">
 <title lang="en">Assalamualaikum (L)</title>
 </programme>
-<programme start="20210302093000 +0800" stop="20210302100000 +0800" channel="TV ALHIJRAH">
+<programme start="20210302093000 +0800" stop="20210302100000 +0800" channel="ALHIJRAH">
 <title lang="en">Home Shopping</title>
 </programme>
-<programme start="20210302100000 +0800" stop="20210302110000 +0800" channel="TV ALHIJRAH">
+<programme start="20210302100000 +0800" stop="20210302110000 +0800" channel="ALHIJRAH">
 <title lang="en">Go Shop</title>
 </programme>
-<programme start="20210302110000 +0800" stop="20210302113000 +0800" channel="TV ALHIJRAH">
+<programme start="20210302110000 +0800" stop="20210302113000 +0800" channel="ALHIJRAH">
 <title lang="en">Jom Shoppe</title>
 </programme>
-<programme start="20210302113000 +0800" stop="20210302120000 +0800" channel="TV ALHIJRAH">
+<programme start="20210302113000 +0800" stop="20210302120000 +0800" channel="ALHIJRAH">
 <title lang="en">KAFA D' Hijrah</title>
 </programme>
-<programme start="20210302120000 +0800" stop="20210302130000 +0800" channel="TV ALHIJRAH">
+<programme start="20210302120000 +0800" stop="20210302130000 +0800" channel="ALHIJRAH">
 <title lang="en">Not Available</title>
 </programme>
-<programme start="20210302130000 +0800" stop="20210302133000 +0800" channel="TV ALHIJRAH">
+<programme start="20210302130000 +0800" stop="20210302133000 +0800" channel="ALHIJRAH">
 <title lang="en">Panggilan Agung Zohor</title>
 </programme>
-<programme start="20210302133000 +0800" stop="20210302140000 +0800" channel="TV ALHIJRAH">
+<programme start="20210302133000 +0800" stop="20210302140000 +0800" channel="ALHIJRAH">
 <title lang="en">Home Shopping</title>
 </programme>
-<programme start="20210302140000 +0800" stop="20210302143000 +0800" channel="TV ALHIJRAH">
+<programme start="20210302140000 +0800" stop="20210302143000 +0800" channel="ALHIJRAH">
 <title lang="en">Go Shop</title>
 </programme>
-<programme start="20210302143000 +0800" stop="20210302150000 +0800" channel="TV ALHIJRAH">
+<programme start="20210302143000 +0800" stop="20210302150000 +0800" channel="ALHIJRAH">
 <title lang="en">Go Shop</title>
 </programme>
-<programme start="20210302150000 +0800" stop="20210302153000 +0800" channel="TV ALHIJRAH">
+<programme start="20210302150000 +0800" stop="20210302153000 +0800" channel="ALHIJRAH">
 <title lang="en">Home Shopping</title>
 </programme>
-<programme start="20210302153000 +0800" stop="20210302160000 +0800" channel="TV ALHIJRAH">
+<programme start="20210302153000 +0800" stop="20210302160000 +0800" channel="ALHIJRAH">
 <title lang="en">Home Shopping</title>
 </programme>
-<programme start="20210302160000 +0800" stop="20210302163000 +0800" channel="TV ALHIJRAH">
+<programme start="20210302160000 +0800" stop="20210302163000 +0800" channel="ALHIJRAH">
 <title lang="en">Ayat Riwayat</title>
 </programme>
-<programme start="20210302163000 +0800" stop="20210302170000 +0800" channel="TV ALHIJRAH">
+<programme start="20210302163000 +0800" stop="20210302170000 +0800" channel="ALHIJRAH">
 <title lang="en">KAFA D' Hijrah</title>
 </programme>
-<programme start="20210302170000 +0800" stop="20210302180000 +0800" channel="TV ALHIJRAH">
+<programme start="20210302170000 +0800" stop="20210302180000 +0800" channel="ALHIJRAH">
 <title lang="en">Not Available</title>
 </programme>
-<programme start="20210302180000 +0800" stop="20210302183000 +0800" channel="TV ALHIJRAH">
+<programme start="20210302180000 +0800" stop="20210302183000 +0800" channel="ALHIJRAH">
 <title lang="en">KALAM HIKMAH</title>
 </programme>
-<programme start="20210302183000 +0800" stop="20210302190000 +0800" channel="TV ALHIJRAH">
+<programme start="20210302183000 +0800" stop="20210302190000 +0800" channel="ALHIJRAH">
 <title lang="en">KAFA D' Hijrah</title>
 </programme>
-<programme start="20210302190000 +0800" stop="20210302192500 +0800" channel="TV ALHIJRAH">
+<programme start="20210302190000 +0800" stop="20210302192500 +0800" channel="ALHIJRAH">
 <title lang="en">Panggilan Agung Maghrib</title>
 </programme>
-<programme start="20210302192500 +0800" stop="20210302193000 +0800" channel="TV ALHIJRAH">
+<programme start="20210302192500 +0800" stop="20210302193000 +0800" channel="ALHIJRAH">
 <title lang="en">Teladan & Sempadan</title>
 </programme>
-<programme start="20210302193000 +0800" stop="20210302200000 +0800" channel="TV ALHIJRAH">
+<programme start="20210302193000 +0800" stop="20210302200000 +0800" channel="ALHIJRAH">
 <title lang="en">Cinta Ilmu</title>
 </programme>
-<programme start="20210302200000 +0800" stop="20210302203000 +0800" channel="TV ALHIJRAH">
+<programme start="20210302200000 +0800" stop="20210302203000 +0800" channel="ALHIJRAH">
 <title lang="en">Berita Alhijrah (L)</title>
 </programme>
-<programme start="20210302203000 +0800" stop="20210302210000 +0800" channel="TV ALHIJRAH">
+<programme start="20210302203000 +0800" stop="20210302210000 +0800" channel="ALHIJRAH">
 <title lang="en">Haflah Al-Quran</title>
 </programme>
-<programme start="20210302210000 +0800" stop="20210302220000 +0800" channel="TV ALHIJRAH">
+<programme start="20210302210000 +0800" stop="20210302220000 +0800" channel="ALHIJRAH">
 <title lang="en">60 Minit Bersama...</title>
 </programme>
-<programme start="20210302220000 +0800" stop="20210302230000 +0800" channel="TV ALHIJRAH">
+<programme start="20210302220000 +0800" stop="20210302230000 +0800" channel="ALHIJRAH">
 <title lang="en">Not Available</title>
 </programme>
-<programme start="20210302230000 +0800" stop="20210302233000 +0800" channel="TV ALHIJRAH">
+<programme start="20210302230000 +0800" stop="20210302233000 +0800" channel="ALHIJRAH">
 <title lang="en">Cinta Ilmu</title>
 </programme>
-<programme start="20210302233000 +0800" stop="20210303000000 +0800" channel="TV ALHIJRAH">
+<programme start="20210302233000 +0800" stop="20210303000000 +0800" channel="ALHIJRAH">
 <title lang="en">E-Kaunter Netizen</title>
 </programme>
-<programme start="20210303000000 +0800" stop="20210303003000 +0800" channel="TV ALHIJRAH">
+<programme start="20210303000000 +0800" stop="20210303003000 +0800" channel="ALHIJRAH">
 <title lang="en">BERITA ALHIJRAH</title>
 </programme>
-<programme start="20210303003000 +0800" stop="20210303004500 +0800" channel="TV ALHIJRAH">
+<programme start="20210303003000 +0800" stop="20210303004500 +0800" channel="ALHIJRAH">
 <title lang="en">Globalhijrah</title>
 </programme>
-<programme start="20210303004500 +0800" stop="20210303010000 +0800" channel="TV ALHIJRAH">
+<programme start="20210303004500 +0800" stop="20210303010000 +0800" channel="ALHIJRAH">
 <title lang="en">Saat Syahdu</title>
 </programme>
-<programme start="20210303010000 +0800" stop="20210303030000 +0800" channel="TV ALHIJRAH">
+<programme start="20210303010000 +0800" stop="20210303030000 +0800" channel="ALHIJRAH">
 <title lang="en">Alunan Surah-Surah</title>
 </programme>
-<programme start="20210303030000 +0800" stop="20210303050000 +0800" channel="TV ALHIJRAH">
+<programme start="20210303030000 +0800" stop="20210303050000 +0800" channel="ALHIJRAH">
 <title lang="en">Malam Dhijrah</title>
 </programme>
-<programme start="20210303050000 +0800" stop="20210303050500 +0800" channel="TV ALHIJRAH">
+<programme start="20210303050000 +0800" stop="20210303050500 +0800" channel="ALHIJRAH">
 <title lang="en">Doa - Doa</title>
 </programme>
-<programme start="20210303050500 +0800" stop="20210303051000 +0800" channel="TV ALHIJRAH">
+<programme start="20210303050500 +0800" stop="20210303051000 +0800" channel="ALHIJRAH">
 <title lang="en">Selawat - Selawat</title>
 </programme>
-<programme start="20210303051000 +0800" stop="20210303052500 +0800" channel="TV ALHIJRAH">
+<programme start="20210303051000 +0800" stop="20210303052500 +0800" channel="ALHIJRAH">
 <title lang="en">Surah Al Quran</title>
 </programme>
-<programme start="20210303052500 +0800" stop="20210303053000 +0800" channel="TV ALHIJRAH">
+<programme start="20210303052500 +0800" stop="20210303053000 +0800" channel="ALHIJRAH">
 <title lang="en">Zikir - Zikir</title>
 </programme>
-<programme start="20210303053000 +0800" stop="20210303060000 +0800" channel="TV ALHIJRAH">
+<programme start="20210303053000 +0800" stop="20210303060000 +0800" channel="ALHIJRAH">
 <title lang="en">Panggilan Agung Subuh</title>
 </programme>
-<programme start="20210303060000 +0800" stop="20210303070000 +0800" channel="TV ALHIJRAH">
+<programme start="20210303060000 +0800" stop="20210303070000 +0800" channel="ALHIJRAH">
 <title lang="en">Not Available</title>
 </programme>
-<programme start="20210303070000 +0800" stop="20210303093000 +0800" channel="TV ALHIJRAH">
+<programme start="20210303070000 +0800" stop="20210303093000 +0800" channel="ALHIJRAH">
 <title lang="en">Assalamualaikum (L)</title>
 </programme>
-<programme start="20210303093000 +0800" stop="20210303100000 +0800" channel="TV ALHIJRAH">
+<programme start="20210303093000 +0800" stop="20210303100000 +0800" channel="ALHIJRAH">
 <title lang="en">Home Shopping</title>
 </programme>
-<programme start="20210303100000 +0800" stop="20210303103000 +0800" channel="TV ALHIJRAH">
+<programme start="20210303100000 +0800" stop="20210303103000 +0800" channel="ALHIJRAH">
 <title lang="en">Go Shop</title>
 </programme>
-<programme start="20210303103000 +0800" stop="20210303110000 +0800" channel="TV ALHIJRAH">
+<programme start="20210303103000 +0800" stop="20210303110000 +0800" channel="ALHIJRAH">
 <title lang="en">Go Shop</title>
 </programme>
-<programme start="20210303110000 +0800" stop="20210303113000 +0800" channel="TV ALHIJRAH">
+<programme start="20210303110000 +0800" stop="20210303113000 +0800" channel="ALHIJRAH">
 <title lang="en">Jom Shoppe</title>
 </programme>
-<programme start="20210303113000 +0800" stop="20210303120000 +0800" channel="TV ALHIJRAH">
+<programme start="20210303113000 +0800" stop="20210303120000 +0800" channel="ALHIJRAH">
 <title lang="en">KAFA D' Hijrah</title>
 </programme>
-<programme start="20210303120000 +0800" stop="20210303130000 +0800" channel="TV ALHIJRAH">
+<programme start="20210303120000 +0800" stop="20210303130000 +0800" channel="ALHIJRAH">
 <title lang="en">Not Available</title>
 </programme>
-<programme start="20210303130000 +0800" stop="20210303133000 +0800" channel="TV ALHIJRAH">
+<programme start="20210303130000 +0800" stop="20210303133000 +0800" channel="ALHIJRAH">
 <title lang="en">Panggilan Agung Zohor</title>
 </programme>
-<programme start="20210303133000 +0800" stop="20210303140000 +0800" channel="TV ALHIJRAH">
+<programme start="20210303133000 +0800" stop="20210303140000 +0800" channel="ALHIJRAH">
 <title lang="en">Home Shopping</title>
 </programme>
-<programme start="20210303140000 +0800" stop="20210303150000 +0800" channel="TV ALHIJRAH">
+<programme start="20210303140000 +0800" stop="20210303150000 +0800" channel="ALHIJRAH">
 <title lang="en">Go Shop</title>
 </programme>
-<programme start="20210303150000 +0800" stop="20210303153000 +0800" channel="TV ALHIJRAH">
+<programme start="20210303150000 +0800" stop="20210303153000 +0800" channel="ALHIJRAH">
 <title lang="en">Home Shopping</title>
 </programme>
-<programme start="20210303153000 +0800" stop="20210303160000 +0800" channel="TV ALHIJRAH">
+<programme start="20210303153000 +0800" stop="20210303160000 +0800" channel="ALHIJRAH">
 <title lang="en">Home Shopping</title>
 </programme>
-<programme start="20210303160000 +0800" stop="20210303163000 +0800" channel="TV ALHIJRAH">
+<programme start="20210303160000 +0800" stop="20210303163000 +0800" channel="ALHIJRAH">
 <title lang="en">Dengan Basikal Aku Menjelajah</title>
 </programme>
-<programme start="20210303163000 +0800" stop="20210303170000 +0800" channel="TV ALHIJRAH">
+<programme start="20210303163000 +0800" stop="20210303170000 +0800" channel="ALHIJRAH">
 <title lang="en">KAFA D' Hijrah</title>
 </programme>
-<programme start="20210303170000 +0800" stop="20210303180000 +0800" channel="TV ALHIJRAH">
+<programme start="20210303170000 +0800" stop="20210303180000 +0800" channel="ALHIJRAH">
 <title lang="en">Not Available</title>
 </programme>
-<programme start="20210303180000 +0800" stop="20210303183000 +0800" channel="TV ALHIJRAH">
+<programme start="20210303180000 +0800" stop="20210303183000 +0800" channel="ALHIJRAH">
 <title lang="en">30 Minit Duke</title>
 </programme>
-<programme start="20210303183000 +0800" stop="20210303190000 +0800" channel="TV ALHIJRAH">
+<programme start="20210303183000 +0800" stop="20210303190000 +0800" channel="ALHIJRAH">
 <title lang="en">KAFA D' Hijrah</title>
 </programme>
-<programme start="20210303190000 +0800" stop="20210303192500 +0800" channel="TV ALHIJRAH">
+<programme start="20210303190000 +0800" stop="20210303192500 +0800" channel="ALHIJRAH">
 <title lang="en">Panggilan Agung Maghrib</title>
 </programme>
-<programme start="20210303192500 +0800" stop="20210303193000 +0800" channel="TV ALHIJRAH">
+<programme start="20210303192500 +0800" stop="20210303193000 +0800" channel="ALHIJRAH">
 <title lang="en">Teladan & Sempadan</title>
 </programme>
-<programme start="20210303193000 +0800" stop="20210303200000 +0800" channel="TV ALHIJRAH">
+<programme start="20210303193000 +0800" stop="20210303200000 +0800" channel="ALHIJRAH">
 <title lang="en">Cinta Ilmu</title>
 </programme>
-<programme start="20210303200000 +0800" stop="20210303203000 +0800" channel="TV ALHIJRAH">
+<programme start="20210303200000 +0800" stop="20210303203000 +0800" channel="ALHIJRAH">
 <title lang="en">Berita Alhijrah (L)</title>
 </programme>
-<programme start="20210303203000 +0800" stop="20210303210000 +0800" channel="TV ALHIJRAH">
+<programme start="20210303203000 +0800" stop="20210303210000 +0800" channel="ALHIJRAH">
 <title lang="en">My H.A.U.S</title>
 </programme>
-<programme start="20210303210000 +0800" stop="20210303220000 +0800" channel="TV ALHIJRAH">
+<programme start="20210303210000 +0800" stop="20210303220000 +0800" channel="ALHIJRAH">
 <title lang="en">Analisis (Live)</title>
 </programme>
-<programme start="20210303220000 +0800" stop="20210303230000 +0800" channel="TV ALHIJRAH">
+<programme start="20210303220000 +0800" stop="20210303230000 +0800" channel="ALHIJRAH">
 <title lang="en">Not Available</title>
 </programme>
-<programme start="20210303230000 +0800" stop="20210303233000 +0800" channel="TV ALHIJRAH">
+<programme start="20210303230000 +0800" stop="20210303233000 +0800" channel="ALHIJRAH">
 <title lang="en">Cinta Ilmu</title>
 </programme>
-<programme start="20210303233000 +0800" stop="20210304000000 +0800" channel="TV ALHIJRAH">
+<programme start="20210303233000 +0800" stop="20210304000000 +0800" channel="ALHIJRAH">
 <title lang="en">Al -Qariah</title>
 </programme>
-<programme start="20210304000000 +0800" stop="20210304003000 +0800" channel="TV ALHIJRAH">
+<programme start="20210304000000 +0800" stop="20210304003000 +0800" channel="ALHIJRAH">
 <title lang="en">Berita Tvalhijrah</title>
 </programme>
-<programme start="20210304003000 +0800" stop="20210304010000 +0800" channel="TV ALHIJRAH">
+<programme start="20210304003000 +0800" stop="20210304010000 +0800" channel="ALHIJRAH">
 <title lang="en">Saat Syahdu</title>
 </programme>
-<programme start="20210304010000 +0800" stop="20210304030000 +0800" channel="TV ALHIJRAH">
+<programme start="20210304010000 +0800" stop="20210304030000 +0800" channel="ALHIJRAH">
 <title lang="en">Alunan Surah-Surah</title>
 </programme>
-<programme start="20210304030000 +0800" stop="20210304050000 +0800" channel="TV ALHIJRAH">
+<programme start="20210304030000 +0800" stop="20210304050000 +0800" channel="ALHIJRAH">
 <title lang="en">Malam Dhijrah</title>
 </programme>
-<programme start="20210304050000 +0800" stop="20210304050500 +0800" channel="TV ALHIJRAH">
+<programme start="20210304050000 +0800" stop="20210304050500 +0800" channel="ALHIJRAH">
 <title lang="en">Doa - Doa</title>
 </programme>
-<programme start="20210304050500 +0800" stop="20210304051000 +0800" channel="TV ALHIJRAH">
+<programme start="20210304050500 +0800" stop="20210304051000 +0800" channel="ALHIJRAH">
 <title lang="en">Selawat - Selawat</title>
 </programme>
-<programme start="20210304051000 +0800" stop="20210304052500 +0800" channel="TV ALHIJRAH">
+<programme start="20210304051000 +0800" stop="20210304052500 +0800" channel="ALHIJRAH">
 <title lang="en">Surah Al Quran</title>
 </programme>
-<programme start="20210304052500 +0800" stop="20210304053000 +0800" channel="TV ALHIJRAH">
+<programme start="20210304052500 +0800" stop="20210304053000 +0800" channel="ALHIJRAH">
 <title lang="en">Zikir - Zikir</title>
 </programme>
-<programme start="20210304053000 +0800" stop="20210304060000 +0800" channel="TV ALHIJRAH">
+<programme start="20210304053000 +0800" stop="20210304060000 +0800" channel="ALHIJRAH">
 <title lang="en">Panggilan Agung Subuh</title>
 </programme>
-<programme start="20210304060000 +0800" stop="20210304070000 +0800" channel="TV ALHIJRAH">
+<programme start="20210304060000 +0800" stop="20210304070000 +0800" channel="ALHIJRAH">
 <title lang="en">Not Available</title>
 </programme>
-<programme start="20210304070000 +0800" stop="20210304093000 +0800" channel="TV ALHIJRAH">
+<programme start="20210304070000 +0800" stop="20210304093000 +0800" channel="ALHIJRAH">
 <title lang="en">Assalamualaikum (L)</title>
 </programme>
-<programme start="20210304093000 +0800" stop="20210304100000 +0800" channel="TV ALHIJRAH">
+<programme start="20210304093000 +0800" stop="20210304100000 +0800" channel="ALHIJRAH">
 <title lang="en">Home Shopping</title>
 </programme>
-<programme start="20210304100000 +0800" stop="20210304110000 +0800" channel="TV ALHIJRAH">
+<programme start="20210304100000 +0800" stop="20210304110000 +0800" channel="ALHIJRAH">
 <title lang="en">Go Shop</title>
 </programme>
-<programme start="20210304110000 +0800" stop="20210304113000 +0800" channel="TV ALHIJRAH">
+<programme start="20210304110000 +0800" stop="20210304113000 +0800" channel="ALHIJRAH">
 <title lang="en">Jom Shoppe</title>
 </programme>
-<programme start="20210304113000 +0800" stop="20210304120000 +0800" channel="TV ALHIJRAH">
+<programme start="20210304113000 +0800" stop="20210304120000 +0800" channel="ALHIJRAH">
 <title lang="en">KAFA D' Hijrah</title>
 </programme>
-<programme start="20210304120000 +0800" stop="20210304130000 +0800" channel="TV ALHIJRAH">
+<programme start="20210304120000 +0800" stop="20210304130000 +0800" channel="ALHIJRAH">
 <title lang="en">Not Available</title>
 </programme>
-<programme start="20210304130000 +0800" stop="20210304133000 +0800" channel="TV ALHIJRAH">
+<programme start="20210304130000 +0800" stop="20210304133000 +0800" channel="ALHIJRAH">
 <title lang="en">Panggilan Agung Zohor</title>
 </programme>
-<programme start="20210304133000 +0800" stop="20210304140000 +0800" channel="TV ALHIJRAH">
+<programme start="20210304133000 +0800" stop="20210304140000 +0800" channel="ALHIJRAH">
 <title lang="en">Home Shopping</title>
 </programme>
-<programme start="20210304140000 +0800" stop="20210304143000 +0800" channel="TV ALHIJRAH">
+<programme start="20210304140000 +0800" stop="20210304143000 +0800" channel="ALHIJRAH">
 <title lang="en">Go Shop</title>
 </programme>
-<programme start="20210304143000 +0800" stop="20210304150000 +0800" channel="TV ALHIJRAH">
+<programme start="20210304143000 +0800" stop="20210304150000 +0800" channel="ALHIJRAH">
 <title lang="en">Go Shop</title>
 </programme>
-<programme start="20210304150000 +0800" stop="20210304153000 +0800" channel="TV ALHIJRAH">
+<programme start="20210304150000 +0800" stop="20210304153000 +0800" channel="ALHIJRAH">
 <title lang="en">Home Shopping</title>
 </programme>
-<programme start="20210304153000 +0800" stop="20210304160000 +0800" channel="TV ALHIJRAH">
+<programme start="20210304153000 +0800" stop="20210304160000 +0800" channel="ALHIJRAH">
 <title lang="en">Home Shopping</title>
 </programme>
-<programme start="20210304160000 +0800" stop="20210304163000 +0800" channel="TV ALHIJRAH">
+<programme start="20210304160000 +0800" stop="20210304163000 +0800" channel="ALHIJRAH">
 <title lang="en">Bazaar...Jom!</title>
 </programme>
-<programme start="20210304163000 +0800" stop="20210304170000 +0800" channel="TV ALHIJRAH">
+<programme start="20210304163000 +0800" stop="20210304170000 +0800" channel="ALHIJRAH">
 <title lang="en">KAFA D' Hijrah</title>
 </programme>
-<programme start="20210304170000 +0800" stop="20210304180000 +0800" channel="TV ALHIJRAH">
+<programme start="20210304170000 +0800" stop="20210304180000 +0800" channel="ALHIJRAH">
 <title lang="en">Not Available</title>
 </programme>
-<programme start="20210304180000 +0800" stop="20210304183000 +0800" channel="TV ALHIJRAH">
+<programme start="20210304180000 +0800" stop="20210304183000 +0800" channel="ALHIJRAH">
 <title lang="en">30 Minit Ustaz Don Daniyal</title>
 </programme>
-<programme start="20210304183000 +0800" stop="20210304190000 +0800" channel="TV ALHIJRAH">
+<programme start="20210304183000 +0800" stop="20210304190000 +0800" channel="ALHIJRAH">
 <title lang="en">KAFA D' Hijrah</title>
 </programme>
-<programme start="20210304190000 +0800" stop="20210304192500 +0800" channel="TV ALHIJRAH">
+<programme start="20210304190000 +0800" stop="20210304192500 +0800" channel="ALHIJRAH">
 <title lang="en">Panggilan Agung Maghrib</title>
 </programme>
-<programme start="20210304192500 +0800" stop="20210304193000 +0800" channel="TV ALHIJRAH">
+<programme start="20210304192500 +0800" stop="20210304193000 +0800" channel="ALHIJRAH">
 <title lang="en">Bayan Linnas</title>
 </programme>
-<programme start="20210304193000 +0800" stop="20210304200000 +0800" channel="TV ALHIJRAH">
+<programme start="20210304193000 +0800" stop="20210304200000 +0800" channel="ALHIJRAH">
 <title lang="en">Tawajjuh</title>
 </programme>
-<programme start="20210304200000 +0800" stop="20210304203000 +0800" channel="TV ALHIJRAH">
+<programme start="20210304200000 +0800" stop="20210304203000 +0800" channel="ALHIJRAH">
 <title lang="en">Berita Alhijrah (L)</title>
 </programme>
-<programme start="20210304203000 +0800" stop="20210304210000 +0800" channel="TV ALHIJRAH">
+<programme start="20210304203000 +0800" stop="20210304210000 +0800" channel="ALHIJRAH">
 <title lang="en">Teladan & Sempadan</title>
 </programme>
-<programme start="20210304210000 +0800" stop="20210304220000 +0800" channel="TV ALHIJRAH">
+<programme start="20210304210000 +0800" stop="20210304220000 +0800" channel="ALHIJRAH">
 <title lang="en">Dengar (Live)</title>
 </programme>
-<programme start="20210304220000 +0800" stop="20210304230000 +0800" channel="TV ALHIJRAH">
+<programme start="20210304220000 +0800" stop="20210304230000 +0800" channel="ALHIJRAH">
 <title lang="en">Not Available</title>
 </programme>
-<programme start="20210304230000 +0800" stop="20210304233000 +0800" channel="TV ALHIJRAH">
+<programme start="20210304230000 +0800" stop="20210304233000 +0800" channel="ALHIJRAH">
 <title lang="en">Tawajjuh</title>
 </programme>
-<programme start="20210304233000 +0800" stop="20210305000000 +0800" channel="TV ALHIJRAH">
+<programme start="20210304233000 +0800" stop="20210305000000 +0800" channel="ALHIJRAH">
 <title lang="en">Tausiyah Ustazah Asma</title>
 </programme>
-<programme start="20210305000000 +0800" stop="20210305003000 +0800" channel="TV ALHIJRAH">
+<programme start="20210305000000 +0800" stop="20210305003000 +0800" channel="ALHIJRAH">
 <title lang="en">BERITA ALHIJRAH</title>
 </programme>
-<programme start="20210305003000 +0800" stop="20210305010000 +0800" channel="TV ALHIJRAH">
+<programme start="20210305003000 +0800" stop="20210305010000 +0800" channel="ALHIJRAH">
 <title lang="en">Saat Syahdu</title>
 </programme>
-<programme start="20210305010000 +0800" stop="20210305030000 +0800" channel="TV ALHIJRAH">
+<programme start="20210305010000 +0800" stop="20210305030000 +0800" channel="ALHIJRAH">
 <title lang="en">Alunan Surah-Surah</title>
 </programme>
-<programme start="20210305030000 +0800" stop="20210305050000 +0800" channel="TV ALHIJRAH">
+<programme start="20210305030000 +0800" stop="20210305050000 +0800" channel="ALHIJRAH">
 <title lang="en">Malam Dhijrah</title>
 </programme>
-<programme start="20210305050000 +0800" stop="20210305050500 +0800" channel="TV ALHIJRAH">
+<programme start="20210305050000 +0800" stop="20210305050500 +0800" channel="ALHIJRAH">
 <title lang="en">Doa - Doa</title>
 </programme>
-<programme start="20210305050500 +0800" stop="20210305051000 +0800" channel="TV ALHIJRAH">
+<programme start="20210305050500 +0800" stop="20210305051000 +0800" channel="ALHIJRAH">
 <title lang="en">Selawat - Selawat</title>
 </programme>
-<programme start="20210305051000 +0800" stop="20210305052500 +0800" channel="TV ALHIJRAH">
+<programme start="20210305051000 +0800" stop="20210305052500 +0800" channel="ALHIJRAH">
 <title lang="en">Surah Al Quran</title>
 </programme>
-<programme start="20210305052500 +0800" stop="20210305053000 +0800" channel="TV ALHIJRAH">
+<programme start="20210305052500 +0800" stop="20210305053000 +0800" channel="ALHIJRAH">
 <title lang="en">Zikir - Zikir</title>
 </programme>
-<programme start="20210305053000 +0800" stop="20210305060000 +0800" channel="TV ALHIJRAH">
+<programme start="20210305053000 +0800" stop="20210305060000 +0800" channel="ALHIJRAH">
 <title lang="en">Panggilan Agung Subuh</title>
 </programme>
-<programme start="20210305060000 +0800" stop="20210305070000 +0800" channel="TV ALHIJRAH">
+<programme start="20210305060000 +0800" stop="20210305070000 +0800" channel="ALHIJRAH">
 <title lang="en">Not Available</title>
 </programme>
-<programme start="20210305070000 +0800" stop="20210305093000 +0800" channel="TV ALHIJRAH">
+<programme start="20210305070000 +0800" stop="20210305093000 +0800" channel="ALHIJRAH">
 <title lang="en">Assalamualaikum (L)</title>
 </programme>
-<programme start="20210305093000 +0800" stop="20210305100000 +0800" channel="TV ALHIJRAH">
+<programme start="20210305093000 +0800" stop="20210305100000 +0800" channel="ALHIJRAH">
 <title lang="en">Home Shopping</title>
 </programme>
-<programme start="20210305100000 +0800" stop="20210305103000 +0800" channel="TV ALHIJRAH">
+<programme start="20210305100000 +0800" stop="20210305103000 +0800" channel="ALHIJRAH">
 <title lang="en">Go Shop</title>
 </programme>
-<programme start="20210305103000 +0800" stop="20210305110000 +0800" channel="TV ALHIJRAH">
+<programme start="20210305103000 +0800" stop="20210305110000 +0800" channel="ALHIJRAH">
 <title lang="en">Go Shop</title>
 </programme>
-<programme start="20210305110000 +0800" stop="20210305113000 +0800" channel="TV ALHIJRAH">
+<programme start="20210305110000 +0800" stop="20210305113000 +0800" channel="ALHIJRAH">
 <title lang="en">Jom Shoppe</title>
 </programme>
-<programme start="20210305113000 +0800" stop="20210305120000 +0800" channel="TV ALHIJRAH">
+<programme start="20210305113000 +0800" stop="20210305120000 +0800" channel="ALHIJRAH">
 <title lang="en">KAFA D' Hijrah</title>
 </programme>
-<programme start="20210305120000 +0800" stop="20210305130000 +0800" channel="TV ALHIJRAH">
+<programme start="20210305120000 +0800" stop="20210305130000 +0800" channel="ALHIJRAH">
 <title lang="en">Not Available</title>
 </programme>
-<programme start="20210305130000 +0800" stop="20210305133000 +0800" channel="TV ALHIJRAH">
+<programme start="20210305130000 +0800" stop="20210305133000 +0800" channel="ALHIJRAH">
 <title lang="en">Panggilan Agung Zohor</title>
 </programme>
-<programme start="20210305133000 +0800" stop="20210305140000 +0800" channel="TV ALHIJRAH">
+<programme start="20210305133000 +0800" stop="20210305140000 +0800" channel="ALHIJRAH">
 <title lang="en">Haflah Al-Quran</title>
 </programme>
-<programme start="20210305140000 +0800" stop="20210305150000 +0800" channel="TV ALHIJRAH">
+<programme start="20210305140000 +0800" stop="20210305150000 +0800" channel="ALHIJRAH">
 <title lang="en">Go Shop</title>
 </programme>
-<programme start="20210305150000 +0800" stop="20210305153000 +0800" channel="TV ALHIJRAH">
+<programme start="20210305150000 +0800" stop="20210305153000 +0800" channel="ALHIJRAH">
 <title lang="en">Home Shopping</title>
 </programme>
-<programme start="20210305153000 +0800" stop="20210305160000 +0800" channel="TV ALHIJRAH">
+<programme start="20210305153000 +0800" stop="20210305160000 +0800" channel="ALHIJRAH">
 <title lang="en">Home Shopping</title>
 </programme>
-<programme start="20210305160000 +0800" stop="20210305163000 +0800" channel="TV ALHIJRAH">
+<programme start="20210305160000 +0800" stop="20210305163000 +0800" channel="ALHIJRAH">
 <title lang="en">Bazaar...Jom!</title>
 </programme>
-<programme start="20210305163000 +0800" stop="20210305170000 +0800" channel="TV ALHIJRAH">
+<programme start="20210305163000 +0800" stop="20210305170000 +0800" channel="ALHIJRAH">
 <title lang="en">KAFA D' Hijrah</title>
 </programme>
-<programme start="20210305170000 +0800" stop="20210305180000 +0800" channel="TV ALHIJRAH">
+<programme start="20210305170000 +0800" stop="20210305180000 +0800" channel="ALHIJRAH">
 <title lang="en">Not Available</title>
 </programme>
-<programme start="20210305180000 +0800" stop="20210305183000 +0800" channel="TV ALHIJRAH">
+<programme start="20210305180000 +0800" stop="20210305183000 +0800" channel="ALHIJRAH">
 <title lang="en">Cinta Ilmu</title>
 </programme>
-<programme start="20210305183000 +0800" stop="20210305190000 +0800" channel="TV ALHIJRAH">
+<programme start="20210305183000 +0800" stop="20210305190000 +0800" channel="ALHIJRAH">
 <title lang="en">KAFA D' Hijrah</title>
 </programme>
-<programme start="20210305190000 +0800" stop="20210305192500 +0800" channel="TV ALHIJRAH">
+<programme start="20210305190000 +0800" stop="20210305192500 +0800" channel="ALHIJRAH">
 <title lang="en">Panggilan Agung Maghrib</title>
 </programme>
-<programme start="20210305192500 +0800" stop="20210305193000 +0800" channel="TV ALHIJRAH">
+<programme start="20210305192500 +0800" stop="20210305193000 +0800" channel="ALHIJRAH">
 <title lang="en">Bayan Linnas</title>
 </programme>
-<programme start="20210305193000 +0800" stop="20210305200000 +0800" channel="TV ALHIJRAH">
+<programme start="20210305193000 +0800" stop="20210305200000 +0800" channel="ALHIJRAH">
 <title lang="en">Al -Qariah</title>
 </programme>
-<programme start="20210305200000 +0800" stop="20210305203000 +0800" channel="TV ALHIJRAH">
+<programme start="20210305200000 +0800" stop="20210305203000 +0800" channel="ALHIJRAH">
 <title lang="en">Berita Alhijrah (L)</title>
 </programme>
-<programme start="20210305203000 +0800" stop="20210305210000 +0800" channel="TV ALHIJRAH">
+<programme start="20210305203000 +0800" stop="20210305210000 +0800" channel="ALHIJRAH">
 <title lang="en">Sentuhan Kalbu Habib Ali</title>
 </programme>
-<programme start="20210305210000 +0800" stop="20210305220000 +0800" channel="TV ALHIJRAH">
+<programme start="20210305210000 +0800" stop="20210305220000 +0800" channel="ALHIJRAH">
 <title lang="en">Hijrah Berselawat</title>
 </programme>
-<programme start="20210305220000 +0800" stop="20210305230000 +0800" channel="TV ALHIJRAH">
+<programme start="20210305220000 +0800" stop="20210305230000 +0800" channel="ALHIJRAH">
 <title lang="en">Not Available</title>
 </programme>
-<programme start="20210305230000 +0800" stop="20210305233000 +0800" channel="TV ALHIJRAH">
+<programme start="20210305230000 +0800" stop="20210305233000 +0800" channel="ALHIJRAH">
 <title lang="en">Al -Qariah</title>
 </programme>
-<programme start="20210305233000 +0800" stop="20210306000000 +0800" channel="TV ALHIJRAH">
+<programme start="20210305233000 +0800" stop="20210306000000 +0800" channel="ALHIJRAH">
 <title lang="en">E-Kaunter Netizen</title>
 </programme>
-<programme start="20210306000000 +0800" stop="20210306003000 +0800" channel="TV ALHIJRAH">
+<programme start="20210306000000 +0800" stop="20210306003000 +0800" channel="ALHIJRAH">
 <title lang="en">BERITA ALHIJRAH</title>
 </programme>
-<programme start="20210306003000 +0800" stop="20210306010000 +0800" channel="TV ALHIJRAH">
+<programme start="20210306003000 +0800" stop="20210306010000 +0800" channel="ALHIJRAH">
 <title lang="en">Saat Syahdu</title>
 </programme>
-<programme start="20210306010000 +0800" stop="20210306030000 +0800" channel="TV ALHIJRAH">
+<programme start="20210306010000 +0800" stop="20210306030000 +0800" channel="ALHIJRAH">
 <title lang="en">Alunan Surah-Surah</title>
 </programme>
-<programme start="20210306030000 +0800" stop="20210306050000 +0800" channel="TV ALHIJRAH">
+<programme start="20210306030000 +0800" stop="20210306050000 +0800" channel="ALHIJRAH">
 <title lang="en">Malam Dhijrah</title>
 </programme>
-<programme start="20210306050000 +0800" stop="20210306050500 +0800" channel="TV ALHIJRAH">
+<programme start="20210306050000 +0800" stop="20210306050500 +0800" channel="ALHIJRAH">
 <title lang="en">Doa - Doa</title>
 </programme>
-<programme start="20210306050500 +0800" stop="20210306051000 +0800" channel="TV ALHIJRAH">
+<programme start="20210306050500 +0800" stop="20210306051000 +0800" channel="ALHIJRAH">
 <title lang="en">Selawat - Selawat</title>
 </programme>
-<programme start="20210306051000 +0800" stop="20210306052500 +0800" channel="TV ALHIJRAH">
+<programme start="20210306051000 +0800" stop="20210306052500 +0800" channel="ALHIJRAH">
 <title lang="en">Surah Al Quran</title>
 </programme>
-<programme start="20210306052500 +0800" stop="20210306053000 +0800" channel="TV ALHIJRAH">
+<programme start="20210306052500 +0800" stop="20210306053000 +0800" channel="ALHIJRAH">
 <title lang="en">Zikir - Zikir</title>
 </programme>
-<programme start="20210306053000 +0800" stop="20210306060000 +0800" channel="TV ALHIJRAH">
+<programme start="20210306053000 +0800" stop="20210306060000 +0800" channel="ALHIJRAH">
 <title lang="en">Panggilan Agung Subuh</title>
 </programme>
-<programme start="20210306060000 +0800" stop="20210306070000 +0800" channel="TV ALHIJRAH">
+<programme start="20210306060000 +0800" stop="20210306070000 +0800" channel="ALHIJRAH">
 <title lang="en">Not Available</title>
 </programme>
-<programme start="20210306070000 +0800" stop="20210306093000 +0800" channel="TV ALHIJRAH">
+<programme start="20210306070000 +0800" stop="20210306093000 +0800" channel="ALHIJRAH">
 <title lang="en">Assalamualaikum (L)</title>
 </programme>
-<programme start="20210306093000 +0800" stop="20210306100000 +0800" channel="TV ALHIJRAH">
+<programme start="20210306093000 +0800" stop="20210306100000 +0800" channel="ALHIJRAH">
 <title lang="en">Home Shopping</title>
 </programme>
-<programme start="20210306100000 +0800" stop="20210306110000 +0800" channel="TV ALHIJRAH">
+<programme start="20210306100000 +0800" stop="20210306110000 +0800" channel="ALHIJRAH">
 <title lang="en">Go Shop</title>
 </programme>
-<programme start="20210306110000 +0800" stop="20210306113000 +0800" channel="TV ALHIJRAH">
+<programme start="20210306110000 +0800" stop="20210306113000 +0800" channel="ALHIJRAH">
 <title lang="en">Jom Shoppe</title>
 </programme>
-<programme start="20210306113000 +0800" stop="20210306120000 +0800" channel="TV ALHIJRAH">
+<programme start="20210306113000 +0800" stop="20210306120000 +0800" channel="ALHIJRAH">
 <title lang="en">KAFA D' Hijrah</title>
 </programme>
-<programme start="20210306120000 +0800" stop="20210306130000 +0800" channel="TV ALHIJRAH">
+<programme start="20210306120000 +0800" stop="20210306130000 +0800" channel="ALHIJRAH">
 <title lang="en">Not Available</title>
 </programme>
-<programme start="20210306130000 +0800" stop="20210306133000 +0800" channel="TV ALHIJRAH">
+<programme start="20210306130000 +0800" stop="20210306133000 +0800" channel="ALHIJRAH">
 <title lang="en">Panggilan Agung Zohor</title>
 </programme>
-<programme start="20210306133000 +0800" stop="20210306140000 +0800" channel="TV ALHIJRAH">
+<programme start="20210306133000 +0800" stop="20210306140000 +0800" channel="ALHIJRAH">
 <title lang="en">Home Shopping</title>
 </programme>
-<programme start="20210306140000 +0800" stop="20210306143000 +0800" channel="TV ALHIJRAH">
+<programme start="20210306140000 +0800" stop="20210306143000 +0800" channel="ALHIJRAH">
 <title lang="en">Go Shop</title>
 </programme>
-<programme start="20210306143000 +0800" stop="20210306150000 +0800" channel="TV ALHIJRAH">
+<programme start="20210306143000 +0800" stop="20210306150000 +0800" channel="ALHIJRAH">
 <title lang="en">Go Shop</title>
 </programme>
-<programme start="20210306150000 +0800" stop="20210306153000 +0800" channel="TV ALHIJRAH">
+<programme start="20210306150000 +0800" stop="20210306153000 +0800" channel="ALHIJRAH">
 <title lang="en">Home Shopping</title>
 </programme>
-<programme start="20210306153000 +0800" stop="20210306160000 +0800" channel="TV ALHIJRAH">
+<programme start="20210306153000 +0800" stop="20210306160000 +0800" channel="ALHIJRAH">
 <title lang="en">Home Shopping</title>
 </programme>
-<programme start="20210306160000 +0800" stop="20210306163000 +0800" channel="TV ALHIJRAH">
+<programme start="20210306160000 +0800" stop="20210306163000 +0800" channel="ALHIJRAH">
 <title lang="en">Bazaar...Jom!</title>
 </programme>
-<programme start="20210306163000 +0800" stop="20210306170000 +0800" channel="TV ALHIJRAH">
+<programme start="20210306163000 +0800" stop="20210306170000 +0800" channel="ALHIJRAH">
 <title lang="en">KAFA D' Hijrah</title>
 </programme>
-<programme start="20210306170000 +0800" stop="20210306180000 +0800" channel="TV ALHIJRAH">
+<programme start="20210306170000 +0800" stop="20210306180000 +0800" channel="ALHIJRAH">
 <title lang="en">Not Available</title>
 </programme>
-<programme start="20210306180000 +0800" stop="20210306183000 +0800" channel="TV ALHIJRAH">
+<programme start="20210306180000 +0800" stop="20210306183000 +0800" channel="ALHIJRAH">
 <title lang="en">Cinta Ilmu</title>
 </programme>
-<programme start="20210306183000 +0800" stop="20210306190000 +0800" channel="TV ALHIJRAH">
+<programme start="20210306183000 +0800" stop="20210306190000 +0800" channel="ALHIJRAH">
 <title lang="en">KAFA D' Hijrah</title>
 </programme>
-<programme start="20210306190000 +0800" stop="20210306192500 +0800" channel="TV ALHIJRAH">
+<programme start="20210306190000 +0800" stop="20210306192500 +0800" channel="ALHIJRAH">
 <title lang="en">Panggilan Agung Maghrib</title>
 </programme>
-<programme start="20210306192500 +0800" stop="20210306193000 +0800" channel="TV ALHIJRAH">
+<programme start="20210306192500 +0800" stop="20210306193000 +0800" channel="ALHIJRAH">
 <title lang="en">Nasa'ih Jiwa</title>
 </programme>
-<programme start="20210306193000 +0800" stop="20210306200000 +0800" channel="TV ALHIJRAH">
+<programme start="20210306193000 +0800" stop="20210306200000 +0800" channel="ALHIJRAH">
 <title lang="en">Haflah Al- Quran</title>
 </programme>
-<programme start="20210306200000 +0800" stop="20210306204500 +0800" channel="TV ALHIJRAH">
+<programme start="20210306200000 +0800" stop="20210306204500 +0800" channel="ALHIJRAH">
 <title lang="en">Berita Alhijrah (L)</title>
 </programme>
-<programme start="20210306204500 +0800" stop="20210306210000 +0800" channel="TV ALHIJRAH">
+<programme start="20210306204500 +0800" stop="20210306210000 +0800" channel="ALHIJRAH">
 <title lang="en">Global Arab</title>
 </programme>
-<programme start="20210306210000 +0800" stop="20210306230000 +0800" channel="TV ALHIJRAH">
+<programme start="20210306210000 +0800" stop="20210306230000 +0800" channel="ALHIJRAH">
 <title lang="en">Ayu Anak Titipan Syurga</title>
 </programme>
-<programme start="20210306230000 +0800" stop="20210307000000 +0800" channel="TV ALHIJRAH">
+<programme start="20210306230000 +0800" stop="20210307000000 +0800" channel="ALHIJRAH">
 <title lang="en">Not Available</title>
 </programme>
 
