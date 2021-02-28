@@ -22,10 +22,10 @@ https://rtmsportshdmobile.secureswiftcontent.com/Origin02/ngrp:RTM2/playlist.m3u
 https://raw.githubusercontent.com/msolihinam/tv/main/ntv7.m3u8|Referer=https://www.dailymotion.com/embed/video/kxm1wihUkjNiINrAqlg
 
 #EXTINF:108, tvg-id="" tvg-logo="https://raw.githubusercontent.com/msolihinam/tv/main/logo/8TV.png" tvg-name="8TV"  group-title="MALAYSIA",8TV
-https://raw.githubusercontent.com/msolihinam/tv/main/8tv.m3u8|Referer=https://www.dailymotion.com/embed/video/kdFzSYy1bHxrForBrar
+http://50.7.161.82:8278/streams/d/TV8/playlist.m3u8
 
 #EXTINF:109, tvg-id="" tvg-logo="https://raw.githubusercontent.com/msolihinam/tv/main/logo/TV9.png" tvg-name="TV9"  group-title="MALAYSIA",TV9
-https://raw.githubusercontent.com/msolihinam/tv/main/tv9.m3u8|Referer=https://www.dailymotion.com/embed/video/k1FijVynGNsZ2ZrAGJ0
+http://50.7.161.82:8278/streams/d/TV9/playlist.m3u8
 
 #EXTINF:110, tvg-id="" tvg-logo="https://raw.githubusercontent.com/msolihinam/tv/main/logo/Okey.png" tvg-name="TV OKEY"  group-title="MALAYSIA",TV OKEY
 https://rtmokeymobile.secureswiftcontent.com/Origin02/ngrp:RTM2/playlist.m3u8
