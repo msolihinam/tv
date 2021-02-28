@@ -7750,7 +7750,485 @@
 <display-name lang="en">ASTRO CERIA</display-name>
 <url>mohdsolihin</url>
 </channel>
-
+<programme start="20210228080000 +0800" stop="20210228080300 +0800" channel="CERIA"><title lang="en">Didi & Friends S3 (Mandi)</title></programme>
+<programme start="20210228080300 +0800" stop="20210228080600 +0800" channel="CERIA"><title lang="en">Didi & Friends S3 (Kek Aunty Merry)</title></programme>
+<programme start="20210228080600 +0800" stop="20210228080900 +0800" channel="CERIA"><title lang="en">Didi & Friends S3 (Mana Bingo)</title></programme>
+<programme start="20210228080900 +0800" stop="20210228081200 +0800" channel="CERIA"><title lang="en">Didi & Friends S3 (Nasihat Nenek)</title></programme>
+<programme start="20210228081200 +0800" stop="20210228081500 +0800" channel="CERIA"><title lang="en">Didi & Friends S3 (Goyang-Goyang Tulang)</title></programme>
+<programme start="20210228081500 +0800" stop="20210228082000 +0800" channel="CERIA"><title lang="en">Larva</title></programme>
+<programme start="20210228082000 +0800" stop="20210228082500 +0800" channel="CERIA"><title lang="en">Larva</title></programme>
+<programme start="20210228082500 +0800" stop="20210228083000 +0800" channel="CERIA"><title lang="en">Larva</title></programme>
+<programme start="20210228083000 +0800" stop="20210228084500 +0800" channel="CERIA"><title lang="en">Tayo The Little Bus</title></programme>
+<programme start="20210228084500 +0800" stop="20210228090000 +0800" channel="CERIA"><title lang="en">Tayo The Little Bus</title></programme>
+<programme start="20210228090000 +0800" stop="20210228091500 +0800" channel="CERIA"><title lang="en">Boing The Play Ranger</title></programme>
+<programme start="20210228091500 +0800" stop="20210228093000 +0800" channel="CERIA"><title lang="en">Go Go Bus</title></programme>
+<programme start="20210228093000 +0800" stop="20210228100000 +0800" channel="CERIA"><title lang="en">My Little Pony</title></programme>
+<programme start="20210228100000 +0800" stop="20210228103000 +0800" channel="CERIA"><title lang="en">Geng Gajet</title></programme>
+<programme start="20210228103000 +0800" stop="20210228110000 +0800" channel="CERIA"><title lang="en">Fam I Love You</title></programme>
+<programme start="20210228110000 +0800" stop="20210228110200 +0800" channel="CERIA"><title lang="en">Omar & Hana S1 (Sayang Allah dan Nabi)</title></programme>
+<programme start="20210228110200 +0800" stop="20210228110400 +0800" channel="CERIA"><title lang="en">Omar & Hana S1 (Hormati yang Tua)</title></programme>
+<programme start="20210228110400 +0800" stop="20210228110700 +0800" channel="CERIA"><title lang="en">Omar & Hana S2 (Contohi Nabi Kita)</title></programme>
+<programme start="20210228110700 +0800" stop="20210228111000 +0800" channel="CERIA"><title lang="en">Omar & Hana Solat Pertama Saya</title></programme>
+<programme start="20210228111000 +0800" stop="20210228112000 +0800" channel="CERIA"><title lang="en">Kisah Omar & Hana S1 (Kotak Apa Ni?)</title></programme>
+<programme start="20210228112000 +0800" stop="20210228113000 +0800" channel="CERIA"><title lang="en">Kisah Omar & Hana S1 (Tanam Kentang)</title></programme>
+<programme start="20210228113000 +0800" stop="20210228113200 +0800" channel="CERIA"><title lang="en">Didi & Friends S5 (Adoi Doi Zombie)</title></programme>
+<programme start="20210228113200 +0800" stop="20210228113400 +0800" channel="CERIA"><title lang="en">Didi & Friends S5 (Adoi Doi Zombie)</title></programme>
+<programme start="20210228113400 +0800" stop="20210228113600 +0800" channel="CERIA"><title lang="en">Didi & Friends S5 (Atuk Nenek Lagenda)</title></programme>
+<programme start="20210228113600 +0800" stop="20210228113800 +0800" channel="CERIA"><title lang="en">Didi & Friends S4 (Musim Salji)</title></programme>
+<programme start="20210228113800 +0800" stop="20210228114000 +0800" channel="CERIA"><title lang="en">Didi & Friends</title></programme>
+<programme start="20210228114000 +0800" stop="20210228115000 +0800" channel="CERIA"><title lang="en">Didi & Friends Series</title></programme>
+<programme start="20210228115000 +0800" stop="20210228120000 +0800" channel="CERIA"><title lang="en">Didi & Friends Series</title></programme>
+<programme start="20210228120000 +0800" stop="20210228121500 +0800" channel="CERIA"><title lang="en">Super Wings</title></programme>
+<programme start="20210228121500 +0800" stop="20210228123000 +0800" channel="CERIA"><title lang="en">Super Wings</title></programme>
+<programme start="20210228123000 +0800" stop="20210228124500 +0800" channel="CERIA"><title lang="en">Tayo The Little Bus</title></programme>
+<programme start="20210228124500 +0800" stop="20210228130000 +0800" channel="CERIA"><title lang="en">Tayo The Little Bus</title></programme>
+<programme start="20210228130000 +0800" stop="20210228131000 +0800" channel="CERIA"><title lang="en">Lepak@Les'Copaque (Pada Zaman Dahulu</title></programme>
+<programme start="20210228131000 +0800" stop="20210228132000 +0800" channel="CERIA"><title lang="en">Lepak@Les'Copaque (Pada Zaman Dahulu</title></programme>
+<programme start="20210228132000 +0800" stop="20210228133000 +0800" channel="CERIA"><title lang="en">Lepak@Les'Copaque (Pada Zaman Dahulu</title></programme>
+<programme start="20210228133000 +0800" stop="20210228134000 +0800" channel="CERIA"><title lang="en">Lepak@Les'Copaque (Pada Zaman Dahulu</title></programme>
+<programme start="20210228134000 +0800" stop="20210228135000 +0800" channel="CERIA"><title lang="en">Lepak@Les'Copaque (Pada Zaman Dahulu</title></programme>
+<programme start="20210228135000 +0800" stop="20210228140000 +0800" channel="CERIA"><title lang="en">Lepak@Les'Copaque (Pada Zaman Dahulu</title></programme>
+<programme start="20210228140000 +0800" stop="20210228143000 +0800" channel="CERIA"><title lang="en">New Doraemon</title></programme>
+<programme start="20210228143000 +0800" stop="20210228150000 +0800" channel="CERIA"><title lang="en">New Doraemon</title></programme>
+<programme start="20210228150000 +0800" stop="20210228153000 +0800" channel="CERIA"><title lang="en">Tsurupika Hagemaru</title></programme>
+<programme start="20210228153000 +0800" stop="20210228160000 +0800" channel="CERIA"><title lang="en">Tsurupika Hagemaru</title></programme>
+<programme start="20210228160000 +0800" stop="20210228163000 +0800" channel="CERIA"><title lang="en">Yo-kai Watch</title></programme>
+<programme start="20210228163000 +0800" stop="20210228170000 +0800" channel="CERIA"><title lang="en">Robozeta</title></programme>
+<programme start="20210228170000 +0800" stop="20210228173000 +0800" channel="CERIA"><title lang="en">Ultraman Taiga Series</title></programme>
+<programme start="20210228173000 +0800" stop="20210228180000 +0800" channel="CERIA"><title lang="en">Kampung Boy</title></programme>
+<programme start="20210228180000 +0800" stop="20210228183000 +0800" channel="CERIA"><title lang="en">Fam I Love You</title></programme>
+<programme start="20210228183000 +0800" stop="20210228190000 +0800" channel="CERIA"><title lang="en">Geng Gajet</title></programme>
+<programme start="20210228190000 +0800" stop="20210228193000 +0800" channel="CERIA"><title lang="en">Power Rangers Beast Morphers</title></programme>
+<programme start="20210228193000 +0800" stop="20210228200000 +0800" channel="CERIA"><title lang="en">Zoids Wild</title></programme>
+<programme start="20210228200000 +0800" stop="20210228203000 +0800" channel="CERIA"><title lang="en">Tsurupika Hagemaru</title></programme>
+<programme start="20210228203000 +0800" stop="20210228210000 +0800" channel="CERIA"><title lang="en">New Doraemon</title></programme>
+<programme start="20210228210000 +0800" stop="20210228213000 +0800" channel="CERIA"><title lang="en">Fam I Love You</title></programme>
+<programme start="20210228213000 +0800" stop="20210228230000 +0800" channel="CERIA"><title lang="en">Super Geng Boy Geng Fixie</title></programme>
+<programme start="20210228230000 +0800" stop="20210228233000 +0800" channel="CERIA"><title lang="en">Strawberi Karipap Musim 3</title></programme>
+<programme start="20210228233000 +0800" stop="20210301000000 +0800" channel="CERIA"><title lang="en">Dee The Series</title></programme>
+<programme start="20210301080000 +0800" stop="20210301080300 +0800" channel="CERIA"><title lang="en">Didi & Friends S3 (Dunia Abjad)</title></programme>
+<programme start="20210301080300 +0800" stop="20210301080600 +0800" channel="CERIA"><title lang="en">Didi & Friends S3 (Dengarlah Kata Ibu)</title></programme>
+<programme start="20210301080600 +0800" stop="20210301080900 +0800" channel="CERIA"><title lang="en">Didi & Friends S3 (Tik Tok)</title></programme>
+<programme start="20210301080900 +0800" stop="20210301081200 +0800" channel="CERIA"><title lang="en">Didi & Friends S3 (Wahai Cikgu)</title></programme>
+<programme start="20210301081200 +0800" stop="20210301081500 +0800" channel="CERIA"><title lang="en">Didi & Friends S3 (Joni Joni Ya Papa)</title></programme>
+<programme start="20210301081500 +0800" stop="20210301082300 +0800" channel="CERIA"><title lang="en">Cam & Leon</title></programme>
+<programme start="20210301082300 +0800" stop="20210301083000 +0800" channel="CERIA"><title lang="en">Cam & Leon</title></programme>
+<programme start="20210301083000 +0800" stop="20210301083200 +0800" channel="CERIA"><title lang="en">Larva</title></programme>
+<programme start="20210301083200 +0800" stop="20210301083300 +0800" channel="CERIA"><title lang="en">Larva</title></programme>
+<programme start="20210301083300 +0800" stop="20210301083400 +0800" channel="CERIA"><title lang="en">Larva</title></programme>
+<programme start="20210301083400 +0800" stop="20210301083600 +0800" channel="CERIA"><title lang="en">Larva</title></programme>
+<programme start="20210301083600 +0800" stop="20210301083800 +0800" channel="CERIA"><title lang="en">Larva</title></programme>
+<programme start="20210301083800 +0800" stop="20210301083900 +0800" channel="CERIA"><title lang="en">Larva</title></programme>
+<programme start="20210301083900 +0800" stop="20210301084000 +0800" channel="CERIA"><title lang="en">Larva</title></programme>
+<programme start="20210301084000 +0800" stop="20210301084100 +0800" channel="CERIA"><title lang="en">Larva</title></programme>
+<programme start="20210301084100 +0800" stop="20210301084200 +0800" channel="CERIA"><title lang="en">Larva</title></programme>
+<programme start="20210301084200 +0800" stop="20210301084300 +0800" channel="CERIA"><title lang="en">Larva</title></programme>
+<programme start="20210301084300 +0800" stop="20210301084500 +0800" channel="CERIA"><title lang="en">Larva</title></programme>
+<programme start="20210301084500 +0800" stop="20210301090000 +0800" channel="CERIA"><title lang="en">Pinkfong Wonderstar</title></programme>
+<programme start="20210301090000 +0800" stop="20210301091500 +0800" channel="CERIA"><title lang="en">Tayo The Little Bus</title></programme>
+<programme start="20210301091500 +0800" stop="20210301093000 +0800" channel="CERIA"><title lang="en">Tayo The Little Bus</title></programme>
+<programme start="20210301093000 +0800" stop="20210301094500 +0800" channel="CERIA"><title lang="en">Go Go Bus</title></programme>
+<programme start="20210301094500 +0800" stop="20210301100000 +0800" channel="CERIA"><title lang="en">Boing The Play Ranger</title></programme>
+<programme start="20210301100000 +0800" stop="20210301103000 +0800" channel="CERIA"><title lang="en">My Little Pony</title></programme>
+<programme start="20210301103000 +0800" stop="20210301103100 +0800" channel="CERIA"><title lang="en">Where's Chicky?</title></programme>
+<programme start="20210301103100 +0800" stop="20210301103200 +0800" channel="CERIA"><title lang="en">Where's Chicky?</title></programme>
+<programme start="20210301103200 +0800" stop="20210301103300 +0800" channel="CERIA"><title lang="en">Where's Chicky?</title></programme>
+<programme start="20210301103300 +0800" stop="20210301103500 +0800" channel="CERIA"><title lang="en">Where's Chicky?</title></programme>
+<programme start="20210301103500 +0800" stop="20210301104200 +0800" channel="CERIA"><title lang="en">Cam & Leon</title></programme>
+<programme start="20210301104200 +0800" stop="20210301105000 +0800" channel="CERIA"><title lang="en">Cam & Leon</title></programme>
+<programme start="20210301105000 +0800" stop="20210301105600 +0800" channel="CERIA"><title lang="en">The Adventures of Nasredin</title></programme>
+<programme start="20210301105600 +0800" stop="20210301110000 +0800" channel="CERIA"><title lang="en">Pinkfong Brush Your Teeth Kit & Songs</title></programme>
+<programme start="20210301110000 +0800" stop="20210301110200 +0800" channel="CERIA"><title lang="en">Didi & Friends S5 (Adoi Doi Zombie)</title></programme>
+<programme start="20210301110200 +0800" stop="20210301110400 +0800" channel="CERIA"><title lang="en">Didi & Friends S5 (Video Game)</title></programme>
+<programme start="20210301110400 +0800" stop="20210301110600 +0800" channel="CERIA"><title lang="en">Didi & Friends S5 (Oh Tandas)</title></programme>
+<programme start="20210301110600 +0800" stop="20210301110800 +0800" channel="CERIA"><title lang="en">Didi & Friends (Rasa Sayang)</title></programme>
+<programme start="20210301110800 +0800" stop="20210301111000 +0800" channel="CERIA"><title lang="en">Didi & Friends (Tayar Bas)</title></programme>
+<programme start="20210301111000 +0800" stop="20210301112000 +0800" channel="CERIA"><title lang="en">Didi & Friends Series</title></programme>
+<programme start="20210301112000 +0800" stop="20210301113000 +0800" channel="CERIA"><title lang="en">Didi & Friends Series</title></programme>
+<programme start="20210301113000 +0800" stop="20210301113200 +0800" channel="CERIA"><title lang="en">Omar & Hana</title></programme>
+<programme start="20210301113200 +0800" stop="20210301113400 +0800" channel="CERIA"><title lang="en">Omar & Hana</title></programme>
+<programme start="20210301113400 +0800" stop="20210301113700 +0800" channel="CERIA"><title lang="en">Omar & Hana</title></programme>
+<programme start="20210301113700 +0800" stop="20210301114100 +0800" channel="CERIA"><title lang="en">Omar & Hana</title></programme>
+<programme start="20210301114100 +0800" stop="20210301115000 +0800" channel="CERIA"><title lang="en">Kisah Omar & Hana</title></programme>
+<programme start="20210301115000 +0800" stop="20210301120000 +0800" channel="CERIA"><title lang="en">Kisah Omar & Hana S1 (Jus Viral)</title></programme>
+<programme start="20210301120000 +0800" stop="20210301121500 +0800" channel="CERIA"><title lang="en">Tayo The Little Bus</title></programme>
+<programme start="20210301121500 +0800" stop="20210301123000 +0800" channel="CERIA"><title lang="en">Tayo The Little Bus</title></programme>
+<programme start="20210301123000 +0800" stop="20210301124500 +0800" channel="CERIA"><title lang="en">Pinkfong Wonderstar</title></programme>
+<programme start="20210301124500 +0800" stop="20210301130000 +0800" channel="CERIA"><title lang="en">Super Wings</title></programme>
+<programme start="20210301130000 +0800" stop="20210301131000 +0800" channel="CERIA"><title lang="en">Upin & Ipin</title></programme>
+<programme start="20210301131000 +0800" stop="20210301132000 +0800" channel="CERIA"><title lang="en">Upin & Ipin</title></programme>
+<programme start="20210301132000 +0800" stop="20210301133000 +0800" channel="CERIA"><title lang="en">Upin & Ipin</title></programme>
+<programme start="20210301133000 +0800" stop="20210301134000 +0800" channel="CERIA"><title lang="en">Upin & Ipin</title></programme>
+<programme start="20210301134000 +0800" stop="20210301135000 +0800" channel="CERIA"><title lang="en">Upin & Ipin</title></programme>
+<programme start="20210301135000 +0800" stop="20210301140000 +0800" channel="CERIA"><title lang="en">Upin & Ipin</title></programme>
+<programme start="20210301140000 +0800" stop="20210301143000 +0800" channel="CERIA"><title lang="en">New Doraemon</title></programme>
+<programme start="20210301143000 +0800" stop="20210301150000 +0800" channel="CERIA"><title lang="en">New Doraemon</title></programme>
+<programme start="20210301150000 +0800" stop="20210301153000 +0800" channel="CERIA"><title lang="en">Tsurupika Hagemaru</title></programme>
+<programme start="20210301153000 +0800" stop="20210301160000 +0800" channel="CERIA"><title lang="en">Tsurupika Hagemaru</title></programme>
+<programme start="20210301160000 +0800" stop="20210301163000 +0800" channel="CERIA"><title lang="en">Yo-kai Watch</title></programme>
+<programme start="20210301163000 +0800" stop="20210301164500 +0800" channel="CERIA"><title lang="en">Go Astro Boy Go</title></programme>
+<programme start="20210301164500 +0800" stop="20210301170000 +0800" channel="CERIA"><title lang="en">Go Astro Boy Go</title></programme>
+<programme start="20210301170000 +0800" stop="20210301173000 +0800" channel="CERIA"><title lang="en">Ultraman R/B</title></programme>
+<programme start="20210301173000 +0800" stop="20210301174500 +0800" channel="CERIA"><title lang="en">Sejarah Tahun 6</title></programme>
+<programme start="20210301174500 +0800" stop="20210301180000 +0800" channel="CERIA"><title lang="en">Sejarah Tahun 6</title></programme>
+<programme start="20210301180000 +0800" stop="20210301183000 +0800" channel="CERIA"><title lang="en">Generasi Gamerz</title></programme>
+<programme start="20210301183000 +0800" stop="20210301190000 +0800" channel="CERIA"><title lang="en">SMK Study Squad</title></programme>
+<programme start="20210301190000 +0800" stop="20210301193000 +0800" channel="CERIA"><title lang="en">Ultraman Taiga Series</title></programme>
+<programme start="20210301193000 +0800" stop="20210301200000 +0800" channel="CERIA"><title lang="en">Zoids Wild</title></programme>
+<programme start="20210301200000 +0800" stop="20210301203000 +0800" channel="CERIA"><title lang="en">New Doraemon</title></programme>
+<programme start="20210301203000 +0800" stop="20210301210000 +0800" channel="CERIA"><title lang="en">Fam I Love You</title></programme>
+<programme start="20210301210000 +0800" stop="20210301223000 +0800" channel="CERIA"><title lang="en">Perisik Cilik</title></programme>
+<programme start="20210301223000 +0800" stop="20210301230000 +0800" channel="CERIA"><title lang="en">Strawberi Karipap Musim 3</title></programme>
+<programme start="20210301230000 +0800" stop="20210301233000 +0800" channel="CERIA"><title lang="en">Ultraman Taiga Series</title></programme>
+<programme start="20210301233000 +0800" stop="20210302000000 +0800" channel="CERIA"><title lang="en">Power Rangers Beast Morphers</title></programme>
+<programme start="20210302080000 +0800" stop="20210302080300 +0800" channel="CERIA"><title lang="en">Didi & Friends S3 (Bersenam Pagi)</title></programme>
+<programme start="20210302080300 +0800" stop="20210302080600 +0800" channel="CERIA"><title lang="en">Didi & Friends S3 (10 Biji Durian)</title></programme>
+<programme start="20210302080600 +0800" stop="20210302080900 +0800" channel="CERIA"><title lang="en">Didi & Friends S3 (Menari Dan Berhenti)</title></programme>
+<programme start="20210302080900 +0800" stop="20210302081200 +0800" channel="CERIA"><title lang="en">Didi & Friends S3 (Oh Didi)</title></programme>
+<programme start="20210302081200 +0800" stop="20210302081500 +0800" channel="CERIA"><title lang="en">Didi & Friends S3 (Di Mana Kimi)</title></programme>
+<programme start="20210302081500 +0800" stop="20210302082300 +0800" channel="CERIA"><title lang="en">Cam & Leon</title></programme>
+<programme start="20210302082300 +0800" stop="20210302083000 +0800" channel="CERIA"><title lang="en">Cam & Leon</title></programme>
+<programme start="20210302083000 +0800" stop="20210302083200 +0800" channel="CERIA"><title lang="en">Larva</title></programme>
+<programme start="20210302083200 +0800" stop="20210302083300 +0800" channel="CERIA"><title lang="en">Larva</title></programme>
+<programme start="20210302083300 +0800" stop="20210302083400 +0800" channel="CERIA"><title lang="en">Larva</title></programme>
+<programme start="20210302083400 +0800" stop="20210302083600 +0800" channel="CERIA"><title lang="en">Larva</title></programme>
+<programme start="20210302083600 +0800" stop="20210302083900 +0800" channel="CERIA"><title lang="en">Larva</title></programme>
+<programme start="20210302083900 +0800" stop="20210302084000 +0800" channel="CERIA"><title lang="en">Larva</title></programme>
+<programme start="20210302084000 +0800" stop="20210302084100 +0800" channel="CERIA"><title lang="en">Larva</title></programme>
+<programme start="20210302084100 +0800" stop="20210302084200 +0800" channel="CERIA"><title lang="en">Larva</title></programme>
+<programme start="20210302084200 +0800" stop="20210302084300 +0800" channel="CERIA"><title lang="en">Larva</title></programme>
+<programme start="20210302084300 +0800" stop="20210302084500 +0800" channel="CERIA"><title lang="en">Larva</title></programme>
+<programme start="20210302084500 +0800" stop="20210302090000 +0800" channel="CERIA"><title lang="en">Pinkfong Wonderstar</title></programme>
+<programme start="20210302090000 +0800" stop="20210302091500 +0800" channel="CERIA"><title lang="en">Tayo The Little Bus</title></programme>
+<programme start="20210302091500 +0800" stop="20210302093000 +0800" channel="CERIA"><title lang="en">Tayo The Little Bus</title></programme>
+<programme start="20210302093000 +0800" stop="20210302094500 +0800" channel="CERIA"><title lang="en">Go Go Bus</title></programme>
+<programme start="20210302094500 +0800" stop="20210302100000 +0800" channel="CERIA"><title lang="en">Boing The Play Ranger</title></programme>
+<programme start="20210302100000 +0800" stop="20210302103000 +0800" channel="CERIA"><title lang="en">My Little Pony</title></programme>
+<programme start="20210302103000 +0800" stop="20210302103100 +0800" channel="CERIA"><title lang="en">Where's Chicky?</title></programme>
+<programme start="20210302103100 +0800" stop="20210302103200 +0800" channel="CERIA"><title lang="en">Where's Chicky?</title></programme>
+<programme start="20210302103200 +0800" stop="20210302103300 +0800" channel="CERIA"><title lang="en">Where's Chicky?</title></programme>
+<programme start="20210302103300 +0800" stop="20210302103500 +0800" channel="CERIA"><title lang="en">Where's Chicky?</title></programme>
+<programme start="20210302103500 +0800" stop="20210302104200 +0800" channel="CERIA"><title lang="en">Cam & Leon</title></programme>
+<programme start="20210302104200 +0800" stop="20210302105000 +0800" channel="CERIA"><title lang="en">Cam & Leon</title></programme>
+<programme start="20210302105000 +0800" stop="20210302105600 +0800" channel="CERIA"><title lang="en">The Adventures of Nasredin</title></programme>
+<programme start="20210302105600 +0800" stop="20210302110000 +0800" channel="CERIA"><title lang="en">Pinkfong Bath Time Kit & Songs</title></programme>
+<programme start="20210302110000 +0800" stop="20210302110200 +0800" channel="CERIA"><title lang="en">Didi & Friends S5 (Rawr Rawr Raksasa)</title></programme>
+<programme start="20210302110200 +0800" stop="20210302110400 +0800" channel="CERIA"><title lang="en">Didi & Friends S5 (Kejar Impian)</title></programme>
+<programme start="20210302110400 +0800" stop="20210302110600 +0800" channel="CERIA"><title lang="en">Didi & Friends S5 (Adoi Doi Zombie)</title></programme>
+<programme start="20210302110600 +0800" stop="20210302110800 +0800" channel="CERIA"><title lang="en">Didi & Friends (Bintang-Bintang)</title></programme>
+<programme start="20210302110800 +0800" stop="20210302111000 +0800" channel="CERIA"><title lang="en">Didi & Friends (Bingo)</title></programme>
+<programme start="20210302111000 +0800" stop="20210302112000 +0800" channel="CERIA"><title lang="en">Didi & Friends Series</title></programme>
+<programme start="20210302112000 +0800" stop="20210302113000 +0800" channel="CERIA"><title lang="en">Didi & Friends Series</title></programme>
+<programme start="20210302113000 +0800" stop="20210302113200 +0800" channel="CERIA"><title lang="en">Omar & Hana</title></programme>
+<programme start="20210302113200 +0800" stop="20210302113400 +0800" channel="CERIA"><title lang="en">Omar & Hana S1 (Zikir Tidur)</title></programme>
+<programme start="20210302113400 +0800" stop="20210302113600 +0800" channel="CERIA"><title lang="en">Omar & Hana S2 (Sabar Bila Marah)</title></programme>
+<programme start="20210302113600 +0800" stop="20210302113800 +0800" channel="CERIA"><title lang="en">Omar & Hana Solat Pertama Saya</title></programme>
+<programme start="20210302113800 +0800" stop="20210302114100 +0800" channel="CERIA"><title lang="en">Omar & Hana S2 (Contohi Nabi Kita)</title></programme>
+<programme start="20210302114100 +0800" stop="20210302115000 +0800" channel="CERIA"><title lang="en">Kisah Omar & Hana S1 (Main Basikal)</title></programme>
+<programme start="20210302115000 +0800" stop="20210302120000 +0800" channel="CERIA"><title lang="en">Kisah Omar & Hana S1 (Bunyi Apa Tu?)</title></programme>
+<programme start="20210302120000 +0800" stop="20210302121500 +0800" channel="CERIA"><title lang="en">Tayo The Little Bus</title></programme>
+<programme start="20210302121500 +0800" stop="20210302123000 +0800" channel="CERIA"><title lang="en">Tayo The Little Bus</title></programme>
+<programme start="20210302123000 +0800" stop="20210302124500 +0800" channel="CERIA"><title lang="en">Pinkfong Wonderstar</title></programme>
+<programme start="20210302124500 +0800" stop="20210302130000 +0800" channel="CERIA"><title lang="en">Super Wings</title></programme>
+<programme start="20210302130000 +0800" stop="20210302131000 +0800" channel="CERIA"><title lang="en">Upin & Ipin</title></programme>
+<programme start="20210302131000 +0800" stop="20210302132000 +0800" channel="CERIA"><title lang="en">Upin & Ipin</title></programme>
+<programme start="20210302132000 +0800" stop="20210302133000 +0800" channel="CERIA"><title lang="en">Upin & Ipin</title></programme>
+<programme start="20210302133000 +0800" stop="20210302134000 +0800" channel="CERIA"><title lang="en">Lepak @ Les'Copaque(Upin & Ipin</title></programme>
+<programme start="20210302134000 +0800" stop="20210302135000 +0800" channel="CERIA"><title lang="en">Lepak @ Les'Copaque(Upin & Ipin</title></programme>
+<programme start="20210302135000 +0800" stop="20210302140000 +0800" channel="CERIA"><title lang="en">Lepak @ Les'Copaque(Upin & Ipin</title></programme>
+<programme start="20210302140000 +0800" stop="20210302143000 +0800" channel="CERIA"><title lang="en">New Doraemon</title></programme>
+<programme start="20210302143000 +0800" stop="20210302150000 +0800" channel="CERIA"><title lang="en">New Doraemon</title></programme>
+<programme start="20210302150000 +0800" stop="20210302153000 +0800" channel="CERIA"><title lang="en">Tsurupika Hagemaru</title></programme>
+<programme start="20210302153000 +0800" stop="20210302160000 +0800" channel="CERIA"><title lang="en">Tsurupika Hagemaru</title></programme>
+<programme start="20210302160000 +0800" stop="20210302163000 +0800" channel="CERIA"><title lang="en">Yo-kai Watch</title></programme>
+<programme start="20210302163000 +0800" stop="20210302164500 +0800" channel="CERIA"><title lang="en">Go Astro Boy Go</title></programme>
+<programme start="20210302164500 +0800" stop="20210302170000 +0800" channel="CERIA"><title lang="en">Go Astro Boy Go</title></programme>
+<programme start="20210302170000 +0800" stop="20210302173000 +0800" channel="CERIA"><title lang="en">Ultraman R/B</title></programme>
+<programme start="20210302173000 +0800" stop="20210302174000 +0800" channel="CERIA"><title lang="en">Sains Tahun 1</title></programme>
+<programme start="20210302174000 +0800" stop="20210302174500 +0800" channel="CERIA"><title lang="en">Sains Tahun 1</title></programme>
+<programme start="20210302174500 +0800" stop="20210302180000 +0800" channel="CERIA"><title lang="en">Sains Tahun 1</title></programme>
+<programme start="20210302180000 +0800" stop="20210302183000 +0800" channel="CERIA"><title lang="en">Fam I Love You</title></programme>
+<programme start="20210302183000 +0800" stop="20210302190000 +0800" channel="CERIA"><title lang="en">Geng Gajet</title></programme>
+<programme start="20210302190000 +0800" stop="20210302193000 +0800" channel="CERIA"><title lang="en">Ultraman Taiga Series</title></programme>
+<programme start="20210302193000 +0800" stop="20210302200000 +0800" channel="CERIA"><title lang="en">Zoids Wild</title></programme>
+<programme start="20210302200000 +0800" stop="20210302203000 +0800" channel="CERIA"><title lang="en">New Doraemon</title></programme>
+<programme start="20210302203000 +0800" stop="20210302210000 +0800" channel="CERIA"><title lang="en">Tsurupika Hagemaru</title></programme>
+<programme start="20210302210000 +0800" stop="20210302213000 +0800" channel="CERIA"><title lang="en">Generasi Gamerz</title></programme>
+<programme start="20210302213000 +0800" stop="20210302220000 +0800" channel="CERIA"><title lang="en">Geng Gajet</title></programme>
+<programme start="20210302220000 +0800" stop="20210302223000 +0800" channel="CERIA"><title lang="en">Dee The Series</title></programme>
+<programme start="20210302223000 +0800" stop="20210302230000 +0800" channel="CERIA"><title lang="en">Strawberi Karipap Musim 3</title></programme>
+<programme start="20210302230000 +0800" stop="20210302233000 +0800" channel="CERIA"><title lang="en">Ultraman Taiga Series</title></programme>
+<programme start="20210302233000 +0800" stop="20210303000000 +0800" channel="CERIA"><title lang="en">Power Rangers Beast Morphers</title></programme>
+<programme start="20210303080000 +0800" stop="20210303080300 +0800" channel="CERIA"><title lang="en">Didi & Friends S3 (Oh Bobot)</title></programme>
+<programme start="20210303080300 +0800" stop="20210303080600 +0800" channel="CERIA"><title lang="en">Didi & Friends S3 (Keretapi Didi)</title></programme>
+<programme start="20210303080600 +0800" stop="20210303080900 +0800" channel="CERIA"><title lang="en">Didi & Friends S3 (Raja Yang Gembira)</title></programme>
+<programme start="20210303080900 +0800" stop="20210303081200 +0800" channel="CERIA"><title lang="en">Didi & Friends S3 (Badan Burung)</title></programme>
+<programme start="20210303081200 +0800" stop="20210303081500 +0800" channel="CERIA"><title lang="en">Didi & Friends S3 (Tong Tong Tong)</title></programme>
+<programme start="20210303081500 +0800" stop="20210303082300 +0800" channel="CERIA"><title lang="en">Cam & Leon</title></programme>
+<programme start="20210303082300 +0800" stop="20210303083000 +0800" channel="CERIA"><title lang="en">Cam & Leon</title></programme>
+<programme start="20210303083000 +0800" stop="20210303083300 +0800" channel="CERIA"><title lang="en">Larva</title></programme>
+<programme start="20210303083300 +0800" stop="20210303083600 +0800" channel="CERIA"><title lang="en">Larva</title></programme>
+<programme start="20210303083600 +0800" stop="20210303083900 +0800" channel="CERIA"><title lang="en">Larva</title></programme>
+<programme start="20210303083900 +0800" stop="20210303084100 +0800" channel="CERIA"><title lang="en">Larva</title></programme>
+<programme start="20210303084100 +0800" stop="20210303084300 +0800" channel="CERIA"><title lang="en">Larva</title></programme>
+<programme start="20210303084300 +0800" stop="20210303084500 +0800" channel="CERIA"><title lang="en">Larva</title></programme>
+<programme start="20210303084500 +0800" stop="20210303090000 +0800" channel="CERIA"><title lang="en">Pinkfong Wonderstar</title></programme>
+<programme start="20210303090000 +0800" stop="20210303091500 +0800" channel="CERIA"><title lang="en">Tayo The Little Bus</title></programme>
+<programme start="20210303091500 +0800" stop="20210303093000 +0800" channel="CERIA"><title lang="en">Tayo The Little Bus</title></programme>
+<programme start="20210303093000 +0800" stop="20210303094500 +0800" channel="CERIA"><title lang="en">Go Go Bus</title></programme>
+<programme start="20210303094500 +0800" stop="20210303100000 +0800" channel="CERIA"><title lang="en">Boing The Play Ranger</title></programme>
+<programme start="20210303100000 +0800" stop="20210303103000 +0800" channel="CERIA"><title lang="en">My Little Pony</title></programme>
+<programme start="20210303103000 +0800" stop="20210303103100 +0800" channel="CERIA"><title lang="en">Where's Chicky?</title></programme>
+<programme start="20210303103100 +0800" stop="20210303103200 +0800" channel="CERIA"><title lang="en">Where's Chicky?</title></programme>
+<programme start="20210303103200 +0800" stop="20210303103300 +0800" channel="CERIA"><title lang="en">Where's Chicky?</title></programme>
+<programme start="20210303103300 +0800" stop="20210303103500 +0800" channel="CERIA"><title lang="en">Where's Chicky?</title></programme>
+<programme start="20210303103500 +0800" stop="20210303104200 +0800" channel="CERIA"><title lang="en">Cam & Leon</title></programme>
+<programme start="20210303104200 +0800" stop="20210303105000 +0800" channel="CERIA"><title lang="en">Cam & Leon</title></programme>
+<programme start="20210303105000 +0800" stop="20210303105600 +0800" channel="CERIA"><title lang="en">The Adventures of Nasredin</title></programme>
+<programme start="20210303105600 +0800" stop="20210303110000 +0800" channel="CERIA"><title lang="en">Pinkfong Eat Veggies Kit & Songs</title></programme>
+<programme start="20210303110000 +0800" stop="20210303110200 +0800" channel="CERIA"><title lang="en">Didi & Friends S5 (Jom Berkawad)</title></programme>
+<programme start="20210303110200 +0800" stop="20210303110400 +0800" channel="CERIA"><title lang="en">Didi & Friends S5 (Trianglegirl)</title></programme>
+<programme start="20210303110400 +0800" stop="20210303110600 +0800" channel="CERIA"><title lang="en">Didi & Friends S5 (Adoi Doi Zombie)</title></programme>
+<programme start="20210303110600 +0800" stop="20210303110800 +0800" channel="CERIA"><title lang="en">Didi & Friends (ABC)</title></programme>
+<programme start="20210303110800 +0800" stop="20210303111000 +0800" channel="CERIA"><title lang="en">Didi & Friends (Papaku Pulang Dari Kota)</title></programme>
+<programme start="20210303111000 +0800" stop="20210303112000 +0800" channel="CERIA"><title lang="en">Didi & Friends Series</title></programme>
+<programme start="20210303112000 +0800" stop="20210303113000 +0800" channel="CERIA"><title lang="en">Didi & Friends Series</title></programme>
+<programme start="20210303113000 +0800" stop="20210303113200 +0800" channel="CERIA"><title lang="en">Omar & Hana</title></programme>
+<programme start="20210303113200 +0800" stop="20210303113400 +0800" channel="CERIA"><title lang="en">Omar & Hana</title></programme>
+<programme start="20210303113400 +0800" stop="20210303114100 +0800" channel="CERIA"><title lang="en">Omar & Hana</title></programme>
+<programme start="20210303114100 +0800" stop="20210303115000 +0800" channel="CERIA"><title lang="en">Kisah Omar & Hana S1 (Burung Emu)</title></programme>
+<programme start="20210303115000 +0800" stop="20210303120000 +0800" channel="CERIA"><title lang="en">Kisah Omar & Hana S1 (Kuatnya!)</title></programme>
+<programme start="20210303120000 +0800" stop="20210303121500 +0800" channel="CERIA"><title lang="en">Tayo The Little Bus</title></programme>
+<programme start="20210303121500 +0800" stop="20210303123000 +0800" channel="CERIA"><title lang="en">Tayo The Little Bus</title></programme>
+<programme start="20210303123000 +0800" stop="20210303124500 +0800" channel="CERIA"><title lang="en">Pinkfong Wonderstar</title></programme>
+<programme start="20210303124500 +0800" stop="20210303130000 +0800" channel="CERIA"><title lang="en">Super Wings</title></programme>
+<programme start="20210303130000 +0800" stop="20210303131000 +0800" channel="CERIA"><title lang="en">Lepak @ Les'Copaque(Upin & Ipin</title></programme>
+<programme start="20210303131000 +0800" stop="20210303132000 +0800" channel="CERIA"><title lang="en">Lepak @ Les'Copaque(Upin & Ipin</title></programme>
+<programme start="20210303132000 +0800" stop="20210303133000 +0800" channel="CERIA"><title lang="en">Lepak @ Les'Copaque(Upin & Ipin</title></programme>
+<programme start="20210303133000 +0800" stop="20210303134000 +0800" channel="CERIA"><title lang="en">Lepak @ Les'Copaque(Upin & Ipin</title></programme>
+<programme start="20210303134000 +0800" stop="20210303135000 +0800" channel="CERIA"><title lang="en">Lepak @ Les'Copaque(Upin & Ipin</title></programme>
+<programme start="20210303135000 +0800" stop="20210303140000 +0800" channel="CERIA"><title lang="en">Lepak @ Les'Copaque(Upin & Ipin</title></programme>
+<programme start="20210303140000 +0800" stop="20210303143000 +0800" channel="CERIA"><title lang="en">New Doraemon</title></programme>
+<programme start="20210303143000 +0800" stop="20210303150000 +0800" channel="CERIA"><title lang="en">New Doraemon</title></programme>
+<programme start="20210303150000 +0800" stop="20210303153000 +0800" channel="CERIA"><title lang="en">SMK Study Squad</title></programme>
+<programme start="20210303153000 +0800" stop="20210303160000 +0800" channel="CERIA"><title lang="en">SMK</title></programme>
+<programme start="20210303160000 +0800" stop="20210303163000 +0800" channel="CERIA"><title lang="en">Yo-kai Watch</title></programme>
+<programme start="20210303163000 +0800" stop="20210303164500 +0800" channel="CERIA"><title lang="en">Go Astro Boy Go</title></programme>
+<programme start="20210303164500 +0800" stop="20210303170000 +0800" channel="CERIA"><title lang="en">Go Astro Boy Go</title></programme>
+<programme start="20210303170000 +0800" stop="20210303173000 +0800" channel="CERIA"><title lang="en">Ultraman R/B</title></programme>
+<programme start="20210303173000 +0800" stop="20210303174500 +0800" channel="CERIA"><title lang="en">Matematik Tahun 3</title></programme>
+<programme start="20210303174500 +0800" stop="20210303180000 +0800" channel="CERIA"><title lang="en">Matematik Tahun 1</title></programme>
+<programme start="20210303180000 +0800" stop="20210303183000 +0800" channel="CERIA"><title lang="en">Family Spy</title></programme>
+<programme start="20210303183000 +0800" stop="20210303190000 +0800" channel="CERIA"><title lang="en">SMK Ep05 (Akhir)</title></programme>
+<programme start="20210303190000 +0800" stop="20210303193000 +0800" channel="CERIA"><title lang="en">Ultraman Taiga Series</title></programme>
+<programme start="20210303193000 +0800" stop="20210303200000 +0800" channel="CERIA"><title lang="en">Zoids Wild</title></programme>
+<programme start="20210303200000 +0800" stop="20210303203000 +0800" channel="CERIA"><title lang="en">New Doraemon</title></programme>
+<programme start="20210303203000 +0800" stop="20210303210000 +0800" channel="CERIA"><title lang="en">Tsurupika Hagemaru</title></programme>
+<programme start="20210303210000 +0800" stop="20210303223000 +0800" channel="CERIA"><title lang="en">Legenda Puteri Bulan</title></programme>
+<programme start="20210303223000 +0800" stop="20210303230000 +0800" channel="CERIA"><title lang="en">Strawberi Karipap Musim 3</title></programme>
+<programme start="20210303230000 +0800" stop="20210303233000 +0800" channel="CERIA"><title lang="en">Ultraman Taiga Series</title></programme>
+<programme start="20210303233000 +0800" stop="20210304000000 +0800" channel="CERIA"><title lang="en">Power Rangers Beast Morphers</title></programme>
+<programme start="20210304080000 +0800" stop="20210304080300 +0800" channel="CERIA"><title lang="en">Didi & Friends S3 (Belon Roket)</title></programme>
+<programme start="20210304080300 +0800" stop="20210304080600 +0800" channel="CERIA"><title lang="en">Didi & Friends S3 (Mandi)</title></programme>
+<programme start="20210304080600 +0800" stop="20210304080900 +0800" channel="CERIA"><title lang="en">Didi & Friends S3 (Kek Aunty Merry)</title></programme>
+<programme start="20210304080900 +0800" stop="20210304081200 +0800" channel="CERIA"><title lang="en">Didi & Friends S3 (Mana Bingo)</title></programme>
+<programme start="20210304081200 +0800" stop="20210304081500 +0800" channel="CERIA"><title lang="en">Didi & Friends S3 (Nasihat Nenek)</title></programme>
+<programme start="20210304081500 +0800" stop="20210304082300 +0800" channel="CERIA"><title lang="en">Cam & Leon</title></programme>
+<programme start="20210304082300 +0800" stop="20210304083000 +0800" channel="CERIA"><title lang="en">Cam & Leon</title></programme>
+<programme start="20210304083000 +0800" stop="20210304083300 +0800" channel="CERIA"><title lang="en">Larva</title></programme>
+<programme start="20210304083300 +0800" stop="20210304083600 +0800" channel="CERIA"><title lang="en">Larva</title></programme>
+<programme start="20210304083600 +0800" stop="20210304083900 +0800" channel="CERIA"><title lang="en">Larva</title></programme>
+<programme start="20210304083900 +0800" stop="20210304084100 +0800" channel="CERIA"><title lang="en">Larva</title></programme>
+<programme start="20210304084100 +0800" stop="20210304084300 +0800" channel="CERIA"><title lang="en">Larva</title></programme>
+<programme start="20210304084300 +0800" stop="20210304084500 +0800" channel="CERIA"><title lang="en">Larva</title></programme>
+<programme start="20210304084500 +0800" stop="20210304090000 +0800" channel="CERIA"><title lang="en">Pinkfong Wonderstar</title></programme>
+<programme start="20210304090000 +0800" stop="20210304091500 +0800" channel="CERIA"><title lang="en">Tayo The Little Bus</title></programme>
+<programme start="20210304091500 +0800" stop="20210304093000 +0800" channel="CERIA"><title lang="en">Tayo The Little Bus</title></programme>
+<programme start="20210304093000 +0800" stop="20210304094500 +0800" channel="CERIA"><title lang="en">Go Go Bus</title></programme>
+<programme start="20210304094500 +0800" stop="20210304100000 +0800" channel="CERIA"><title lang="en">Boing The Play Ranger</title></programme>
+<programme start="20210304100000 +0800" stop="20210304103000 +0800" channel="CERIA"><title lang="en">My Little Pony</title></programme>
+<programme start="20210304103000 +0800" stop="20210304103100 +0800" channel="CERIA"><title lang="en">Where's Chicky?</title></programme>
+<programme start="20210304103100 +0800" stop="20210304103200 +0800" channel="CERIA"><title lang="en">Where's Chicky?</title></programme>
+<programme start="20210304103200 +0800" stop="20210304103300 +0800" channel="CERIA"><title lang="en">Where's Chicky?</title></programme>
+<programme start="20210304103300 +0800" stop="20210304103500 +0800" channel="CERIA"><title lang="en">Where's Chicky?</title></programme>
+<programme start="20210304103500 +0800" stop="20210304104200 +0800" channel="CERIA"><title lang="en">Cam & Leon</title></programme>
+<programme start="20210304104200 +0800" stop="20210304105000 +0800" channel="CERIA"><title lang="en">Cam & Leon</title></programme>
+<programme start="20210304105000 +0800" stop="20210304105600 +0800" channel="CERIA"><title lang="en">The Adventures of Nasredin</title></programme>
+<programme start="20210304105600 +0800" stop="20210304110000 +0800" channel="CERIA"><title lang="en">Pinkfong Brush Your Teeth Kit & Songs</title></programme>
+<programme start="20210304110000 +0800" stop="20210304110200 +0800" channel="CERIA"><title lang="en">Didi & Friends S5 (Burger)</title></programme>
+<programme start="20210304110200 +0800" stop="20210304110400 +0800" channel="CERIA"><title lang="en">Didi & Friends S5 (Muzik Untuk Semua)</title></programme>
+<programme start="20210304110400 +0800" stop="20210304110600 +0800" channel="CERIA"><title lang="en">Didi & Friends S5 (Rawr Rawr Raksasa)</title></programme>
+<programme start="20210304110600 +0800" stop="20210304110800 +0800" channel="CERIA"><title lang="en">Didi & Friends (ABC)</title></programme>
+<programme start="20210304110800 +0800" stop="20210304111000 +0800" channel="CERIA"><title lang="en">Didi & Friends (Rasa Sayang)</title></programme>
+<programme start="20210304111000 +0800" stop="20210304112000 +0800" channel="CERIA"><title lang="en">Didi & Friends Series</title></programme>
+<programme start="20210304112000 +0800" stop="20210304113000 +0800" channel="CERIA"><title lang="en">Didi & Friends Series</title></programme>
+<programme start="20210304113000 +0800" stop="20210304113200 +0800" channel="CERIA"><title lang="en">Omar & Hana</title></programme>
+<programme start="20210304113200 +0800" stop="20210304113400 +0800" channel="CERIA"><title lang="en">Omar & Hana</title></programme>
+<programme start="20210304113400 +0800" stop="20210304113600 +0800" channel="CERIA"><title lang="en">Omar & Hana S2 (Ya Mama Ya Papa)</title></programme>
+<programme start="20210304113600 +0800" stop="20210304113800 +0800" channel="CERIA"><title lang="en">Omar & Hana Solat Pertama Saya</title></programme>
+<programme start="20210304113800 +0800" stop="20210304114100 +0800" channel="CERIA"><title lang="en">Omar & Hana S2 (Minta Izin)</title></programme>
+<programme start="20210304114100 +0800" stop="20210304115000 +0800" channel="CERIA"><title lang="en">Kisah Omar & Hana</title></programme>
+<programme start="20210304115000 +0800" stop="20210304120000 +0800" channel="CERIA"><title lang="en">Kisah Omar & Hana S1 (Alala... Raju)</title></programme>
+<programme start="20210304120000 +0800" stop="20210304120200 +0800" channel="CERIA"><title lang="en">Larva</title></programme>
+<programme start="20210304120200 +0800" stop="20210304120400 +0800" channel="CERIA"><title lang="en">Larva</title></programme>
+<programme start="20210304120400 +0800" stop="20210304120600 +0800" channel="CERIA"><title lang="en">Larva</title></programme>
+<programme start="20210304120600 +0800" stop="20210304120800 +0800" channel="CERIA"><title lang="en">Larva</title></programme>
+<programme start="20210304120800 +0800" stop="20210304121000 +0800" channel="CERIA"><title lang="en">Larva</title></programme>
+<programme start="20210304121000 +0800" stop="20210304121200 +0800" channel="CERIA"><title lang="en">Larva</title></programme>
+<programme start="20210304121200 +0800" stop="20210304121500 +0800" channel="CERIA"><title lang="en">Larva</title></programme>
+<programme start="20210304121500 +0800" stop="20210304122000 +0800" channel="CERIA"><title lang="en">Larva</title></programme>
+<programme start="20210304122000 +0800" stop="20210304122500 +0800" channel="CERIA"><title lang="en">Larva</title></programme>
+<programme start="20210304122500 +0800" stop="20210304123000 +0800" channel="CERIA"><title lang="en">Larva</title></programme>
+<programme start="20210304123000 +0800" stop="20210304124500 +0800" channel="CERIA"><title lang="en">Go Go Bus</title></programme>
+<programme start="20210304124500 +0800" stop="20210304130000 +0800" channel="CERIA"><title lang="en">Super Wings</title></programme>
+<programme start="20210304130000 +0800" stop="20210304131000 +0800" channel="CERIA"><title lang="en">Lepak @ Les'Copaque(Upin & Ipin</title></programme>
+<programme start="20210304131000 +0800" stop="20210304132000 +0800" channel="CERIA"><title lang="en">Lepak @ Les'Copaque(Upin & Ipin</title></programme>
+<programme start="20210304132000 +0800" stop="20210304133000 +0800" channel="CERIA"><title lang="en">Lepak @ Les'Copaque(Upin & Ipin</title></programme>
+<programme start="20210304133000 +0800" stop="20210304134000 +0800" channel="CERIA"><title lang="en">Lepak @ Les'Copaque(Upin & Ipin</title></programme>
+<programme start="20210304134000 +0800" stop="20210304135000 +0800" channel="CERIA"><title lang="en">Lepak @ Les'Copaque(Upin & Ipin</title></programme>
+<programme start="20210304135000 +0800" stop="20210304140000 +0800" channel="CERIA"><title lang="en">Lepak @ Les'Copaque(Upin & Ipin</title></programme>
+<programme start="20210304140000 +0800" stop="20210304143000 +0800" channel="CERIA"><title lang="en">New Doraemon</title></programme>
+<programme start="20210304143000 +0800" stop="20210304150000 +0800" channel="CERIA"><title lang="en">New Doraemon</title></programme>
+<programme start="20210304150000 +0800" stop="20210304153000 +0800" channel="CERIA"><title lang="en">Fam I Love You</title></programme>
+<programme start="20210304153000 +0800" stop="20210304160000 +0800" channel="CERIA"><title lang="en">Family Spy</title></programme>
+<programme start="20210304160000 +0800" stop="20210304163000 +0800" channel="CERIA"><title lang="en">Yo-kai Watch</title></programme>
+<programme start="20210304163000 +0800" stop="20210304164500 +0800" channel="CERIA"><title lang="en">Go Astro Boy Go</title></programme>
+<programme start="20210304164500 +0800" stop="20210304170000 +0800" channel="CERIA"><title lang="en">Go Astro Boy Go</title></programme>
+<programme start="20210304170000 +0800" stop="20210304173000 +0800" channel="CERIA"><title lang="en">Ultraman R/B</title></programme>
+<programme start="20210304173000 +0800" stop="20210304180000 +0800" channel="CERIA"><title lang="en">Pendidikan Sivik Tahun 1</title></programme>
+<programme start="20210304180000 +0800" stop="20210304183000 +0800" channel="CERIA"><title lang="en">Rimau Bangku</title></programme>
+<programme start="20210304183000 +0800" stop="20210304190000 +0800" channel="CERIA"><title lang="en">Super Game Boy The Series</title></programme>
+<programme start="20210304190000 +0800" stop="20210304193000 +0800" channel="CERIA"><title lang="en">Ultraman Taiga Series</title></programme>
+<programme start="20210304193000 +0800" stop="20210304200000 +0800" channel="CERIA"><title lang="en">Zoids Wild</title></programme>
+<programme start="20210304200000 +0800" stop="20210304203000 +0800" channel="CERIA"><title lang="en">New Doraemon</title></programme>
+<programme start="20210304203000 +0800" stop="20210304210000 +0800" channel="CERIA"><title lang="en">Tsurupika Hagemaru</title></programme>
+<programme start="20210304210000 +0800" stop="20210304213000 +0800" channel="CERIA"><title lang="en">Fam I Love You</title></programme>
+<programme start="20210304213000 +0800" stop="20210304220000 +0800" channel="CERIA"><title lang="en">Family Spy</title></programme>
+<programme start="20210304220000 +0800" stop="20210304223000 +0800" channel="CERIA"><title lang="en">Dee The Series</title></programme>
+<programme start="20210304223000 +0800" stop="20210304230000 +0800" channel="CERIA"><title lang="en">Strawberi Karipap Musim 3</title></programme>
+<programme start="20210305080000 +0800" stop="20210305080300 +0800" channel="CERIA"><title lang="en">Didi & Friends S3 (Pop Baby Dino)</title></programme>
+<programme start="20210305080300 +0800" stop="20210305080600 +0800" channel="CERIA"><title lang="en">Didi & Friends S3 (Traktor Pak Atan)</title></programme>
+<programme start="20210305080600 +0800" stop="20210305080900 +0800" channel="CERIA"><title lang="en">Didi & Friends S3 (Tidurlah Anak)</title></programme>
+<programme start="20210305080900 +0800" stop="20210305081200 +0800" channel="CERIA"><title lang="en">Didi & Friends S3 (Anaklah Penyu)</title></programme>
+<programme start="20210305081200 +0800" stop="20210305081500 +0800" channel="CERIA"><title lang="en">Didi & Friends S3 (Nyam Nyam)</title></programme>
+<programme start="20210305081500 +0800" stop="20210305082000 +0800" channel="CERIA"><title lang="en">Larva</title></programme>
+<programme start="20210305082000 +0800" stop="20210305082500 +0800" channel="CERIA"><title lang="en">Larva</title></programme>
+<programme start="20210305082500 +0800" stop="20210305083000 +0800" channel="CERIA"><title lang="en">Larva</title></programme>
+<programme start="20210305083000 +0800" stop="20210305084500 +0800" channel="CERIA"><title lang="en">Tayo The Little Bus</title></programme>
+<programme start="20210305084500 +0800" stop="20210305090000 +0800" channel="CERIA"><title lang="en">Tayo The Little Bus</title></programme>
+<programme start="20210305090000 +0800" stop="20210305091500 +0800" channel="CERIA"><title lang="en">Boing The Play Ranger</title></programme>
+<programme start="20210305091500 +0800" stop="20210305093000 +0800" channel="CERIA"><title lang="en">Go Go Bus</title></programme>
+<programme start="20210305093000 +0800" stop="20210305100000 +0800" channel="CERIA"><title lang="en">My Little Pony</title></programme>
+<programme start="20210305100000 +0800" stop="20210305103000 +0800" channel="CERIA"><title lang="en">Kampung Boy</title></programme>
+<programme start="20210305103000 +0800" stop="20210305110000 +0800" channel="CERIA"><title lang="en">Robozeta</title></programme>
+<programme start="20210305110000 +0800" stop="20210305110200 +0800" channel="CERIA"><title lang="en">Omar & Hana</title></programme>
+<programme start="20210305110200 +0800" stop="20210305110400 +0800" channel="CERIA"><title lang="en">Omar & Hana</title></programme>
+<programme start="20210305110400 +0800" stop="20210305111100 +0800" channel="CERIA"><title lang="en">Omar & Hana</title></programme>
+<programme start="20210305111100 +0800" stop="20210305112000 +0800" channel="CERIA"><title lang="en">Kisah Omar & Hana</title></programme>
+<programme start="20210305112000 +0800" stop="20210305113000 +0800" channel="CERIA"><title lang="en">Kisah Omar & Hana S1 (Jus Viral)</title></programme>
+<programme start="20210305113000 +0800" stop="20210305113200 +0800" channel="CERIA"><title lang="en">Didi & Friends S5 (Adoi Doi Zombie)</title></programme>
+<programme start="20210305113200 +0800" stop="20210305113400 +0800" channel="CERIA"><title lang="en">Didi & Friends S5 (Video Game)</title></programme>
+<programme start="20210305113400 +0800" stop="20210305113600 +0800" channel="CERIA"><title lang="en">Didi & Friends S5 (Oh Tandas)</title></programme>
+<programme start="20210305113600 +0800" stop="20210305113800 +0800" channel="CERIA"><title lang="en">Didi & Friends (Rasa Sayang)</title></programme>
+<programme start="20210305113800 +0800" stop="20210305114000 +0800" channel="CERIA"><title lang="en">Didi & Friends (Tayar Bas)</title></programme>
+<programme start="20210305114000 +0800" stop="20210305115000 +0800" channel="CERIA"><title lang="en">Didi & Friends Series</title></programme>
+<programme start="20210305115000 +0800" stop="20210305120000 +0800" channel="CERIA"><title lang="en">Didi & Friends Series</title></programme>
+<programme start="20210305120000 +0800" stop="20210305120200 +0800" channel="CERIA"><title lang="en">Larva</title></programme>
+<programme start="20210305120200 +0800" stop="20210305120400 +0800" channel="CERIA"><title lang="en">Larva</title></programme>
+<programme start="20210305120400 +0800" stop="20210305120600 +0800" channel="CERIA"><title lang="en">Larva</title></programme>
+<programme start="20210305120600 +0800" stop="20210305120800 +0800" channel="CERIA"><title lang="en">Larva</title></programme>
+<programme start="20210305120800 +0800" stop="20210305121000 +0800" channel="CERIA"><title lang="en">Larva</title></programme>
+<programme start="20210305121000 +0800" stop="20210305121200 +0800" channel="CERIA"><title lang="en">Larva</title></programme>
+<programme start="20210305121200 +0800" stop="20210305121500 +0800" channel="CERIA"><title lang="en">Larva</title></programme>
+<programme start="20210305121500 +0800" stop="20210305122000 +0800" channel="CERIA"><title lang="en">Larva</title></programme>
+<programme start="20210305122000 +0800" stop="20210305122500 +0800" channel="CERIA"><title lang="en">Larva</title></programme>
+<programme start="20210305122500 +0800" stop="20210305123000 +0800" channel="CERIA"><title lang="en">Larva</title></programme>
+<programme start="20210305123000 +0800" stop="20210305124500 +0800" channel="CERIA"><title lang="en">Tayo The Little Bus</title></programme>
+<programme start="20210305124500 +0800" stop="20210305130000 +0800" channel="CERIA"><title lang="en">Tayo The Little Bus</title></programme>
+<programme start="20210305130000 +0800" stop="20210305131000 +0800" channel="CERIA"><title lang="en">Lepak @ Les'Copaque(Upin & Ipin</title></programme>
+<programme start="20210305131000 +0800" stop="20210305132000 +0800" channel="CERIA"><title lang="en">Lepak @ Les'Copaque(Upin & Ipin</title></programme>
+<programme start="20210305132000 +0800" stop="20210305133000 +0800" channel="CERIA"><title lang="en">Lepak @ Les'Copaque(Upin & Ipin</title></programme>
+<programme start="20210305133000 +0800" stop="20210305134000 +0800" channel="CERIA"><title lang="en">Lepak @ Les'Copaque(Upin & Ipin</title></programme>
+<programme start="20210305134000 +0800" stop="20210305135000 +0800" channel="CERIA"><title lang="en">Lepak @ Les'Copaque(Upin & Ipin</title></programme>
+<programme start="20210305135000 +0800" stop="20210305140000 +0800" channel="CERIA"><title lang="en">Lepak @ Les'Copaque(Upin & Ipin</title></programme>
+<programme start="20210305140000 +0800" stop="20210305143000 +0800" channel="CERIA"><title lang="en">New Doraemon</title></programme>
+<programme start="20210305143000 +0800" stop="20210305150000 +0800" channel="CERIA"><title lang="en">New Doraemon</title></programme>
+<programme start="20210305150000 +0800" stop="20210305153000 +0800" channel="CERIA"><title lang="en">Tsurupika Hagemaru</title></programme>
+<programme start="20210305153000 +0800" stop="20210305160000 +0800" channel="CERIA"><title lang="en">Tsurupika Hagemaru</title></programme>
+<programme start="20210305160000 +0800" stop="20210305163000 +0800" channel="CERIA"><title lang="en">Yo-kai Watch</title></programme>
+<programme start="20210305163000 +0800" stop="20210305164500 +0800" channel="CERIA"><title lang="en">Go Astro Boy Go</title></programme>
+<programme start="20210305164500 +0800" stop="20210305170000 +0800" channel="CERIA"><title lang="en">Go Astro Boy Go</title></programme>
+<programme start="20210305170000 +0800" stop="20210305173000 +0800" channel="CERIA"><title lang="en">Ultraman Taiga Series</title></programme>
+<programme start="20210305173000 +0800" stop="20210305180000 +0800" channel="CERIA"><title lang="en">Kampung Boy</title></programme>
+<programme start="20210305180000 +0800" stop="20210305183000 +0800" channel="CERIA"><title lang="en">Family Spy</title></programme>
+<programme start="20210305183000 +0800" stop="20210305190000 +0800" channel="CERIA"><title lang="en">SMK</title></programme>
+<programme start="20210305190000 +0800" stop="20210305193000 +0800" channel="CERIA"><title lang="en">Power Rangers Beast Morphers</title></programme>
+<programme start="20210305193000 +0800" stop="20210305200000 +0800" channel="CERIA"><title lang="en">Zoids Wild</title></programme>
+<programme start="20210305200000 +0800" stop="20210305203000 +0800" channel="CERIA"><title lang="en">Tsurupika Hagemaru</title></programme>
+<programme start="20210305203000 +0800" stop="20210305210000 +0800" channel="CERIA"><title lang="en">New Doraemon</title></programme>
+<programme start="20210305210000 +0800" stop="20210305213000 +0800" channel="CERIA"><title lang="en">Fam I Love You</title></programme>
+<programme start="20210305213000 +0800" stop="20210305220000 +0800" channel="CERIA"><title lang="en">Rimau Bangku</title></programme>
+<programme start="20210305220000 +0800" stop="20210305223000 +0800" channel="CERIA"><title lang="en">3 Campur 2</title></programme>
+<programme start="20210305223000 +0800" stop="20210305230000 +0800" channel="CERIA"><title lang="en">Kampung Boy</title></programme>
+<programme start="20210305230000 +0800" stop="20210305233000 +0800" channel="CERIA"><title lang="en">Ultraman Taiga Series</title></programme>
+<programme start="20210305233000 +0800" stop="20210306000000 +0800" channel="CERIA"><title lang="en">Dee The Series</title></programme>
+<programme start="20210306080000 +0800" stop="20210306080300 +0800" channel="CERIA"><title lang="en">Didi & Friends S3 (Mon Datang)</title></programme>
+<programme start="20210306080300 +0800" stop="20210306080600 +0800" channel="CERIA"><title lang="en">Didi & Friends S3(Eh Wau Bulan)</title></programme>
+<programme start="20210306080600 +0800" stop="20210306080900 +0800" channel="CERIA"><title lang="en">Didi & Friends S3 (Bangau Oh Bangau)</title></programme>
+<programme start="20210306080900 +0800" stop="20210306081200 +0800" channel="CERIA"><title lang="en">Didi & Friends S3 (Kisah Beluncas)</title></programme>
+<programme start="20210306081200 +0800" stop="20210306081500 +0800" channel="CERIA"><title lang="en">Didi & Friends S3 (Keluarga Tiya)</title></programme>
+<programme start="20210306081500 +0800" stop="20210306082000 +0800" channel="CERIA"><title lang="en">Larva</title></programme>
+<programme start="20210306082000 +0800" stop="20210306082500 +0800" channel="CERIA"><title lang="en">Larva</title></programme>
+<programme start="20210306082500 +0800" stop="20210306083000 +0800" channel="CERIA"><title lang="en">Larva</title></programme>
+<programme start="20210306083000 +0800" stop="20210306084500 +0800" channel="CERIA"><title lang="en">Tayo The Little Bus</title></programme>
+<programme start="20210306084500 +0800" stop="20210306090000 +0800" channel="CERIA"><title lang="en">Tayo The Little Bus</title></programme>
+<programme start="20210306090000 +0800" stop="20210306091500 +0800" channel="CERIA"><title lang="en">Boing The Play Ranger</title></programme>
+<programme start="20210306091500 +0800" stop="20210306093000 +0800" channel="CERIA"><title lang="en">Go Go Bus</title></programme>
+<programme start="20210306093000 +0800" stop="20210306100000 +0800" channel="CERIA"><title lang="en">My Little Pony</title></programme>
+<programme start="20210306100000 +0800" stop="20210306103000 +0800" channel="CERIA"><title lang="en">Fam I Love You</title></programme>
+<programme start="20210306103000 +0800" stop="20210306110000 +0800" channel="CERIA"><title lang="en">Family Spy</title></programme>
+<programme start="20210306110000 +0800" stop="20210306110200 +0800" channel="CERIA"><title lang="en">Omar & Hana</title></programme>
+<programme start="20210306110200 +0800" stop="20210306110400 +0800" channel="CERIA"><title lang="en">Omar & Hana S1 (Zikir Tidur)</title></programme>
+<programme start="20210306110400 +0800" stop="20210306110600 +0800" channel="CERIA"><title lang="en">Omar & Hana S2 (Sabar Bila Marah)</title></programme>
+<programme start="20210306110600 +0800" stop="20210306110800 +0800" channel="CERIA"><title lang="en">Omar & Hana Solat Pertama Saya</title></programme>
+<programme start="20210306110800 +0800" stop="20210306111100 +0800" channel="CERIA"><title lang="en">Omar & Hana S2 (Contohi Nabi Kita)</title></programme>
+<programme start="20210306111100 +0800" stop="20210306112000 +0800" channel="CERIA"><title lang="en">Kisah Omar & Hana S1 (Main Basikal)</title></programme>
+<programme start="20210306112000 +0800" stop="20210306113000 +0800" channel="CERIA"><title lang="en">Kisah Omar & Hana S1 (Bunyi Apa Tu?)</title></programme>
+<programme start="20210306113000 +0800" stop="20210306113200 +0800" channel="CERIA"><title lang="en">Didi & Friends S5 (Rawr Rawr Raksasa)</title></programme>
+<programme start="20210306113200 +0800" stop="20210306113400 +0800" channel="CERIA"><title lang="en">Didi & Friends S5 (Kejar Impian)</title></programme>
+<programme start="20210306113400 +0800" stop="20210306113600 +0800" channel="CERIA"><title lang="en">Didi & Friends S5 (Adoi Doi Zombie)</title></programme>
+<programme start="20210306113600 +0800" stop="20210306113800 +0800" channel="CERIA"><title lang="en">Didi & Friends (Bintang-Bintang)</title></programme>
+<programme start="20210306113800 +0800" stop="20210306114000 +0800" channel="CERIA"><title lang="en">Didi & Friends (Bingo)</title></programme>
+<programme start="20210306114000 +0800" stop="20210306115000 +0800" channel="CERIA"><title lang="en">Didi & Friends Series</title></programme>
+<programme start="20210306115000 +0800" stop="20210306120000 +0800" channel="CERIA"><title lang="en">Didi & Friends Series</title></programme>
+<programme start="20210306120000 +0800" stop="20210306121500 +0800" channel="CERIA"><title lang="en">Super Wings</title></programme>
+<programme start="20210306121500 +0800" stop="20210306123000 +0800" channel="CERIA"><title lang="en">Super Wings</title></programme>
+<programme start="20210306123000 +0800" stop="20210306124500 +0800" channel="CERIA"><title lang="en">Tayo The Little Bus</title></programme>
+<programme start="20210306124500 +0800" stop="20210306130000 +0800" channel="CERIA"><title lang="en">Tayo The Little Bus</title></programme>
+<programme start="20210306130000 +0800" stop="20210306131000 +0800" channel="CERIA"><title lang="en">Lepak@Les'Copaque (Pada Zaman Dahulu</title></programme>
+<programme start="20210306131000 +0800" stop="20210306132000 +0800" channel="CERIA"><title lang="en">Lepak@Les'Copaque (Pada Zaman Dahulu</title></programme>
+<programme start="20210306132000 +0800" stop="20210306133000 +0800" channel="CERIA"><title lang="en">Lepak@Les'Copaque (Pada Zaman Dahulu</title></programme>
+<programme start="20210306133000 +0800" stop="20210306134000 +0800" channel="CERIA"><title lang="en">Lepak@Les'Copaque (Pada Zaman Dahulu</title></programme>
+<programme start="20210306134000 +0800" stop="20210306135000 +0800" channel="CERIA"><title lang="en">Lepak@Les'Copaque (Pada Zaman Dahulu</title></programme>
+<programme start="20210306135000 +0800" stop="20210306140000 +0800" channel="CERIA"><title lang="en">Lepak@Les'Copaque (Pada Zaman Dahulu</title></programme>
+<programme start="20210306140000 +0800" stop="20210306143000 +0800" channel="CERIA"><title lang="en">New Doraemon</title></programme>
+<programme start="20210306143000 +0800" stop="20210306150000 +0800" channel="CERIA"><title lang="en">New Doraemon</title></programme>
+<programme start="20210306150000 +0800" stop="20210306153000 +0800" channel="CERIA"><title lang="en">Tsurupika Hagemaru</title></programme>
+<programme start="20210306153000 +0800" stop="20210306160000 +0800" channel="CERIA"><title lang="en">Tsurupika Hagemaru</title></programme>
+<programme start="20210306160000 +0800" stop="20210306163000 +0800" channel="CERIA"><title lang="en">Yo-kai Watch</title></programme>
+<programme start="20210306163000 +0800" stop="20210306170000 +0800" channel="CERIA"><title lang="en">Robozeta</title></programme>
+<programme start="20210306170000 +0800" stop="20210306173000 +0800" channel="CERIA"><title lang="en">Ultraman Taiga Series</title></programme>
+<programme start="20210306173000 +0800" stop="20210306180000 +0800" channel="CERIA"><title lang="en">Kampung Boy</title></programme>
+<programme start="20210306180000 +0800" stop="20210306183000 +0800" channel="CERIA"><title lang="en">Fam I Love You</title></programme>
+<programme start="20210306183000 +0800" stop="20210306190000 +0800" channel="CERIA"><title lang="en">SMK</title></programme>
+<programme start="20210306190000 +0800" stop="20210306193000 +0800" channel="CERIA"><title lang="en">Power Rangers Beast Morphers</title></programme>
+<programme start="20210306193000 +0800" stop="20210306200000 +0800" channel="CERIA"><title lang="en">Zoids Wild</title></programme>
+<programme start="20210306200000 +0800" stop="20210306203000 +0800" channel="CERIA"><title lang="en">Tsurupika Hagemaru</title></programme>
+<programme start="20210306203000 +0800" stop="20210306210000 +0800" channel="CERIA"><title lang="en">New Doraemon</title></programme>
+<programme start="20210306210000 +0800" stop="20210306213000 +0800" channel="CERIA"><title lang="en">Fam I Love You</title></programme>
+<programme start="20210306213000 +0800" stop="20210306230000 +0800" channel="CERIA"><title lang="en">Detektif Danish</title></programme>
+<programme start="20210306230000 +0800" stop="20210306233000 +0800" channel="CERIA"><title lang="en">Ultraman Taiga Series</title></programme>
+<programme start="20210306233000 +0800" stop="20210307000000 +0800" channel="CERIA"><title lang="en">Dee The Series</title></programme>
 
 
 ///// AWANI \\\\\
@@ -7759,6 +8237,456 @@
 <display-name lang="en">ASTRO AWANI</display-name>
 <url>mohdsolihin</url>
 </channel>
+<programme start="20210228000000 +0800" stop="20210228003000 +0800" channel="AWANI"><title lang="en">(L) Buletin Awani</title></programme>
+<programme start="20210228003000 +0800" stop="20210228010000 +0800" channel="AWANI"><title lang="en">Agenda Awani Asia</title></programme>
+<programme start="20210228010000 +0800" stop="20210228013000 +0800" channel="AWANI"><title lang="en">Buletin Awani</title></programme>
+<programme start="20210228013000 +0800" stop="20210228020000 +0800" channel="AWANI"><title lang="en">Nadi Arena</title></programme>
+<programme start="20210228020000 +0800" stop="20210228023000 +0800" channel="AWANI"><title lang="en">Buletin Awani</title></programme>
+<programme start="20210228023000 +0800" stop="20210228030000 +0800" channel="AWANI"><title lang="en">Agenda Awani Asia</title></programme>
+<programme start="20210228030000 +0800" stop="20210228033000 +0800" channel="AWANI"><title lang="en">Buletin Awani</title></programme>
+<programme start="20210228033000 +0800" stop="20210228040000 +0800" channel="AWANI"><title lang="en">Nadi Arena</title></programme>
+<programme start="20210228040000 +0800" stop="20210228043000 +0800" channel="AWANI"><title lang="en">Buletin Awani</title></programme>
+<programme start="20210228043000 +0800" stop="20210228050000 +0800" channel="AWANI"><title lang="en">Agenda Awani Asia</title></programme>
+<programme start="20210228050000 +0800" stop="20210228053000 +0800" channel="AWANI"><title lang="en">Buletin Awani</title></programme>
+<programme start="20210228053000 +0800" stop="20210228060000 +0800" channel="AWANI"><title lang="en">Nadi Arena</title></programme>
+<programme start="20210228060000 +0800" stop="20210228060100 +0800" channel="AWANI"><title lang="en">AWANI Ringkas</title></programme>
+<programme start="20210228060100 +0800" stop="20210228060300 +0800" channel="AWANI"><title lang="en">AWANI Review</title></programme>
+<programme start="20210228060300 +0800" stop="20210228063000 +0800" channel="AWANI"><title lang="en">AWANI Review</title></programme>
+<programme start="20210228063000 +0800" stop="20210228064500 +0800" channel="AWANI"><title lang="en">Awani Sarawak</title></programme>
+<programme start="20210228064500 +0800" stop="20210228070000 +0800" channel="AWANI"><title lang="en">Fokus Minggu Depan</title></programme>
+<programme start="20210228070000 +0800" stop="20210228070100 +0800" channel="AWANI"><title lang="en">AWANI Ringkas</title></programme>
+<programme start="20210228070100 +0800" stop="20210228073000 +0800" channel="AWANI"><title lang="en">(L) Buletin Awani</title></programme>
+<programme start="20210228073000 +0800" stop="20210228080000 +0800" channel="AWANI"><title lang="en">(L) Awani Pagi</title></programme>
+<programme start="20210228080000 +0800" stop="20210228080100 +0800" channel="AWANI"><title lang="en">AWANI Ringkas</title></programme>
+<programme start="20210228080100 +0800" stop="20210228083000 +0800" channel="AWANI"><title lang="en">Buletin Awani</title></programme>
+<programme start="20210228083000 +0800" stop="20210228090000 +0800" channel="AWANI"><title lang="en">AWANI Pagi</title></programme>
+<programme start="20210228090000 +0800" stop="20210228090100 +0800" channel="AWANI"><title lang="en">AWANI Ringkas</title></programme>
+<programme start="20210228090100 +0800" stop="20210228093000 +0800" channel="AWANI"><title lang="en">(L) Buletin Awani</title></programme>
+<programme start="20210228093000 +0800" stop="20210228100000 +0800" channel="AWANI"><title lang="en">Buletin Awani</title></programme>
+<programme start="20210228100000 +0800" stop="20210228100100 +0800" channel="AWANI"><title lang="en">AWANI Ringkas</title></programme>
+<programme start="20210228100100 +0800" stop="20210228103000 +0800" channel="AWANI"><title lang="en">(L) Buletin Awani</title></programme>
+<programme start="20210228103000 +0800" stop="20210228110000 +0800" channel="AWANI"><title lang="en">Buletin Awani</title></programme>
+<programme start="20210228110000 +0800" stop="20210228110100 +0800" channel="AWANI"><title lang="en">AWANI Ringkas</title></programme>
+<programme start="20210228110100 +0800" stop="20210228113000 +0800" channel="AWANI"><title lang="en">AWANI Global</title></programme>
+<programme start="20210228113000 +0800" stop="20210228120000 +0800" channel="AWANI"><title lang="en">Buletin Awani</title></programme>
+<programme start="20210228120000 +0800" stop="20210228120100 +0800" channel="AWANI"><title lang="en">AWANI Ringkas</title></programme>
+<programme start="20210228120100 +0800" stop="20210228123000 +0800" channel="AWANI"><title lang="en">(L) Buletin Awani</title></programme>
+<programme start="20210228123000 +0800" stop="20210228130000 +0800" channel="AWANI"><title lang="en">Buletin Awani</title></programme>
+<programme start="20210228130000 +0800" stop="20210228130100 +0800" channel="AWANI"><title lang="en">AWANI Ringkas</title></programme>
+<programme start="20210228130100 +0800" stop="20210228133000 +0800" channel="AWANI"><title lang="en">(L) Buletin Awani</title></programme>
+<programme start="20210228133000 +0800" stop="20210228140000 +0800" channel="AWANI"><title lang="en">Buletin Awani</title></programme>
+<programme start="20210228140000 +0800" stop="20210228140100 +0800" channel="AWANI"><title lang="en">AWANI Ringkas</title></programme>
+<programme start="20210228140100 +0800" stop="20210228143000 +0800" channel="AWANI"><title lang="en">(L) Buletin Awani</title></programme>
+<programme start="20210228143000 +0800" stop="20210228150000 +0800" channel="AWANI"><title lang="en">Buletin Awani</title></programme>
+<programme start="20210228150000 +0800" stop="20210228150100 +0800" channel="AWANI"><title lang="en">AWANI Ringkas</title></programme>
+<programme start="20210228150100 +0800" stop="20210228153000 +0800" channel="AWANI"><title lang="en">(L) Buletin Awani</title></programme>
+<programme start="20210228153000 +0800" stop="20210228160000 +0800" channel="AWANI"><title lang="en">Buletin Awani</title></programme>
+<programme start="20210228160000 +0800" stop="20210228160100 +0800" channel="AWANI"><title lang="en">AWANI Ringkas</title></programme>
+<programme start="20210228160100 +0800" stop="20210228163000 +0800" channel="AWANI"><title lang="en">(L) Buletin Awani</title></programme>
+<programme start="20210228163000 +0800" stop="20210228170000 +0800" channel="AWANI"><title lang="en">AWANI Global</title></programme>
+<programme start="20210228170000 +0800" stop="20210228170100 +0800" channel="AWANI"><title lang="en">AWANI Ringkas</title></programme>
+<programme start="20210228170100 +0800" stop="20210228173000 +0800" channel="AWANI"><title lang="en">(L) Fokus Minggu Depan</title></programme>
+<programme start="20210228173000 +0800" stop="20210228180000 +0800" channel="AWANI"><title lang="en">(L) Buletin Awani</title></programme>
+<programme start="20210228180000 +0800" stop="20210228180100 +0800" channel="AWANI"><title lang="en">AWANI Ringkas</title></programme>
+<programme start="20210228180100 +0800" stop="20210228183000 +0800" channel="AWANI"><title lang="en">Buletin Awani</title></programme>
+<programme start="20210228183000 +0800" stop="20210228190000 +0800" channel="AWANI"><title lang="en">Agenda Awani Asia</title></programme>
+<programme start="20210228190000 +0800" stop="20210228191500 +0800" channel="AWANI"><title lang="en">(L) Awani Sarawak</title></programme>
+<programme start="20210228191500 +0800" stop="20210228194500 +0800" channel="AWANI"><title lang="en">Fokus Minggu Depan</title></programme>
+<programme start="20210228194500 +0800" stop="20210228203000 +0800" channel="AWANI"><title lang="en">(L) AWANI 7:45</title></programme>
+<programme start="20210228203000 +0800" stop="20210228210000 +0800" channel="AWANI"><title lang="en">Nadi Arena</title></programme>
+<programme start="20210228210000 +0800" stop="20210228212900 +0800" channel="AWANI"><title lang="en">Agenda Awani</title></programme>
+<programme start="20210228212900 +0800" stop="20210228213000 +0800" channel="AWANI"><title lang="en">AWANI Ringkas</title></programme>
+<programme start="20210228213000 +0800" stop="20210228214500 +0800" channel="AWANI"><title lang="en">Awani Sarawak</title></programme>
+<programme start="20210228214500 +0800" stop="20210228215900 +0800" channel="AWANI"><title lang="en">Fokus Minggu Depan</title></programme>
+<programme start="20210228215900 +0800" stop="20210228220000 +0800" channel="AWANI"><title lang="en">AWANI Ringkas</title></programme>
+<programme start="20210228220000 +0800" stop="20210228223000 +0800" channel="AWANI"><title lang="en">The Future is Female</title></programme>
+<programme start="20210228223000 +0800" stop="20210228230000 +0800" channel="AWANI"><title lang="en">Week Ahead</title></programme>
+<programme start="20210228230000 +0800" stop="20210228233000 +0800" channel="AWANI"><title lang="en">(L) Buletin Awani</title></programme>
+<programme start="20210228233000 +0800" stop="20210228234500 +0800" channel="AWANI"><title lang="en">Fokus Minggu Depan</title></programme>
+<programme start="20210228234500 +0800" stop="20210301000000 +0800" channel="AWANI"><title lang="en">Awani Sarawak</title></programme>
+<programme start="20210301000000 +0800" stop="20210301003000 +0800" channel="AWANI"><title lang="en">(L) Buletin Awani</title></programme>
+<programme start="20210301003000 +0800" stop="20210301010000 +0800" channel="AWANI"><title lang="en">Agenda Awani</title></programme>
+<programme start="20210301010000 +0800" stop="20210301013000 +0800" channel="AWANI"><title lang="en">Buletin Awani</title></programme>
+<programme start="20210301013000 +0800" stop="20210301020000 +0800" channel="AWANI"><title lang="en">Nadi Arena</title></programme>
+<programme start="20210301020000 +0800" stop="20210301023000 +0800" channel="AWANI"><title lang="en">Buletin Awani</title></programme>
+<programme start="20210301023000 +0800" stop="20210301030000 +0800" channel="AWANI"><title lang="en">Agenda Awani</title></programme>
+<programme start="20210301030000 +0800" stop="20210301033000 +0800" channel="AWANI"><title lang="en">Buletin Awani</title></programme>
+<programme start="20210301033000 +0800" stop="20210301040000 +0800" channel="AWANI"><title lang="en">Nadi Arena</title></programme>
+<programme start="20210301040000 +0800" stop="20210301043000 +0800" channel="AWANI"><title lang="en">Buletin Awani</title></programme>
+<programme start="20210301043000 +0800" stop="20210301050000 +0800" channel="AWANI"><title lang="en">Agenda Awani</title></programme>
+<programme start="20210301050000 +0800" stop="20210301053000 +0800" channel="AWANI"><title lang="en">Buletin Awani</title></programme>
+<programme start="20210301053000 +0800" stop="20210301060000 +0800" channel="AWANI"><title lang="en">Nadi Arena</title></programme>
+<programme start="20210301060000 +0800" stop="20210301060100 +0800" channel="AWANI"><title lang="en">AWANI Ringkas</title></programme>
+<programme start="20210301060100 +0800" stop="20210301063000 +0800" channel="AWANI"><title lang="en">Consider This</title></programme>
+<programme start="20210301063000 +0800" stop="20210301070000 +0800" channel="AWANI"><title lang="en">Fokus Minggu Depan</title></programme>
+<programme start="20210301070000 +0800" stop="20210301070100 +0800" channel="AWANI"><title lang="en">AWANI Ringkas</title></programme>
+<programme start="20210301070100 +0800" stop="20210301073000 +0800" channel="AWANI"><title lang="en">(L) Buletin Awani</title></programme>
+<programme start="20210301073000 +0800" stop="20210301080000 +0800" channel="AWANI"><title lang="en">(L) Awani Pagi</title></programme>
+<programme start="20210301080000 +0800" stop="20210301080100 +0800" channel="AWANI"><title lang="en">AWANI Ringkas</title></programme>
+<programme start="20210301080100 +0800" stop="20210301083000 +0800" channel="AWANI"><title lang="en">(L) Buletin Awani</title></programme>
+<programme start="20210301083000 +0800" stop="20210301090000 +0800" channel="AWANI"><title lang="en">(L) AWANI Pagi</title></programme>
+<programme start="20210301090000 +0800" stop="20210301090100 +0800" channel="AWANI"><title lang="en">AWANI Ringkas</title></programme>
+<programme start="20210301090100 +0800" stop="20210301093000 +0800" channel="AWANI"><title lang="en">(L) Niaga AWANI</title></programme>
+<programme start="20210301093000 +0800" stop="20210301100000 +0800" channel="AWANI"><title lang="en">Buletin Awani</title></programme>
+<programme start="20210301100000 +0800" stop="20210301103000 +0800" channel="AWANI"><title lang="en">(L) Buletin Awani</title></programme>
+<programme start="20210301103000 +0800" stop="20210301110000 +0800" channel="AWANI"><title lang="en">Buletin Awani</title></programme>
+<programme start="20210301110000 +0800" stop="20210301113000 +0800" channel="AWANI"><title lang="en">Niaga AWANI</title></programme>
+<programme start="20210301113000 +0800" stop="20210301120000 +0800" channel="AWANI"><title lang="en">Agenda Awani</title></programme>
+<programme start="20210301120000 +0800" stop="20210301120100 +0800" channel="AWANI"><title lang="en">AWANI Ringkas</title></programme>
+<programme start="20210301120100 +0800" stop="20210301123000 +0800" channel="AWANI"><title lang="en">(L) Buletin Awani</title></programme>
+<programme start="20210301123000 +0800" stop="20210301130000 +0800" channel="AWANI"><title lang="en">Buletin Awani</title></programme>
+<programme start="20210301130000 +0800" stop="20210301130100 +0800" channel="AWANI"><title lang="en">AWANI Ringkas</title></programme>
+<programme start="20210301130100 +0800" stop="20210301133000 +0800" channel="AWANI"><title lang="en">Buletin Awani</title></programme>
+<programme start="20210301133000 +0800" stop="20210301140000 +0800" channel="AWANI"><title lang="en">Buletin Awani</title></programme>
+<programme start="20210301140000 +0800" stop="20210301140100 +0800" channel="AWANI"><title lang="en">AWANI Ringkas</title></programme>
+<programme start="20210301140100 +0800" stop="20210301143000 +0800" channel="AWANI"><title lang="en">(L) Buletin Awani</title></programme>
+<programme start="20210301143000 +0800" stop="20210301150000 +0800" channel="AWANI"><title lang="en">Buletin Awani</title></programme>
+<programme start="20210301150000 +0800" stop="20210301150100 +0800" channel="AWANI"><title lang="en">AWANI Ringkas</title></programme>
+<programme start="20210301150100 +0800" stop="20210301153000 +0800" channel="AWANI"><title lang="en">(L) Buletin Awani</title></programme>
+<programme start="20210301153000 +0800" stop="20210301160000 +0800" channel="AWANI"><title lang="en">Buletin Awani</title></programme>
+<programme start="20210301160000 +0800" stop="20210301160100 +0800" channel="AWANI"><title lang="en">AWANI Ringkas</title></programme>
+<programme start="20210301160100 +0800" stop="20210301163000 +0800" channel="AWANI"><title lang="en">(L) Buletin Awani</title></programme>
+<programme start="20210301163000 +0800" stop="20210301170000 +0800" channel="AWANI"><title lang="en">Buletin Awani</title></programme>
+<programme start="20210301170000 +0800" stop="20210301170100 +0800" channel="AWANI"><title lang="en">AWANI Ringkas</title></programme>
+<programme start="20210301170100 +0800" stop="20210301173000 +0800" channel="AWANI"><title lang="en">(L) Cerita</title></programme>
+<programme start="20210301173000 +0800" stop="20210301180000 +0800" channel="AWANI"><title lang="en">(L) Buletin Awani</title></programme>
+<programme start="20210301180000 +0800" stop="20210301180100 +0800" channel="AWANI"><title lang="en">AWANI Ringkas</title></programme>
+<programme start="20210301180100 +0800" stop="20210301183000 +0800" channel="AWANI"><title lang="en">Buletin Awani</title></programme>
+<programme start="20210301183000 +0800" stop="20210301190000 +0800" channel="AWANI"><title lang="en">Agenda Awani</title></programme>
+<programme start="20210301190000 +0800" stop="20210301191500 +0800" channel="AWANI"><title lang="en">(L) Awani Sarawak</title></programme>
+<programme start="20210301191500 +0800" stop="20210301194500 +0800" channel="AWANI"><title lang="en">Cerita</title></programme>
+<programme start="20210301194500 +0800" stop="20210301203000 +0800" channel="AWANI"><title lang="en">(L) AWANI 7:45</title></programme>
+<programme start="20210301203000 +0800" stop="20210301210000 +0800" channel="AWANI"><title lang="en">Nadi Arena</title></programme>
+<programme start="20210301210000 +0800" stop="20210301212900 +0800" channel="AWANI"><title lang="en">(L) Agenda Awani</title></programme>
+<programme start="20210301212900 +0800" stop="20210301213000 +0800" channel="AWANI"><title lang="en">AWANI Ringkas</title></programme>
+<programme start="20210301213000 +0800" stop="20210301214500 +0800" channel="AWANI"><title lang="en">Awani Sarawak</title></programme>
+<programme start="20210301214500 +0800" stop="20210301215900 +0800" channel="AWANI"><title lang="en">(L) Awani Tonight</title></programme>
+<programme start="20210301215900 +0800" stop="20210301220000 +0800" channel="AWANI"><title lang="en">AWANI Ringkas</title></programme>
+<programme start="20210301220000 +0800" stop="20210301223000 +0800" channel="AWANI"><title lang="en">Consider This</title></programme>
+<programme start="20210301223000 +0800" stop="20210301230000 +0800" channel="AWANI"><title lang="en">Notepad with Ibrahim Sani</title></programme>
+<programme start="20210301230000 +0800" stop="20210301231500 +0800" channel="AWANI"><title lang="en">Awani Tonight</title></programme>
+<programme start="20210301231500 +0800" stop="20210301234500 +0800" channel="AWANI"><title lang="en">Consider This</title></programme>
+<programme start="20210301234500 +0800" stop="20210302000000 +0800" channel="AWANI"><title lang="en">Awani Sarawak</title></programme>
+<programme start="20210302000000 +0800" stop="20210302003000 +0800" channel="AWANI"><title lang="en">(L) Buletin Awani</title></programme>
+<programme start="20210302003000 +0800" stop="20210302010000 +0800" channel="AWANI"><title lang="en">Agenda Awani</title></programme>
+<programme start="20210302010000 +0800" stop="20210302013000 +0800" channel="AWANI"><title lang="en">Buletin Awani</title></programme>
+<programme start="20210302013000 +0800" stop="20210302020000 +0800" channel="AWANI"><title lang="en">Nadi Arena</title></programme>
+<programme start="20210302020000 +0800" stop="20210302023000 +0800" channel="AWANI"><title lang="en">Buletin Awani</title></programme>
+<programme start="20210302023000 +0800" stop="20210302030000 +0800" channel="AWANI"><title lang="en">Agenda Awani</title></programme>
+<programme start="20210302030000 +0800" stop="20210302033000 +0800" channel="AWANI"><title lang="en">Buletin Awani</title></programme>
+<programme start="20210302033000 +0800" stop="20210302040000 +0800" channel="AWANI"><title lang="en">Nadi Arena</title></programme>
+<programme start="20210302040000 +0800" stop="20210302043000 +0800" channel="AWANI"><title lang="en">Buletin Awani</title></programme>
+<programme start="20210302043000 +0800" stop="20210302050000 +0800" channel="AWANI"><title lang="en">Agenda Awani</title></programme>
+<programme start="20210302050000 +0800" stop="20210302053000 +0800" channel="AWANI"><title lang="en">Buletin Awani</title></programme>
+<programme start="20210302053000 +0800" stop="20210302060000 +0800" channel="AWANI"><title lang="en">Nadi Arena</title></programme>
+<programme start="20210302060000 +0800" stop="20210302060100 +0800" channel="AWANI"><title lang="en">AWANI Ringkas</title></programme>
+<programme start="20210302060100 +0800" stop="20210302063000 +0800" channel="AWANI"><title lang="en">Consider This</title></programme>
+<programme start="20210302063000 +0800" stop="20210302064500 +0800" channel="AWANI"><title lang="en">Awani Sarawak</title></programme>
+<programme start="20210302064500 +0800" stop="20210302070000 +0800" channel="AWANI"><title lang="en">Cerita</title></programme>
+<programme start="20210302070000 +0800" stop="20210302070100 +0800" channel="AWANI"><title lang="en">AWANI Ringkas</title></programme>
+<programme start="20210302070100 +0800" stop="20210302073000 +0800" channel="AWANI"><title lang="en">(L) Buletin Awani</title></programme>
+<programme start="20210302073000 +0800" stop="20210302080000 +0800" channel="AWANI"><title lang="en">(L) Awani Pagi</title></programme>
+<programme start="20210302080000 +0800" stop="20210302080100 +0800" channel="AWANI"><title lang="en">AWANI Ringkas</title></programme>
+<programme start="20210302080100 +0800" stop="20210302083000 +0800" channel="AWANI"><title lang="en">(L) Buletin Awani</title></programme>
+<programme start="20210302083000 +0800" stop="20210302090000 +0800" channel="AWANI"><title lang="en">(L) AWANI Pagi</title></programme>
+<programme start="20210302090000 +0800" stop="20210302090100 +0800" channel="AWANI"><title lang="en">AWANI Ringkas</title></programme>
+<programme start="20210302090100 +0800" stop="20210302093000 +0800" channel="AWANI"><title lang="en">(L) Niaga AWANI</title></programme>
+<programme start="20210302093000 +0800" stop="20210302100000 +0800" channel="AWANI"><title lang="en">Buletin Awani</title></programme>
+<programme start="20210302100000 +0800" stop="20210302103000 +0800" channel="AWANI"><title lang="en">(L) Buletin Awani</title></programme>
+<programme start="20210302103000 +0800" stop="20210302110000 +0800" channel="AWANI"><title lang="en">Buletin Awani</title></programme>
+<programme start="20210302110000 +0800" stop="20210302113000 +0800" channel="AWANI"><title lang="en">Niaga AWANI</title></programme>
+<programme start="20210302113000 +0800" stop="20210302120000 +0800" channel="AWANI"><title lang="en">Agenda Awani</title></programme>
+<programme start="20210302120000 +0800" stop="20210302120100 +0800" channel="AWANI"><title lang="en">AWANI Ringkas</title></programme>
+<programme start="20210302120100 +0800" stop="20210302123000 +0800" channel="AWANI"><title lang="en">(L) Buletin Awani</title></programme>
+<programme start="20210302123000 +0800" stop="20210302130000 +0800" channel="AWANI"><title lang="en">Buletin Awani</title></programme>
+<programme start="20210302130000 +0800" stop="20210302130100 +0800" channel="AWANI"><title lang="en">AWANI Ringkas</title></programme>
+<programme start="20210302130100 +0800" stop="20210302133000 +0800" channel="AWANI"><title lang="en">(L) Buletin Awani</title></programme>
+<programme start="20210302133000 +0800" stop="20210302140000 +0800" channel="AWANI"><title lang="en">Buletin Awani</title></programme>
+<programme start="20210302140000 +0800" stop="20210302140100 +0800" channel="AWANI"><title lang="en">AWANI Ringkas</title></programme>
+<programme start="20210302140100 +0800" stop="20210302143000 +0800" channel="AWANI"><title lang="en">(L) Buletin Awani</title></programme>
+<programme start="20210302143000 +0800" stop="20210302150000 +0800" channel="AWANI"><title lang="en">Buletin Awani</title></programme>
+<programme start="20210302150000 +0800" stop="20210302150100 +0800" channel="AWANI"><title lang="en">AWANI Ringkas</title></programme>
+<programme start="20210302150100 +0800" stop="20210302153000 +0800" channel="AWANI"><title lang="en">(L) Buletin Awani</title></programme>
+<programme start="20210302153000 +0800" stop="20210302160000 +0800" channel="AWANI"><title lang="en">Buletin Awani</title></programme>
+<programme start="20210302160000 +0800" stop="20210302160100 +0800" channel="AWANI"><title lang="en">AWANI Ringkas</title></programme>
+<programme start="20210302160100 +0800" stop="20210302163000 +0800" channel="AWANI"><title lang="en">(L) Buletin Awani</title></programme>
+<programme start="20210302163000 +0800" stop="20210302170000 +0800" channel="AWANI"><title lang="en">Buletin Awani</title></programme>
+<programme start="20210302170000 +0800" stop="20210302170100 +0800" channel="AWANI"><title lang="en">AWANI Ringkas</title></programme>
+<programme start="20210302170100 +0800" stop="20210302173000 +0800" channel="AWANI"><title lang="en">(L) Cerita</title></programme>
+<programme start="20210302173000 +0800" stop="20210302180000 +0800" channel="AWANI"><title lang="en">(L) Buletin Awani</title></programme>
+<programme start="20210302180000 +0800" stop="20210302180100 +0800" channel="AWANI"><title lang="en">AWANI Ringkas</title></programme>
+<programme start="20210302180100 +0800" stop="20210302183000 +0800" channel="AWANI"><title lang="en">Buletin Awani</title></programme>
+<programme start="20210302183000 +0800" stop="20210302190000 +0800" channel="AWANI"><title lang="en">Agenda Awani</title></programme>
+<programme start="20210302190000 +0800" stop="20210302191500 +0800" channel="AWANI"><title lang="en">(L) Awani Sarawak</title></programme>
+<programme start="20210302191500 +0800" stop="20210302194500 +0800" channel="AWANI"><title lang="en">Cerita</title></programme>
+<programme start="20210302194500 +0800" stop="20210302203000 +0800" channel="AWANI"><title lang="en">(L) AWANI 7:45</title></programme>
+<programme start="20210302203000 +0800" stop="20210302210000 +0800" channel="AWANI"><title lang="en">Nadi Arena</title></programme>
+<programme start="20210302210000 +0800" stop="20210302213000 +0800" channel="AWANI"><title lang="en">(L) Agenda Awani</title></programme>
+<programme start="20210302213000 +0800" stop="20210302214500 +0800" channel="AWANI"><title lang="en">Awani Sarawak</title></programme>
+<programme start="20210302214500 +0800" stop="20210302215900 +0800" channel="AWANI"><title lang="en">(L) Awani Tonight</title></programme>
+<programme start="20210302215900 +0800" stop="20210302220000 +0800" channel="AWANI"><title lang="en">AWANI Ringkas</title></programme>
+<programme start="20210302220000 +0800" stop="20210302223000 +0800" channel="AWANI"><title lang="en">(L) Consider This</title></programme>
+<programme start="20210302223000 +0800" stop="20210302230000 +0800" channel="AWANI"><title lang="en">Notepad with Ibrahim Sani</title></programme>
+<programme start="20210302230000 +0800" stop="20210302231500 +0800" channel="AWANI"><title lang="en">Awani Tonight</title></programme>
+<programme start="20210302231500 +0800" stop="20210302234500 +0800" channel="AWANI"><title lang="en">(L) Consider This</title></programme>
+<programme start="20210302234500 +0800" stop="20210303000000 +0800" channel="AWANI"><title lang="en">Awani Sarawak</title></programme>
+<programme start="20210303000000 +0800" stop="20210303003000 +0800" channel="AWANI"><title lang="en">(L) Buletin Awani</title></programme>
+<programme start="20210303003000 +0800" stop="20210303010000 +0800" channel="AWANI"><title lang="en">Agenda Awani</title></programme>
+<programme start="20210303010000 +0800" stop="20210303013000 +0800" channel="AWANI"><title lang="en">Buletin Awani</title></programme>
+<programme start="20210303013000 +0800" stop="20210303020000 +0800" channel="AWANI"><title lang="en">Nadi Arena</title></programme>
+<programme start="20210303020000 +0800" stop="20210303023000 +0800" channel="AWANI"><title lang="en">Buletin Awani</title></programme>
+<programme start="20210303023000 +0800" stop="20210303030000 +0800" channel="AWANI"><title lang="en">Agenda Awani</title></programme>
+<programme start="20210303030000 +0800" stop="20210303033000 +0800" channel="AWANI"><title lang="en">Buletin Awani</title></programme>
+<programme start="20210303033000 +0800" stop="20210303040000 +0800" channel="AWANI"><title lang="en">Nadi Arena</title></programme>
+<programme start="20210303040000 +0800" stop="20210303043000 +0800" channel="AWANI"><title lang="en">Buletin Awani</title></programme>
+<programme start="20210303043000 +0800" stop="20210303050000 +0800" channel="AWANI"><title lang="en">Agenda Awani</title></programme>
+<programme start="20210303050000 +0800" stop="20210303053000 +0800" channel="AWANI"><title lang="en">Buletin Awani</title></programme>
+<programme start="20210303053000 +0800" stop="20210303060000 +0800" channel="AWANI"><title lang="en">Nadi Arena</title></programme>
+<programme start="20210303060000 +0800" stop="20210303060100 +0800" channel="AWANI"><title lang="en">AWANI Ringkas</title></programme>
+<programme start="20210303060100 +0800" stop="20210303063000 +0800" channel="AWANI"><title lang="en">Consider This</title></programme>
+<programme start="20210303063000 +0800" stop="20210303064500 +0800" channel="AWANI"><title lang="en">Awani Sarawak</title></programme>
+<programme start="20210303064500 +0800" stop="20210303070000 +0800" channel="AWANI"><title lang="en">Cerita</title></programme>
+<programme start="20210303070000 +0800" stop="20210303070100 +0800" channel="AWANI"><title lang="en">AWANI Ringkas</title></programme>
+<programme start="20210303070100 +0800" stop="20210303073000 +0800" channel="AWANI"><title lang="en">(L) Buletin Awani</title></programme>
+<programme start="20210303073000 +0800" stop="20210303080000 +0800" channel="AWANI"><title lang="en">(L) Awani Pagi</title></programme>
+<programme start="20210303080000 +0800" stop="20210303080100 +0800" channel="AWANI"><title lang="en">AWANI Ringkas</title></programme>
+<programme start="20210303080100 +0800" stop="20210303083000 +0800" channel="AWANI"><title lang="en">(L) Buletin Awani</title></programme>
+<programme start="20210303083000 +0800" stop="20210303090000 +0800" channel="AWANI"><title lang="en">(L) AWANI Pagi</title></programme>
+<programme start="20210303090000 +0800" stop="20210303090100 +0800" channel="AWANI"><title lang="en">AWANI Ringkas</title></programme>
+<programme start="20210303090100 +0800" stop="20210303093000 +0800" channel="AWANI"><title lang="en">(L) Niaga AWANI</title></programme>
+<programme start="20210303093000 +0800" stop="20210303100000 +0800" channel="AWANI"><title lang="en">Buletin Awani</title></programme>
+<programme start="20210303100000 +0800" stop="20210303103000 +0800" channel="AWANI"><title lang="en">(L) Buletin Awani</title></programme>
+<programme start="20210303103000 +0800" stop="20210303110000 +0800" channel="AWANI"><title lang="en">Buletin Awani</title></programme>
+<programme start="20210303110000 +0800" stop="20210303113000 +0800" channel="AWANI"><title lang="en">Niaga AWANI</title></programme>
+<programme start="20210303113000 +0800" stop="20210303120000 +0800" channel="AWANI"><title lang="en">Agenda Awani</title></programme>
+<programme start="20210303120000 +0800" stop="20210303120100 +0800" channel="AWANI"><title lang="en">AWANI Ringkas</title></programme>
+<programme start="20210303120100 +0800" stop="20210303123000 +0800" channel="AWANI"><title lang="en">(L) Buletin Awani</title></programme>
+<programme start="20210303123000 +0800" stop="20210303130000 +0800" channel="AWANI"><title lang="en">Buletin Awani</title></programme>
+<programme start="20210303130000 +0800" stop="20210303130100 +0800" channel="AWANI"><title lang="en">AWANI Ringkas</title></programme>
+<programme start="20210303130100 +0800" stop="20210303133000 +0800" channel="AWANI"><title lang="en">(L) Buletin Awani</title></programme>
+<programme start="20210303133000 +0800" stop="20210303140000 +0800" channel="AWANI"><title lang="en">Buletin Awani</title></programme>
+<programme start="20210303140000 +0800" stop="20210303140100 +0800" channel="AWANI"><title lang="en">AWANI Ringkas</title></programme>
+<programme start="20210303140100 +0800" stop="20210303143000 +0800" channel="AWANI"><title lang="en">(L) Buletin Awani</title></programme>
+<programme start="20210303143000 +0800" stop="20210303150000 +0800" channel="AWANI"><title lang="en">Buletin Awani</title></programme>
+<programme start="20210303150000 +0800" stop="20210303150100 +0800" channel="AWANI"><title lang="en">AWANI Ringkas</title></programme>
+<programme start="20210303150100 +0800" stop="20210303153000 +0800" channel="AWANI"><title lang="en">(L) Buletin Awani</title></programme>
+<programme start="20210303153000 +0800" stop="20210303160000 +0800" channel="AWANI"><title lang="en">Buletin Awani</title></programme>
+<programme start="20210303160000 +0800" stop="20210303160100 +0800" channel="AWANI"><title lang="en">AWANI Ringkas</title></programme>
+<programme start="20210303160100 +0800" stop="20210303163000 +0800" channel="AWANI"><title lang="en">(L) Buletin Awani</title></programme>
+<programme start="20210303163000 +0800" stop="20210303170000 +0800" channel="AWANI"><title lang="en">Buletin Awani</title></programme>
+<programme start="20210303170000 +0800" stop="20210303170100 +0800" channel="AWANI"><title lang="en">AWANI Ringkas</title></programme>
+<programme start="20210303170100 +0800" stop="20210303173000 +0800" channel="AWANI"><title lang="en">(L) Cerita</title></programme>
+<programme start="20210303173000 +0800" stop="20210303180000 +0800" channel="AWANI"><title lang="en">(L) Buletin Awani</title></programme>
+<programme start="20210303180000 +0800" stop="20210303180100 +0800" channel="AWANI"><title lang="en">AWANI Ringkas</title></programme>
+<programme start="20210303180100 +0800" stop="20210303183000 +0800" channel="AWANI"><title lang="en">Buletin Awani</title></programme>
+<programme start="20210303183000 +0800" stop="20210303190000 +0800" channel="AWANI"><title lang="en">Agenda Awani</title></programme>
+<programme start="20210303190000 +0800" stop="20210303191500 +0800" channel="AWANI"><title lang="en">(L) Awani Sarawak</title></programme>
+<programme start="20210303191500 +0800" stop="20210303194500 +0800" channel="AWANI"><title lang="en">Cerita</title></programme>
+<programme start="20210303194500 +0800" stop="20210303203000 +0800" channel="AWANI"><title lang="en">(L) AWANI 7:45</title></programme>
+<programme start="20210303203000 +0800" stop="20210303210000 +0800" channel="AWANI"><title lang="en">Nadi Arena</title></programme>
+<programme start="20210303210000 +0800" stop="20210303212900 +0800" channel="AWANI"><title lang="en">(L) Agenda Awani</title></programme>
+<programme start="20210303212900 +0800" stop="20210303213000 +0800" channel="AWANI"><title lang="en">AWANI Ringkas</title></programme>
+<programme start="20210303213000 +0800" stop="20210303214500 +0800" channel="AWANI"><title lang="en">Awani Sarawak</title></programme>
+<programme start="20210303214500 +0800" stop="20210303215900 +0800" channel="AWANI"><title lang="en">(L) Awani Tonight</title></programme>
+<programme start="20210303215900 +0800" stop="20210303220000 +0800" channel="AWANI"><title lang="en">AWANI Ringkas</title></programme>
+<programme start="20210303220000 +0800" stop="20210303223000 +0800" channel="AWANI"><title lang="en">(L) Consider This</title></programme>
+<programme start="20210303223000 +0800" stop="20210303230000 +0800" channel="AWANI"><title lang="en">Notepad with Ibrahim Sani</title></programme>
+<programme start="20210303230000 +0800" stop="20210303231500 +0800" channel="AWANI"><title lang="en">Awani Tonight</title></programme>
+<programme start="20210303231500 +0800" stop="20210303234500 +0800" channel="AWANI"><title lang="en">Cerita</title></programme>
+<programme start="20210303234500 +0800" stop="20210304000000 +0800" channel="AWANI"><title lang="en">Awani Sarawak</title></programme>
+<programme start="20210304000000 +0800" stop="20210304003000 +0800" channel="AWANI"><title lang="en">(L) Buletin Awani</title></programme>
+<programme start="20210304003000 +0800" stop="20210304010000 +0800" channel="AWANI"><title lang="en">Agenda Awani</title></programme>
+<programme start="20210304010000 +0800" stop="20210304013000 +0800" channel="AWANI"><title lang="en">Buletin Awani</title></programme>
+<programme start="20210304013000 +0800" stop="20210304020000 +0800" channel="AWANI"><title lang="en">Nadi Arena</title></programme>
+<programme start="20210304020000 +0800" stop="20210304023000 +0800" channel="AWANI"><title lang="en">Buletin Awani</title></programme>
+<programme start="20210304023000 +0800" stop="20210304030000 +0800" channel="AWANI"><title lang="en">Agenda Awani</title></programme>
+<programme start="20210304030000 +0800" stop="20210304033000 +0800" channel="AWANI"><title lang="en">Buletin Awani</title></programme>
+<programme start="20210304033000 +0800" stop="20210304040000 +0800" channel="AWANI"><title lang="en">Nadi Arena</title></programme>
+<programme start="20210304040000 +0800" stop="20210304043000 +0800" channel="AWANI"><title lang="en">Buletin Awani</title></programme>
+<programme start="20210304043000 +0800" stop="20210304050000 +0800" channel="AWANI"><title lang="en">Agenda Awani</title></programme>
+<programme start="20210304050000 +0800" stop="20210304053000 +0800" channel="AWANI"><title lang="en">Buletin Awani</title></programme>
+<programme start="20210304053000 +0800" stop="20210304060000 +0800" channel="AWANI"><title lang="en">Nadi Arena</title></programme>
+<programme start="20210304060000 +0800" stop="20210304060100 +0800" channel="AWANI"><title lang="en">AWANI Ringkas</title></programme>
+<programme start="20210304060100 +0800" stop="20210304063000 +0800" channel="AWANI"><title lang="en">Consider This</title></programme>
+<programme start="20210304063000 +0800" stop="20210304064500 +0800" channel="AWANI"><title lang="en">Awani Sarawak</title></programme>
+<programme start="20210304064500 +0800" stop="20210304070000 +0800" channel="AWANI"><title lang="en">Cerita</title></programme>
+<programme start="20210304070000 +0800" stop="20210304070100 +0800" channel="AWANI"><title lang="en">AWANI Ringkas</title></programme>
+<programme start="20210304070100 +0800" stop="20210304073000 +0800" channel="AWANI"><title lang="en">(L) Buletin Awani</title></programme>
+<programme start="20210304073000 +0800" stop="20210304080000 +0800" channel="AWANI"><title lang="en">(L) Awani Pagi</title></programme>
+<programme start="20210304080000 +0800" stop="20210304080100 +0800" channel="AWANI"><title lang="en">AWANI Ringkas</title></programme>
+<programme start="20210304080100 +0800" stop="20210304083000 +0800" channel="AWANI"><title lang="en">(L) Buletin Awani</title></programme>
+<programme start="20210304083000 +0800" stop="20210304090000 +0800" channel="AWANI"><title lang="en">AWANI Pagi</title></programme>
+<programme start="20210304090000 +0800" stop="20210304090100 +0800" channel="AWANI"><title lang="en">AWANI Ringkas</title></programme>
+<programme start="20210304090100 +0800" stop="20210304093000 +0800" channel="AWANI"><title lang="en">(L) Niaga AWANI</title></programme>
+<programme start="20210304093000 +0800" stop="20210304100000 +0800" channel="AWANI"><title lang="en">Buletin Awani</title></programme>
+<programme start="20210304100000 +0800" stop="20210304103000 +0800" channel="AWANI"><title lang="en">(L) Buletin Awani</title></programme>
+<programme start="20210304103000 +0800" stop="20210304110000 +0800" channel="AWANI"><title lang="en">Buletin Awani</title></programme>
+<programme start="20210304110000 +0800" stop="20210304113000 +0800" channel="AWANI"><title lang="en">Niaga AWANI</title></programme>
+<programme start="20210304113000 +0800" stop="20210304120000 +0800" channel="AWANI"><title lang="en">Agenda Awani</title></programme>
+<programme start="20210304120000 +0800" stop="20210304120100 +0800" channel="AWANI"><title lang="en">AWANI Ringkas</title></programme>
+<programme start="20210304120100 +0800" stop="20210304123000 +0800" channel="AWANI"><title lang="en">(L) Buletin Awani</title></programme>
+<programme start="20210304123000 +0800" stop="20210304130000 +0800" channel="AWANI"><title lang="en">Buletin Awani</title></programme>
+<programme start="20210304130000 +0800" stop="20210304130100 +0800" channel="AWANI"><title lang="en">AWANI Ringkas</title></programme>
+<programme start="20210304130100 +0800" stop="20210304133000 +0800" channel="AWANI"><title lang="en">(L) Buletin Awani</title></programme>
+<programme start="20210304133000 +0800" stop="20210304140000 +0800" channel="AWANI"><title lang="en">Buletin Awani</title></programme>
+<programme start="20210304140000 +0800" stop="20210304140100 +0800" channel="AWANI"><title lang="en">AWANI Ringkas</title></programme>
+<programme start="20210304140100 +0800" stop="20210304143000 +0800" channel="AWANI"><title lang="en">(L) Buletin Awani</title></programme>
+<programme start="20210304143000 +0800" stop="20210304150000 +0800" channel="AWANI"><title lang="en">Buletin Awani</title></programme>
+<programme start="20210304150000 +0800" stop="20210304150100 +0800" channel="AWANI"><title lang="en">AWANI Ringkas</title></programme>
+<programme start="20210304150100 +0800" stop="20210304153000 +0800" channel="AWANI"><title lang="en">(L) Buletin Awani</title></programme>
+<programme start="20210304153000 +0800" stop="20210304160000 +0800" channel="AWANI"><title lang="en">Buletin Awani</title></programme>
+<programme start="20210304160000 +0800" stop="20210304160100 +0800" channel="AWANI"><title lang="en">AWANI Ringkas</title></programme>
+<programme start="20210304160100 +0800" stop="20210304163000 +0800" channel="AWANI"><title lang="en">(L) Buletin Awani</title></programme>
+<programme start="20210304163000 +0800" stop="20210304170000 +0800" channel="AWANI"><title lang="en">Buletin Awani</title></programme>
+<programme start="20210304170000 +0800" stop="20210304170100 +0800" channel="AWANI"><title lang="en">AWANI Ringkas</title></programme>
+<programme start="20210304170100 +0800" stop="20210304173000 +0800" channel="AWANI"><title lang="en">(L) Cerita</title></programme>
+<programme start="20210304173000 +0800" stop="20210304180000 +0800" channel="AWANI"><title lang="en">(L) Buletin Awani</title></programme>
+<programme start="20210304180000 +0800" stop="20210304183000 +0800" channel="AWANI"><title lang="en">Buletin Awani</title></programme>
+<programme start="20210304183000 +0800" stop="20210304190000 +0800" channel="AWANI"><title lang="en">Agenda Awani Asia</title></programme>
+<programme start="20210304190000 +0800" stop="20210304191500 +0800" channel="AWANI"><title lang="en">(L) Awani Sarawak</title></programme>
+<programme start="20210304191500 +0800" stop="20210304194500 +0800" channel="AWANI"><title lang="en">Cerita</title></programme>
+<programme start="20210304194500 +0800" stop="20210304203000 +0800" channel="AWANI"><title lang="en">(L) AWANI 7:45</title></programme>
+<programme start="20210304203000 +0800" stop="20210304210000 +0800" channel="AWANI"><title lang="en">Nadi Arena</title></programme>
+<programme start="20210304210000 +0800" stop="20210304212900 +0800" channel="AWANI"><title lang="en">(L) Agenda Awani</title></programme>
+<programme start="20210304212900 +0800" stop="20210304213000 +0800" channel="AWANI"><title lang="en">AWANI Ringkas</title></programme>
+<programme start="20210304213000 +0800" stop="20210304214500 +0800" channel="AWANI"><title lang="en">Awani Sarawak</title></programme>
+<programme start="20210304214500 +0800" stop="20210304215900 +0800" channel="AWANI"><title lang="en">(L) Awani Tonight</title></programme>
+<programme start="20210304215900 +0800" stop="20210304220000 +0800" channel="AWANI"><title lang="en">AWANI Ringkas</title></programme>
+<programme start="20210304220000 +0800" stop="20210304223000 +0800" channel="AWANI"><title lang="en">(L) Consider This</title></programme>
+<programme start="20210304223000 +0800" stop="20210304230000 +0800" channel="AWANI"><title lang="en">Notepad with Ibrahim Sani</title></programme>
+<programme start="20210304230000 +0800" stop="20210304231500 +0800" channel="AWANI"><title lang="en">Awani Tonight</title></programme>
+<programme start="20210304231500 +0800" stop="20210304234500 +0800" channel="AWANI"><title lang="en">Cerita</title></programme>
+<programme start="20210304234500 +0800" stop="20210305000000 +0800" channel="AWANI"><title lang="en">Awani Sarawak</title></programme>
+<programme start="20210305000000 +0800" stop="20210305003000 +0800" channel="AWANI"><title lang="en">(L) Buletin Awani</title></programme>
+<programme start="20210305003000 +0800" stop="20210305010000 +0800" channel="AWANI"><title lang="en">Agenda Awani</title></programme>
+<programme start="20210305010000 +0800" stop="20210305013000 +0800" channel="AWANI"><title lang="en">Buletin Awani</title></programme>
+<programme start="20210305013000 +0800" stop="20210305020000 +0800" channel="AWANI"><title lang="en">Nadi Arena</title></programme>
+<programme start="20210305020000 +0800" stop="20210305023000 +0800" channel="AWANI"><title lang="en">Buletin Awani</title></programme>
+<programme start="20210305023000 +0800" stop="20210305030000 +0800" channel="AWANI"><title lang="en">Agenda Awani</title></programme>
+<programme start="20210305030000 +0800" stop="20210305033000 +0800" channel="AWANI"><title lang="en">Buletin Awani</title></programme>
+<programme start="20210305033000 +0800" stop="20210305040000 +0800" channel="AWANI"><title lang="en">Nadi Arena</title></programme>
+<programme start="20210305040000 +0800" stop="20210305043000 +0800" channel="AWANI"><title lang="en">Buletin Awani</title></programme>
+<programme start="20210305043000 +0800" stop="20210305050000 +0800" channel="AWANI"><title lang="en">Agenda Awani</title></programme>
+<programme start="20210305050000 +0800" stop="20210305053000 +0800" channel="AWANI"><title lang="en">Buletin Awani</title></programme>
+<programme start="20210305053000 +0800" stop="20210305060000 +0800" channel="AWANI"><title lang="en">Nadi Arena</title></programme>
+<programme start="20210305060000 +0800" stop="20210305060100 +0800" channel="AWANI"><title lang="en">AWANI Ringkas</title></programme>
+<programme start="20210305060100 +0800" stop="20210305063000 +0800" channel="AWANI"><title lang="en">Consider This</title></programme>
+<programme start="20210305063000 +0800" stop="20210305064500 +0800" channel="AWANI"><title lang="en">Awani Sarawak</title></programme>
+<programme start="20210305064500 +0800" stop="20210305070000 +0800" channel="AWANI"><title lang="en">Cerita</title></programme>
+<programme start="20210305070000 +0800" stop="20210305070100 +0800" channel="AWANI"><title lang="en">AWANI Ringkas</title></programme>
+<programme start="20210305070100 +0800" stop="20210305073000 +0800" channel="AWANI"><title lang="en">(L) Buletin Awani</title></programme>
+<programme start="20210305073000 +0800" stop="20210305080000 +0800" channel="AWANI"><title lang="en">(L) Awani Pagi</title></programme>
+<programme start="20210305080000 +0800" stop="20210305080100 +0800" channel="AWANI"><title lang="en">AWANI Ringkas</title></programme>
+<programme start="20210305080100 +0800" stop="20210305083000 +0800" channel="AWANI"><title lang="en">(L) Buletin Awani</title></programme>
+<programme start="20210305083000 +0800" stop="20210305090000 +0800" channel="AWANI"><title lang="en">(L) AWANI Pagi</title></programme>
+<programme start="20210305090000 +0800" stop="20210305090100 +0800" channel="AWANI"><title lang="en">AWANI Ringkas</title></programme>
+<programme start="20210305090100 +0800" stop="20210305093000 +0800" channel="AWANI"><title lang="en">(L) Niaga AWANI</title></programme>
+<programme start="20210305093000 +0800" stop="20210305100000 +0800" channel="AWANI"><title lang="en">Buletin Awani</title></programme>
+<programme start="20210305100000 +0800" stop="20210305100100 +0800" channel="AWANI"><title lang="en">AWANI Ringkas</title></programme>
+<programme start="20210305100100 +0800" stop="20210305103000 +0800" channel="AWANI"><title lang="en">(L) Buletin Awani</title></programme>
+<programme start="20210305103000 +0800" stop="20210305110000 +0800" channel="AWANI"><title lang="en">Agenda Awani</title></programme>
+<programme start="20210305110000 +0800" stop="20210305113000 +0800" channel="AWANI"><title lang="en">Niaga AWANI</title></programme>
+<programme start="20210305113000 +0800" stop="20210305120000 +0800" channel="AWANI"><title lang="en">Buletin Awani</title></programme>
+<programme start="20210305120000 +0800" stop="20210305120100 +0800" channel="AWANI"><title lang="en">AWANI Ringkas</title></programme>
+<programme start="20210305120100 +0800" stop="20210305123000 +0800" channel="AWANI"><title lang="en">(L) Buletin Awani</title></programme>
+<programme start="20210305123000 +0800" stop="20210305130000 +0800" channel="AWANI"><title lang="en">Buletin Awani</title></programme>
+<programme start="20210305130000 +0800" stop="20210305130100 +0800" channel="AWANI"><title lang="en">AWANI Ringkas</title></programme>
+<programme start="20210305130100 +0800" stop="20210305133000 +0800" channel="AWANI"><title lang="en">Niaga AWANI</title></programme>
+<programme start="20210305133000 +0800" stop="20210305140000 +0800" channel="AWANI"><title lang="en">Agenda Awani</title></programme>
+<programme start="20210305140000 +0800" stop="20210305140100 +0800" channel="AWANI"><title lang="en">AWANI Ringkas</title></programme>
+<programme start="20210305140100 +0800" stop="20210305143000 +0800" channel="AWANI"><title lang="en">(L) Buletin Awani</title></programme>
+<programme start="20210305143000 +0800" stop="20210305150000 +0800" channel="AWANI"><title lang="en">Buletin Awani</title></programme>
+<programme start="20210305150000 +0800" stop="20210305150100 +0800" channel="AWANI"><title lang="en">AWANI Ringkas</title></programme>
+<programme start="20210305150100 +0800" stop="20210305153000 +0800" channel="AWANI"><title lang="en">(L) Buletin Awani</title></programme>
+<programme start="20210305153000 +0800" stop="20210305160000 +0800" channel="AWANI"><title lang="en">Buletin Awani</title></programme>
+<programme start="20210305160000 +0800" stop="20210305160100 +0800" channel="AWANI"><title lang="en">AWANI Ringkas</title></programme>
+<programme start="20210305160100 +0800" stop="20210305163000 +0800" channel="AWANI"><title lang="en">(L) Buletin Awani</title></programme>
+<programme start="20210305163000 +0800" stop="20210305170000 +0800" channel="AWANI"><title lang="en">Buletin Awani</title></programme>
+<programme start="20210305170000 +0800" stop="20210305170100 +0800" channel="AWANI"><title lang="en">AWANI Ringkas</title></programme>
+<programme start="20210305170100 +0800" stop="20210305173000 +0800" channel="AWANI"><title lang="en">(L) Cerita</title></programme>
+<programme start="20210305173000 +0800" stop="20210305180000 +0800" channel="AWANI"><title lang="en">(L) Buletin Awani</title></programme>
+<programme start="20210305180000 +0800" stop="20210305180100 +0800" channel="AWANI"><title lang="en">AWANI Ringkas</title></programme>
+<programme start="20210305180100 +0800" stop="20210305183000 +0800" channel="AWANI"><title lang="en">Buletin Awani</title></programme>
+<programme start="20210305183000 +0800" stop="20210305190000 +0800" channel="AWANI"><title lang="en">Agenda Awani</title></programme>
+<programme start="20210305190000 +0800" stop="20210305191500 +0800" channel="AWANI"><title lang="en">(L) Awani Sarawak</title></programme>
+<programme start="20210305191500 +0800" stop="20210305194500 +0800" channel="AWANI"><title lang="en">Cerita</title></programme>
+<programme start="20210305194500 +0800" stop="20210305203000 +0800" channel="AWANI"><title lang="en">(L) AWANI 7:45</title></programme>
+<programme start="20210305203000 +0800" stop="20210305210000 +0800" channel="AWANI"><title lang="en">Nadi Arena</title></programme>
+<programme start="20210305210000 +0800" stop="20210305212900 +0800" channel="AWANI"><title lang="en">(L) Agenda Awani</title></programme>
+<programme start="20210305212900 +0800" stop="20210305213000 +0800" channel="AWANI"><title lang="en">AWANI Ringkas</title></programme>
+<programme start="20210305213000 +0800" stop="20210305214500 +0800" channel="AWANI"><title lang="en">Awani Sarawak</title></programme>
+<programme start="20210305214500 +0800" stop="20210305215900 +0800" channel="AWANI"><title lang="en">(L) Awani Tonight</title></programme>
+<programme start="20210305215900 +0800" stop="20210305220000 +0800" channel="AWANI"><title lang="en">AWANI Ringkas</title></programme>
+<programme start="20210305220000 +0800" stop="20210305223000 +0800" channel="AWANI"><title lang="en">(L) Consider This</title></programme>
+<programme start="20210305223000 +0800" stop="20210305230000 +0800" channel="AWANI"><title lang="en">Notepad with Ibrahim Sani</title></programme>
+<programme start="20210305230000 +0800" stop="20210305231500 +0800" channel="AWANI"><title lang="en">Awani Tonight</title></programme>
+<programme start="20210305231500 +0800" stop="20210305233000 +0800" channel="AWANI"><title lang="en">Awani Sarawak</title></programme>
+<programme start="20210305233000 +0800" stop="20210306000000 +0800" channel="AWANI"><title lang="en">(L) Bual Bola</title></programme>
+<programme start="20210306000000 +0800" stop="20210306003000 +0800" channel="AWANI"><title lang="en">(L) Buletin Awani</title></programme>
+<programme start="20210306003000 +0800" stop="20210306010000 +0800" channel="AWANI"><title lang="en">Agenda Awani</title></programme>
+<programme start="20210306010000 +0800" stop="20210306013000 +0800" channel="AWANI"><title lang="en">Buletin Awani</title></programme>
+<programme start="20210306013000 +0800" stop="20210306020000 +0800" channel="AWANI"><title lang="en">Nadi Arena</title></programme>
+<programme start="20210306020000 +0800" stop="20210306023000 +0800" channel="AWANI"><title lang="en">Buletin Awani</title></programme>
+<programme start="20210306023000 +0800" stop="20210306030000 +0800" channel="AWANI"><title lang="en">Agenda Awani</title></programme>
+<programme start="20210306030000 +0800" stop="20210306033000 +0800" channel="AWANI"><title lang="en">Buletin Awani</title></programme>
+<programme start="20210306033000 +0800" stop="20210306040000 +0800" channel="AWANI"><title lang="en">Nadi Arena</title></programme>
+<programme start="20210306040000 +0800" stop="20210306043000 +0800" channel="AWANI"><title lang="en">Buletin Awani</title></programme>
+<programme start="20210306043000 +0800" stop="20210306050000 +0800" channel="AWANI"><title lang="en">Agenda Awani</title></programme>
+<programme start="20210306050000 +0800" stop="20210306053000 +0800" channel="AWANI"><title lang="en">Buletin Awani</title></programme>
+<programme start="20210306053000 +0800" stop="20210306060000 +0800" channel="AWANI"><title lang="en">Nadi Arena</title></programme>
+<programme start="20210306060000 +0800" stop="20210306060100 +0800" channel="AWANI"><title lang="en">AWANI Ringkas</title></programme>
+<programme start="20210306060100 +0800" stop="20210306063000 +0800" channel="AWANI"><title lang="en">Consider This</title></programme>
+<programme start="20210306063000 +0800" stop="20210306064500 +0800" channel="AWANI"><title lang="en">Awani Sarawak</title></programme>
+<programme start="20210306064500 +0800" stop="20210306070000 +0800" channel="AWANI"><title lang="en">Cerita</title></programme>
+<programme start="20210306070000 +0800" stop="20210306070100 +0800" channel="AWANI"><title lang="en">AWANI Ringkas</title></programme>
+<programme start="20210306070100 +0800" stop="20210306073000 +0800" channel="AWANI"><title lang="en">(L) Buletin Awani</title></programme>
+<programme start="20210306073000 +0800" stop="20210306080000 +0800" channel="AWANI"><title lang="en">(L) Awani Pagi</title></programme>
+<programme start="20210306080000 +0800" stop="20210306080100 +0800" channel="AWANI"><title lang="en">AWANI Ringkas</title></programme>
+<programme start="20210306080100 +0800" stop="20210306083000 +0800" channel="AWANI"><title lang="en">Buletin Awani</title></programme>
+<programme start="20210306083000 +0800" stop="20210306090000 +0800" channel="AWANI"><title lang="en">AWANI Pagi</title></programme>
+<programme start="20210306090000 +0800" stop="20210306090100 +0800" channel="AWANI"><title lang="en">AWANI Ringkas</title></programme>
+<programme start="20210306090100 +0800" stop="20210306093000 +0800" channel="AWANI"><title lang="en">AWANI Global</title></programme>
+<programme start="20210306093000 +0800" stop="20210306100000 +0800" channel="AWANI"><title lang="en">Buletin Awani</title></programme>
+<programme start="20210306100000 +0800" stop="20210306100100 +0800" channel="AWANI"><title lang="en">AWANI Ringkas</title></programme>
+<programme start="20210306100100 +0800" stop="20210306103000 +0800" channel="AWANI"><title lang="en">(L) Buletin Awani</title></programme>
+<programme start="20210306103000 +0800" stop="20210306110000 +0800" channel="AWANI"><title lang="en">Buletin Awani</title></programme>
+<programme start="20210306110000 +0800" stop="20210306110100 +0800" channel="AWANI"><title lang="en">AWANI Ringkas</title></programme>
+<programme start="20210306110100 +0800" stop="20210306113000 +0800" channel="AWANI"><title lang="en">Agenda Awani</title></programme>
+<programme start="20210306113000 +0800" stop="20210306120000 +0800" channel="AWANI"><title lang="en">Buletin Awani</title></programme>
+<programme start="20210306120000 +0800" stop="20210306120100 +0800" channel="AWANI"><title lang="en">AWANI Ringkas</title></programme>
+<programme start="20210306120100 +0800" stop="20210306123000 +0800" channel="AWANI"><title lang="en">(L) Buletin Awani</title></programme>
+<programme start="20210306123000 +0800" stop="20210306130000 +0800" channel="AWANI"><title lang="en">Buletin Awani</title></programme>
+<programme start="20210306130000 +0800" stop="20210306130100 +0800" channel="AWANI"><title lang="en">AWANI Ringkas</title></programme>
+<programme start="20210306130100 +0800" stop="20210306133000 +0800" channel="AWANI"><title lang="en">(L) Buletin Awani</title></programme>
+<programme start="20210306133000 +0800" stop="20210306140000 +0800" channel="AWANI"><title lang="en">Buletin Awani</title></programme>
+<programme start="20210306140000 +0800" stop="20210306140100 +0800" channel="AWANI"><title lang="en">AWANI Ringkas</title></programme>
+<programme start="20210306140100 +0800" stop="20210306143000 +0800" channel="AWANI"><title lang="en">(L) Buletin Awani</title></programme>
+<programme start="20210306143000 +0800" stop="20210306150000 +0800" channel="AWANI"><title lang="en">Buletin Awani</title></programme>
+<programme start="20210306150000 +0800" stop="20210306150100 +0800" channel="AWANI"><title lang="en">AWANI Ringkas</title></programme>
+<programme start="20210306150100 +0800" stop="20210306153000 +0800" channel="AWANI"><title lang="en">(L) Buletin Awani</title></programme>
+<programme start="20210306153000 +0800" stop="20210306160000 +0800" channel="AWANI"><title lang="en">Buletin Awani</title></programme>
+<programme start="20210306160000 +0800" stop="20210306160100 +0800" channel="AWANI"><title lang="en">AWANI Ringkas</title></programme>
+<programme start="20210306160100 +0800" stop="20210306163000 +0800" channel="AWANI"><title lang="en">(L) Buletin Awani</title></programme>
+<programme start="20210306163000 +0800" stop="20210306170000 +0800" channel="AWANI"><title lang="en">Buletin Awani</title></programme>
+<programme start="20210306170000 +0800" stop="20210306170100 +0800" channel="AWANI"><title lang="en">AWANI Ringkas</title></programme>
+<programme start="20210306170100 +0800" stop="20210306173000 +0800" channel="AWANI"><title lang="en">(L) Fokus Minggu Depan</title></programme>
+<programme start="20210306173000 +0800" stop="20210306180000 +0800" channel="AWANI"><title lang="en">(L) Buletin Awani</title></programme>
+<programme start="20210306180000 +0800" stop="20210306180100 +0800" channel="AWANI"><title lang="en">AWANI Ringkas</title></programme>
+<programme start="20210306180100 +0800" stop="20210306183000 +0800" channel="AWANI"><title lang="en">Buletin Awani</title></programme>
+<programme start="20210306183000 +0800" stop="20210306190000 +0800" channel="AWANI"><title lang="en">Agenda Awani</title></programme>
+<programme start="20210306190000 +0800" stop="20210306191500 +0800" channel="AWANI"><title lang="en">(L) Awani Sarawak</title></programme>
+<programme start="20210306191500 +0800" stop="20210306194500 +0800" channel="AWANI"><title lang="en">Fokus Minggu Depan</title></programme>
+<programme start="20210306194500 +0800" stop="20210306203000 +0800" channel="AWANI"><title lang="en">(L) AWANI 7:45</title></programme>
+<programme start="20210306203000 +0800" stop="20210306210000 +0800" channel="AWANI"><title lang="en">Nadi Arena</title></programme>
+<programme start="20210306210000 +0800" stop="20210306213000 +0800" channel="AWANI"><title lang="en">Agenda Awani Asia</title></programme>
+<programme start="20210306213000 +0800" stop="20210306214500 +0800" channel="AWANI"><title lang="en">Awani Sarawak</title></programme>
+<programme start="20210306214500 +0800" stop="20210306215900 +0800" channel="AWANI"><title lang="en">Fokus Minggu Depan</title></programme>
+<programme start="20210306215900 +0800" stop="20210306220000 +0800" channel="AWANI"><title lang="en">AWANI Ringkas</title></programme>
+<programme start="20210306220000 +0800" stop="20210306223000 +0800" channel="AWANI"><title lang="en">Let's Talk with Sharaad Kuttan</title></programme>
+<programme start="20210306223000 +0800" stop="20210306230000 +0800" channel="AWANI"><title lang="en">AWANI Review</title></programme>
+<programme start="20210306230000 +0800" stop="20210306233000 +0800" channel="AWANI"><title lang="en">(L) Buletin Awani</title></programme>
+<programme start="20210306233000 +0800" stop="20210306234500 +0800" channel="AWANI"><title lang="en">Fokus Minggu Depan</title></programme>
+<programme start="20210306234500 +0800" stop="20210307000000 +0800" channel="AWANI"><title lang="en">Awani Sarawak</title></programme>
 
 
 
