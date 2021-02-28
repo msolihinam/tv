@@ -10,7 +10,7 @@ https://rtm2mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/playlist.m3u8
 http://50.7.161.82:8278/streams/d/TV3/playlist.m3u8
 
 #EXTINF:104, tvg-id="" tvg-logo="https://raw.githubusercontent.com/msolihinam/tv/main/logo/Hijrah.png" tvg-name="TV9"  group-title="MALAYSIA",TV ALHIJRAH
-plugin://plugin.video.androidrepublica/?url=https://nonton.site:8443/provision/pp/37337
+http://50.7.161.82:8278/streams/d/Alhijrah/playlist.m3u8
 
 #EXTINF:105, tvg-id="" tvg-logo="https://raw.githubusercontent.com/msolihinam/tv/main/logo/Berita_RTM.png" tvg-name="BERITA RTM"  group-title="MALAYSIA",BERITA RTM
 https://rtmbesmobile.secureswiftcontent.com/Origin03/ngrp:RTM3/playlist.m3u8
