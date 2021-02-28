@@ -36,6 +36,12 @@ https://mn-nl.mncdn.com/pertiwitv/pertiwitv/playlist.m3u8
 #EXTINF:112, tvg-id="" tvg-logo="https://raw.githubusercontent.com/msolihinam/tv/main/logo/DramaSangat.png" tvg-name="Drama Sangat"  group-title="MALAYSIA",DRAMA SANGAT
 http://50.7.161.82:8278/streams/d/Dsangat/playlist.m3u8
 
+#EXTINF:113, tvg-id="" tvg-logo="https://raw.githubusercontent.com/msolihinam/tv/main/logo/Bernama.png" tvg-name="BNC"  group-title="MALAYSIA",BERNAMA NEWS
+http://50.7.161.82:8278/streams/d/Bernama/playlist.m3u8
+
+#EXTINF:114, tvg-id="" tvg-logo="https://raw.githubusercontent.com/msolihinam/tv/main/logo/Parlimen.png" tvg-name="PARLIMEN"  group-title="MALAYSIA",RTM PARLIMEN
+https://parlimenrakyatmobile.secureswiftcontent.com/Origin04/ngrp:RTM4/playlist.m3u8
+
 #EXTINF:201, tvg-id="" tvg-logo="https://raw.githubusercontent.com/msolihinam/tv/main/logo/Ria.png" tvg-name="ASTRO RIA"  group-title="ASTRO",ASTRO RIA
 http://ts.lemmovie.com/0d98a346-7dc3-46ac-93b8-62a4b1e2c578.m3u8
 
