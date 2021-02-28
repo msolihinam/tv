@@ -52,7 +52,109 @@
     <title lang="en">#HTV</title>
     <desc lang="en">Sebuah rancangan yang menarik khas untuk tontonan anda.</desc>
   </programme>
-
+</channel>
+<programme start="20210301000000+0800" stop="20210301003000 +0800" channel="TV1 ">
+<title lang="en">Berita Tengah Malam</title>
+</programme>
+<programme start="20210301003000+0800" stop="20210301013000 +0800" channel="TV1 ">
+<title lang="en">World Sport</title>
+</programme>
+<programme start="20210301013000+0800" stop="20210301023000 +0800" channel="TV1 ">
+<title lang="en">Teristimewa</title>
+</programme>
+<programme start="20210301023000+0800" stop="20210301033000 +0800" channel="TV1 ">
+<title lang="en">Pesona Malaysia</title>
+</programme>
+<programme start="20210301033000+0800" stop="20210301040000 +0800" channel="TV1 ">
+<title lang="en">Ekspresi Muzikku</title>
+</programme>
+<programme start="20210301040000+0800" stop="20210301060000 +0800" channel="TV1 ">
+<title lang="en">Ratu Kebaya Masuk U</title>
+</programme>
+<programme start="20210301060000+0800" stop="20210301063000 +0800" channel="TV1 ">
+<title lang="en">Destinasi Hikmah</title>
+</programme>
+<programme start="20210301063000+0800" stop="20210301070000 +0800" channel="TV1 ">
+<title lang="en">Muqaddam</title>
+</programme>
+<programme start="20210301070000+0800" stop="20210301073000 +0800" channel="TV1 ">
+<title lang="en">Berita Pagi</title>
+</programme>
+<programme start="20210301073000+0800" stop="20210301074500 +0800" channel="TV1 ">
+<title lang="en">Berita Pagi Sabah</title>
+</programme>
+<programme start="20210301074500+0800" stop="20210301080000 +0800" channel="TV1 ">
+<title lang="en">Berita Pagi Sarawak</title>
+</programme>
+<programme start="20210301080000+0800" stop="20210301100000 +0800" channel="TV1 ">
+<title lang="en">(L) Amanat Perdana</title>
+</programme>
+<programme start="20210301100000+0800" stop="20210301103000 +0800" channel="TV1 ">
+<title lang="en">Busana Adat</title>
+</programme>
+<programme start="20210301103000+0800" stop="20210301110000 +0800" channel="TV1 ">
+<title lang="en">Mumbai Ke London</title>
+</programme>
+<programme start="20210301110000+0800" stop="20210301113000 +0800" channel="TV1 ">
+<title lang="en">Selera Romantis</title>
+</programme>
+<programme start="20210301113000+0800" stop="20210301120000 +0800" channel="TV1 ">
+<title lang="en">Jom Kayuh</title>
+</programme>
+<programme start="20210301120000+0800" stop="20210301130000 +0800" channel="TV1 ">
+<title lang="en">Great Blue Wild</title>
+</programme>
+<programme start="20210301130000+0800" stop="20210301133000 +0800" channel="TV1 ">
+<title lang="en">Berita Tengah Hari</title>
+</programme>
+<programme start="20210301133000+0800" stop="20210301140000 +0800" channel="TV1 ">
+<title lang="en">Kota Warisan Alam</title>
+</programme>
+<programme start="20210301140000+0800" stop="20210301141500 +0800" channel="TV1 ">
+<title lang="en">Feminin Waja</title>
+</programme>
+<programme start="20210301141500+0800" stop="20210301150000 +0800" channel="TV1 ">
+<title lang="en">Kami Bah Ni</title>
+</programme>
+<programme start="20210301150000+0800" stop="20210301160000 +0800" channel="TV1 ">
+<title lang="en">Cinta Untuk Raf</title>
+</programme>
+<programme start="20210301160000+0800" stop="20210301163000 +0800" channel="TV1 ">
+<title lang="en">Versi Organik</title>
+</programme>
+<programme start="20210301163000+0800" stop="20210301170000 +0800" channel="TV1 ">
+<title lang="en">365 Mengiring Gelombang</title>
+</programme>
+<programme start="20210301170000+0800" stop="20210301180000 +0800" channel="TV1 ">
+<title lang="en">Berita Wilayah</title>
+</programme>
+<programme start="20210301180000+0800" stop="20210301183000 +0800" channel="TV1 ">
+<title lang="en">Santai Rider</title>
+</programme>
+<programme start="20210301183000+0800" stop="20210301190000 +0800" channel="TV1 ">
+<title lang="en">Pewaris Legasi</title>
+</programme>
+<programme start="20210301190000+0800" stop="20210301200000 +0800" channel="TV1 ">
+<title lang="en">Mimpi Yang Sempurna</title>
+</programme>
+<programme start="20210301200000+0800" stop="20210301210000 +0800" channel="TV1 ">
+<title lang="en">Berita Perdana</title>
+</programme>
+<programme start="20210301210000+0800" stop="20210301220000 +0800" channel="TV1 ">
+<title lang="en">(L) Bicara Pengguna</title>
+</programme>
+<programme start="20210301220000+0800" stop="20210301223000 +0800" channel="TV1 ">
+<title lang="en">Panorama</title>
+</programme>
+<programme start="20210301223000+0800" stop="20210301230000 +0800" channel="TV1 ">
+<title lang="en">365 Mengiring Gelombang</title>
+</programme>
+<programme start="20210301230000+0800" stop="20210301233000 +0800" channel="TV1 ">
+<title lang="en">Berita Dunia</title>
+</programme>
+<programme start="20210301233000+0800" stop="20210301000000 +0800" channel="TV1 ">
+<title lang="en">Aspirasi Cub Prix 2020</title>
+</programme>
 
 
 ///// TV2 \\\\\
