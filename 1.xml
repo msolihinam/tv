@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv>
+
+<channel id="TV1">
+<display-name lang="en">TV1</display-name>
+</channel>
+<programme start="20210302160000 +0800" stop="20210302163000 +0800" channel="TV1"><title lang="en">Versi Organik</title></programme>
+<programme start="20210302163000 +0800" stop="20210302170000 +0800" channel="TV1"><title lang="en">Demi Negara</title></programme>
+<programme start="20210302170000 +0800" stop="20210302180000 +0800" channel="TV1"><title lang="en">Berita Wilayah</title></programme>
+<programme start="20210302180000 +0800" stop="20210302190000 +0800" channel="TV1"><title lang="en">Fikrah</title></programme>
+<programme start="20210302190000 +0800" stop="20210302200000 +0800" channel="TV1"><title lang="en">Mimpi Yang Sempurna</title></programme>
+<programme start="20210302200000 +0800" stop="20210302210000 +0800" channel="TV1"><title lang="en">Berita Perdana</title></programme>
+<programme start="20210302210000 +0800" stop="20210302220000 +0800" channel="TV1"><title lang="en">(L) Bicara Inspirasi</title></programme>
+<programme start="20210302220000 +0800" stop="20210302223000 +0800" channel="TV1"><title lang="en">Simfoni Alam</title></programme>
+<programme start="20210302223000 +0800" stop="20210302230000 +0800" channel="TV1"><title lang="en">Jodoh Tersasar Alamat</title></programme>
+<programme start="20210302230000 +0800" stop="20210302233000 +0800" channel="TV1"><title lang="en">Berita Dunia</title></programme>
+<programme start="20210302233000 +0800" stop="20210303000000 +0800" channel="TV1"><title lang="en">ATP Uncovered</title></programme>
+
+<channel id="TV2">
+<display-name lang="en">TV2</display-name>
+</channel>
+<programme start="20210302160000 +0800" stop="20210302163000 +0800" channel="TV2"><title lang="en">Emmerdale</title></programme>
+<programme start="20210302163000 +0800" stop="20210302170000 +0800" channel="TV2"><title lang="en">Coronation Street</title></programme>
+<programme start="20210302170000 +0800" stop="20210302173000 +0800" channel="TV2"><title lang="en">Coronation Street</title></programme>
+<programme start="20210302173000 +0800" stop="20210302183000 +0800" channel="TV2"><title lang="en">Supermarket Sweep</title></programme>
+<programme start="20210302183000 +0800" stop="20210302193000 +0800" channel="TV2"><title lang="en">Love Bites</title></programme>
+<programme start="20210302193000 +0800" stop="20210302203000 +0800" channel="TV2"><title lang="en">Dress To Impress</title></programme>
+<programme start="20210302203000 +0800" stop="20210302210000 +0800" channel="TV2"><title lang="en">Emmerdale</title></programme>
+<programme start="20210302210000 +0800" stop="20210302213000 +0800" channel="TV2"><title lang="en">Coronation Street</title></programme>
+<programme start="20210302213000 +0800" stop="20210302220000 +0800" channel="TV2"><title lang="en">Coronation Street</title></programme>
+<programme start="20210302220000 +0800" stop="20210302225500 +0800" channel="TV2"><title lang="en">New: The Ellen DeGeneres Show</title></programme>
+<programme start="20210302225500 +0800" stop="20210302235500 +0800" channel="TV2"><title lang="en">Love Bites</title></programme>
+<programme start="20210302235500 +0800" stop="20210303000000 +0800" channel="TV2"><title lang="en">New: The Masked Singer US</title></programme>
+
+<channel id="TV3">
+<display-name lang="en">TV3</display-name>
+</channel>
+<programme start="20210302160000 +0800" stop="20210302170000 +0800" channel="TV3"><title lang="en">Yehh Jadu Hai Jinn Kai</title></programme>
+<programme start="20210302170000 +0800" stop="20210302173000 +0800" channel="TV3"><title lang="en">Boboiboy</title></programme>
+<programme start="20210302173000 +0800" stop="20210302190000 +0800" channel="TV3"><title lang="en">Setelah Ku Dimiliki</title></programme>
+<programme start="20210302190000 +0800" stop="20210302200000 +0800" channel="TV3"><title lang="en">Rahimah Tanpa Rahim</title></programme>
+<programme start="20210302200000 +0800" stop="20210302210000 +0800" channel="TV3"><title lang="en">(L) Buletin Utama</title></programme>
+<programme start="20210302210000 +0800" stop="20210302220000 +0800" channel="TV3"><title lang="en">999</title></programme>
+<programme start="20210302220000 +0800" stop="20210302230000 +0800" channel="TV3"><title lang="en">Takdir Yang Tertulis</title></programme>
+<programme start="20210302230000 +0800" stop="20210303000000 +0800" channel="TV3"><title lang="en">Mother</title></programme>
+
+<channel id="ALHIJRAH">
+<display-name lang="en">ALHIJRAH</display-name>
+</channel>
+<programme start="20210302160000 +0800" stop="20210302163000 +0800" channel="HIJRAH"><title lang="en">Ayat Riwayat</title></programme>
+<programme start="20210302163000 +0800" stop="20210302170000 +0800" channel="HIJRAH"><title lang="en">KAFA D' Hijrah</title></programme>
+<programme start="20210302170000 +0800" stop="20210302180000 +0800" channel="HIJRAH"><title lang="en">Not Available</title></programme>
+<programme start="20210302180000 +0800" stop="20210302183000 +0800" channel="HIJRAH"><title lang="en">KALAM HIKMAH</title></programme>
+<programme start="20210302183000 +0800" stop="20210302190000 +0800" channel="HIJRAH"><title lang="en">KAFA D' Hijrah</title></programme>
+<programme start="20210302190000 +0800" stop="20210302192500 +0800" channel="HIJRAH"><title lang="en">Panggilan Agung Maghrib</title></programme>
+<programme start="20210302192500 +0800" stop="20210302193000 +0800" channel="HIJRAH"><title lang="en">Teladan & Sempadan</title></programme>
+<programme start="20210302193000 +0800" stop="20210302200000 +0800" channel="HIJRAH"><title lang="en">Cinta Ilmu</title></programme>
+<programme start="20210302200000 +0800" stop="20210302203000 +0800" channel="HIJRAH"><title lang="en">Berita Alhijrah (L)</title></programme>
+<programme start="20210302203000 +0800" stop="20210302210000 +0800" channel="HIJRAH"><title lang="en">Haflah Al-Quran</title></programme>
+<programme start="20210302210000 +0800" stop="20210302220000 +0800" channel="HIJRAH"><title lang="en">60 Minit Bersama...</title></programme>
+<programme start="20210302220000 +0800" stop="20210302230000 +0800" channel="HIJRAH"><title lang="en">Not Available</title></programme>
+<programme start="20210302230000 +0800" stop="20210302233000 +0800" channel="HIJRAH"><title lang="en">Cinta Ilmu</title></programme>
+<programme start="20210302233000 +0800" stop="20210303000000 +0800" channel="HIJRAH"><title lang="en">E-Kaunter Netizen</title></programme>
+
+<channel id="NTV7">
+<display-name lang="en">NTV7</display-name>
+</channel>
+<programme start="20210302150000 +0800" stop="20210302180000 +0800" channel="NTV7"><title lang="en">Road to Success SPM 2020</title></programme>
+<programme start="20210302180000 +0800" stop="20210302190000 +0800" channel="NTV7"><title lang="en">Aktif</title></programme>
+<programme start="20210302190000 +0800" stop="20210302193000 +0800" channel="NTV7"><title lang="en">Boboiboy</title></programme>
+<programme start="20210302193000 +0800" stop="20210302200000 +0800" channel="NTV7"><title lang="en">Buletin Didik</title></programme>
+<programme start="20210302200000 +0800" stop="20210302210000 +0800" channel="NTV7"><title lang="en">Didik TV</title></programme>
+<programme start="20210302210000 +0800" stop="20210302213000 +0800" channel="NTV7"><title lang="en">Didik TV</title></programme>
+<programme start="20210302213000 +0800" stop="20210302223000 +0800" channel="NTV7"><title lang="en">Mahir</title></programme>
+<programme start="20210302223000 +0800" stop="20210302233000 +0800" channel="NTV7"><title lang="en">Hip Hoppin Asia</title></programme>
+<programme start="20210302233000 +0800" stop="20210303000000 +0800" channel="NTV7"><title lang="en">By the Sea</title></programme>
+
+<channel id="8TV">
+<display-name lang="en">8TV</display-name>
+</channel>
+<programme start="20210302153000 +0800" stop="20210302173000 +0800" channel="8TV"><title lang="en">The Sound of Happiness</title></programme>
+<programme start="20210302173000 +0800" stop="20210302180000 +0800" channel="8TV"><title lang="en">Durian, Kaya, Teh Tarik</title></programme>
+<programme start="20210302180000 +0800" stop="20210302190000 +0800" channel="8TV"><title lang="en">My Sensei Nyonya</title></programme>
+<programme start="20210302190000 +0800" stop="20210302200000 +0800" channel="8TV"><title lang="en">Our Unwinding Ethos</title></programme>
+<programme start="20210302200000 +0800" stop="20210302210000 +0800" channel="8TV"><title lang="en">Mandarin News</title></programme>
+<programme start="20210302210000 +0800" stop="20210302220000 +0800" channel="8TV"><title lang="en">Heroic Journey of Ne Zha</title></programme>
+<programme start="20210302220000 +0800" stop="20210302230000 +0800" channel="8TV"><title lang="en">Dr.Romantic 2</title></programme>
+<programme start="20210302230000 +0800" stop="20210303000000 +0800" channel="8TV"><title lang="en">Ashes of Love</title></programme>
+
+<channel id="TV9">
+<display-name lang="en">TV9</display-name>
+</channel>
+<programme start="20210302150000 +0800" stop="20210302190000 +0800" channel="TV9"><title lang="en">WOWSHOP</title></programme>
+<programme start="20210302190000 +0800" stop="20210302193000 +0800" channel="TV9"><title lang="en">Boboiboy</title></programme>
+<programme start="20210302193000 +0800" stop="20210302200000 +0800" channel="TV9"><title lang="en">Pengembaraan Jason Murad</title></programme>
+<programme start="20210302200000 +0800" stop="20210302203000 +0800" channel="TV9"><title lang="en">Berita TV9</title></programme>
+<programme start="20210302203000 +0800" stop="20210302213000 +0800" channel="TV9"><title lang="en">Papa Nak Menantu</title></programme>
+<programme start="20210302213000 +0800" stop="20210302223000 +0800" channel="TV9"><title lang="en">Mak Cun</title></programme>
+<programme start="20210302223000 +0800" stop="20210303000000 +0800" channel="TV9"><title lang="en">Bila Joyah Masuk TV</title></programme>
+
+<channel id="RIA">
+<display-name lang="en">ASTRO RIA</display-name>
+</channel>
+<programme start="20210302160000 +0800" stop="20210302170000 +0800" channel="RIA"><title lang="en">MegaDrama: Marry Me Senorita Ep16</title></programme>
+<programme start="20210302170000 +0800" stop="20210302180000 +0800" channel="RIA"><title lang="en">Cinderella Metropolitan Ep03</title></programme>
+<programme start="20210302180000 +0800" stop="20210302183000 +0800" channel="RIA"><title lang="en">GeneRIAsi Gap Ep01</title></programme>
+<programme start="20210302183000 +0800" stop="20210302184000 +0800" channel="RIA"><title lang="en">Naura Shorts: Sedapur Bersama</title></programme>
+<programme start="20210302184000 +0800" stop="20210302185000 +0800" channel="RIA"><title lang="en">Parodi Meletop Filler</title></programme>
+<programme start="20210302185000 +0800" stop="20210302190000 +0800" channel="RIA"><title lang="en">Naura Shorts - Sembang Sisters</title></programme>
+<programme start="20210302190000 +0800" stop="20210302200000 +0800" channel="RIA"><title lang="en">My True Friend Ep17</title></programme>
+<programme start="20210302200000 +0800" stop="20210302203000 +0800" channel="RIA"><title lang="en">(L) Awani 7:45</title></programme>
+<programme start="20210302203000 +0800" stop="20210302210000 +0800" channel="RIA"><title lang="en">(L) hlive! 2020</title></programme>
+<programme start="20210302210000 +0800" stop="20210302220000 +0800" channel="RIA"><title lang="en">(L) MeleTOP</title></programme>
+<programme start="20210302220000 +0800" stop="20210302230000 +0800" channel="RIA"><title lang="en">MegaDrama: Marry Me Senorita Ep17</title></programme>
+<programme start="20210302230000 +0800" stop="20210302233000 +0800" channel="RIA"><title lang="en">Syirik</title></programme>
+<programme start="20210302233000 +0800" stop="20210302234000 +0800" channel="RIA"><title lang="en">Naura Shorts: Sedapur Bersama</title></programme>
+<programme start="20210302234000 +0800" stop="20210302235000 +0800" channel="RIA"><title lang="en">Parodi Meletop Filler</title></programme>
+<programme start="20210302235000 +0800" stop="20210303000000 +0800" channel="RIA"><title lang="en">Naura Shorts - Sembang Sisters</title></programme>
+
+<channel id="PRIMA">
+<display-name lang="en">ASTRO PRIMA</display-name>
+</channel>
+<programme start="20210302160000 +0800" stop="20210302163000 +0800" channel="PRIMA"><title lang="en">Bonda Bonding</title></programme>
+<programme start="20210302163000 +0800" stop="20210302164500 +0800" channel="PRIMA"><title lang="en">Kami Geng FIT Ep45</title></programme>
+<programme start="20210302164500 +0800" stop="20210302171500 +0800" channel="PRIMA"><title lang="en">Kau Rasa? 14</title></programme>
+<programme start="20210302171500 +0800" stop="20210302174500 +0800" channel="PRIMA"><title lang="en">Slot Gelihati: Buana Oh Buana Ep2</title></programme>
+<programme start="20210302174500 +0800" stop="20210302180000 +0800" channel="PRIMA"><title lang="en">Awani Sarawak</title></programme>
+<programme start="20210302180000 +0800" stop="20210302190000 +0800" channel="PRIMA"><title lang="en">TIARA: Angkara Cinta Ep87</title></programme>
+<programme start="20210302190000 +0800" stop="20210302191000 +0800" channel="PRIMA"><title lang="en">Lepak@Les'Copaque: Pada Zaman Dahulu 13</title></programme>
+<programme start="20210302191000 +0800" stop="20210302192000 +0800" channel="PRIMA"><title lang="en">Lepak@Les'Copaque: Pada Zaman Dahulu 14</title></programme>
+<programme start="20210302192000 +0800" stop="20210302193000 +0800" channel="PRIMA"><title lang="en">Lepak@Les'Copaque: Pada Zaman Dahulu 15</title></programme>
+<programme start="20210302193000 +0800" stop="20210302194000 +0800" channel="PRIMA"><title lang="en">Lepak@Les'Copaque: Upin & Ipin Kail & Laga Bahagian 1</title></programme>
+<programme start="20210302194000 +0800" stop="20210302195000 +0800" channel="PRIMA"><title lang="en">Lepak@Les'Copaque: Upin & Ipin Kail & Laga Bahagian 2</title></programme>
+<programme start="20210302195000 +0800" stop="20210302200000 +0800" channel="PRIMA"><title lang="en">Lepak@Les'Copaque: Upin & Ipin Kail & Laga Bahagian 3</title></programme>
+<programme start="20210302200000 +0800" stop="20210302203000 +0800" channel="PRIMA"><title lang="en">Jihan Show</title></programme>
+<programme start="20210302203000 +0800" stop="20210302210000 +0800" channel="PRIMA"><title lang="en">The Ku Cin Show Ep4</title></programme>
+<programme start="20210302210000 +0800" stop="20210302220000 +0800" channel="PRIMA"><title lang="en">J-POP 001</title></programme>
+<programme start="20210302220000 +0800" stop="20210302230000 +0800" channel="PRIMA"><title lang="en">Juara Joran 9</title></programme>
+<programme start="20210302230000 +0800" stop="20210303000000 +0800" channel="PRIMA"><title lang="en">Bercakap Dengan Jin</title></programme>
+
+<channel id="OASIS">
+<display-name lang="en">ASTRO OASIS</display-name>
+</channel>
+<programme start="20210302160000 +0800" stop="20210302160500 +0800" channel="OASIS"><title lang="en">Kapsul Tazkirah Malam Jumaat Musim5 Ep2</title></programme>
+<programme start="20210302160500 +0800" stop="20210302161000 +0800" channel="OASIS"><title lang="en">Kaifiyat Salah Jenazah Ep013</title></programme>
+<programme start="20210302161000 +0800" stop="20210302161500 +0800" channel="OASIS"><title lang="en">An Nissa Ep001</title></programme>
+<programme start="20210302161500 +0800" stop="20210302163000 +0800" channel="OASIS"><title lang="en">Satu Juz Sehari Ep9</title></programme>
+<programme start="20210302163000 +0800" stop="20210302170000 +0800" channel="OASIS"><title lang="en">Indahnya Iman</title></programme>
+<programme start="20210302170000 +0800" stop="20210302180000 +0800" channel="OASIS"><title lang="en">Utusan Dari Surga Ep30</title></programme>
+<programme start="20210302180000 +0800" stop="20210302183000 +0800" channel="OASIS"><title lang="en">Haramain Backpackers Ep4</title></programme>
+<programme start="20210302183000 +0800" stop="20210302190000 +0800" channel="OASIS"><title lang="en">Oh My Pondok Ep7</title></programme>
+<programme start="20210302190000 +0800" stop="20210302193000 +0800" channel="OASIS"><title lang="en">Indahnya Iman</title></programme>
+<programme start="20210302193000 +0800" stop="20210302200000 +0800" channel="OASIS"><title lang="en">Mudahnya Fiqh Ep7</title></programme>
+<programme start="20210302200000 +0800" stop="20210302203000 +0800" channel="OASIS"><title lang="en">Change Makers Ep001 - Caprice (Kuala Lumpur, Malaysia)</title></programme>
+<programme start="20210302203000 +0800" stop="20210302210000 +0800" channel="OASIS"><title lang="en">Indahnya Iman</title></programme>
+<programme start="20210302210000 +0800" stop="20210302213000 +0800" channel="OASIS"><title lang="en">Inspirasi Syukur Sukur Ep11</title></programme>
+<programme start="20210302213000 +0800" stop="20210302220000 +0800" channel="OASIS"><title lang="en">Al-Ustaz: UAS Tour 2.0 Ep14</title></programme>
+<programme start="20210302220000 +0800" stop="20210302223000 +0800" channel="OASIS"><title lang="en">Mudahnya Fiqh Ep7</title></programme>
+<programme start="20210302223000 +0800" stop="20210302230000 +0800" channel="OASIS"><title lang="en">Sunnah Home Ep7</title></programme>
+<programme start="20210302230000 +0800" stop="20210302233000 +0800" channel="OASIS"><title lang="en">Diari Tok Kadi Ep8</title></programme>
+<programme start="20210302233000 +0800" stop="20210303000000 +0800" channel="OASIS"><title lang="en">Mengaji Musim 2 Ep13</title></programme>
+
+<channel id="CITRA">
+<display-name lang="en">CITRA</display-name>
+</channel>
+<programme start="20210302150000 +0800" stop="20210302170000 +0800" channel="CITRA"><title lang="en">Hujan Bulan Juni</title></programme>
+<programme start="20210302170000 +0800" stop="20210302190000 +0800" channel="CITRA"><title lang="en">Apa Kata Hati</title></programme>
+<programme start="20210302190000 +0800" stop="20210302203000 +0800" channel="CITRA"><title lang="en">Maut</title></programme>
+<programme start="20210302203000 +0800" stop="20210302210000 +0800" channel="CITRA"><title lang="en">The Making of Hantu Bonceng 2.0</title></programme>
+<programme start="20210302210000 +0800" stop="20210302230000 +0800" channel="CITRA"><title lang="en">Misteri Jam Vintage</title></programme>
+<programme start="20210302230000 +0800" stop="20210303000000 +0800" channel="CITRA"><title lang="en">Deadly Contract</title></programme>
+
+<channel id="WARNA">
+<display-name lang="en">ASTRO WARNA</display-name>
+</channel>
+<programme start="20210302150000 +0800" stop="20210302153000 +0800" channel="WARNA"><title lang="en">Kau Rasa?</title></programme>
+<programme start="20210302153000 +0800" stop="20210302170000 +0800" channel="WARNA"><title lang="en">Super Spontan All Stars</title></programme>
+<programme start="20210302170000 +0800" stop="20210302173000 +0800" channel="WARNA"><title lang="en">Buana Oh Buana</title></programme>
+<programme start="20210302173000 +0800" stop="20210302174500 +0800" channel="WARNA"><title lang="en">Buletin Lawak 2016 (HD)</title></programme>
+<programme start="20210302174500 +0800" stop="20210302180000 +0800" channel="WARNA"><title lang="en">Lawak Boss Boss</title></programme>
+<programme start="20210302180000 +0800" stop="20210302183000 +0800" channel="WARNA"><title lang="en">Betul Ke Bohong? S6 (HD)</title></programme>
+<programme start="20210302183000 +0800" stop="20210302184500 +0800" channel="WARNA"><title lang="en">Jangan Gelak</title></programme>
+<programme start="20210302184500 +0800" stop="20210302190000 +0800" channel="WARNA"><title lang="en">Motif Viral Junior</title></programme>
+<programme start="20210302190000 +0800" stop="20210302193000 +0800" channel="WARNA"><title lang="en">Sepahtu Reunion Live</title></programme>
+<programme start="20210302193000 +0800" stop="20210302200000 +0800" channel="WARNA"><title lang="en">Lawak Tak Lagha</title></programme>
+<programme start="20210302200000 +0800" stop="20210302210000 +0800" channel="WARNA"><title lang="en">Warung Sepahtu Ep07</title></programme>
+<programme start="20210302210000 +0800" stop="20210302220000 +0800" channel="WARNA"><title lang="en">Potong Ep10</title></programme>
+<programme start="20210302220000 +0800" stop="20210303000000 +0800" channel="WARNA"><title lang="en">Lagi Lagi Senario</title></programme>
+
+<channel id="CERIA">
+<display-name lang="en">ASTRO CERIA</display-name>
+</channel>
+<programme start="20210302160000 +0800" stop="20210302163000 +0800" channel="CERIA"><title lang="en">Yo-kai Watch</title></programme>
+<programme start="20210302163000 +0800" stop="20210302164500 +0800" channel="CERIA"><title lang="en">Go Astro Boy Go</title></programme>
+<programme start="20210302164500 +0800" stop="20210302170000 +0800" channel="CERIA"><title lang="en">Go Astro Boy Go</title></programme>
+<programme start="20210302170000 +0800" stop="20210302173000 +0800" channel="CERIA"><title lang="en">Ultraman R/B</title></programme>
+<programme start="20210302173000 +0800" stop="20210302174000 +0800" channel="CERIA"><title lang="en">Sains Tahun 1</title></programme>
+<programme start="20210302174000 +0800" stop="20210302174500 +0800" channel="CERIA"><title lang="en">Sains Tahun 1</title></programme>
+<programme start="20210302174500 +0800" stop="20210302180000 +0800" channel="CERIA"><title lang="en">Sains Tahun 1</title></programme>
+<programme start="20210302180000 +0800" stop="20210302183000 +0800" channel="CERIA"><title lang="en">Fam I Love You</title></programme>
+<programme start="20210302183000 +0800" stop="20210302190000 +0800" channel="CERIA"><title lang="en">Geng Gajet</title></programme>
+<programme start="20210302190000 +0800" stop="20210302193000 +0800" channel="CERIA"><title lang="en">Ultraman Taiga Series</title></programme>
+<programme start="20210302193000 +0800" stop="20210302200000 +0800" channel="CERIA"><title lang="en">Zoids Wild</title></programme>
+<programme start="20210302200000 +0800" stop="20210302203000 +0800" channel="CERIA"><title lang="en">New Doraemon</title></programme>
+<programme start="20210302203000 +0800" stop="20210302210000 +0800" channel="CERIA"><title lang="en">Tsurupika Hagemaru</title></programme>
+<programme start="20210302210000 +0800" stop="20210302213000 +0800" channel="CERIA"><title lang="en">Generasi Gamerz</title></programme>
+<programme start="20210302213000 +0800" stop="20210302220000 +0800" channel="CERIA"><title lang="en">Geng Gajet</title></programme>
+<programme start="20210302220000 +0800" stop="20210302223000 +0800" channel="CERIA"><title lang="en">Dee The Series</title></programme>
+<programme start="20210302223000 +0800" stop="20210302230000 +0800" channel="CERIA"><title lang="en">Strawberi Karipap Musim 3</title></programme>
+<programme start="20210302230000 +0800" stop="20210302233000 +0800" channel="CERIA"><title lang="en">Ultraman Taiga Series</title></programme>
+<programme start="20210302233000 +0800" stop="20210303000000 +0800" channel="CERIA"><title lang="en">Power Rangers Beast Morphers</title></programme>
+
+<channel id="AWANI">
+<display-name lang="en">ASTRO AWANI</display-name>
+</channel>
+<programme start="20210302160000 +0800" stop="20210302160100 +0800" channel="AWANI"><title lang="en">AWANI Ringkas</title></programme>
+<programme start="20210302160100 +0800" stop="20210302163000 +0800" channel="AWANI"><title lang="en">(L) Buletin Awani</title></programme>
+<programme start="20210302163000 +0800" stop="20210302170000 +0800" channel="AWANI"><title lang="en">Buletin Awani</title></programme>
+<programme start="20210302170000 +0800" stop="20210302170100 +0800" channel="AWANI"><title lang="en">AWANI Ringkas</title></programme>
+<programme start="20210302170100 +0800" stop="20210302173000 +0800" channel="AWANI"><title lang="en">(L) Cerita</title></programme>
+<programme start="20210302173000 +0800" stop="20210302180000 +0800" channel="AWANI"><title lang="en">(L) Buletin Awani</title></programme>
+<programme start="20210302180000 +0800" stop="20210302180100 +0800" channel="AWANI"><title lang="en">AWANI Ringkas</title></programme>
+<programme start="20210302180100 +0800" stop="20210302183000 +0800" channel="AWANI"><title lang="en">Buletin Awani</title></programme>
+<programme start="20210302183000 +0800" stop="20210302190000 +0800" channel="AWANI"><title lang="en">Agenda Awani</title></programme>
+<programme start="20210302190000 +0800" stop="20210302191500 +0800" channel="AWANI"><title lang="en">(L) Awani Sarawak</title></programme>
+<programme start="20210302191500 +0800" stop="20210302194500 +0800" channel="AWANI"><title lang="en">Cerita</title></programme>
+<programme start="20210302194500 +0800" stop="20210302203000 +0800" channel="AWANI"><title lang="en">(L) AWANI 7:45</title></programme>
+<programme start="20210302203000 +0800" stop="20210302210000 +0800" channel="AWANI"><title lang="en">Nadi Arena</title></programme>
+<programme start="20210302210000 +0800" stop="20210302213000 +0800" channel="AWANI"><title lang="en">(L) Agenda Awani</title></programme>
+<programme start="20210302213000 +0800" stop="20210302214500 +0800" channel="AWANI"><title lang="en">Awani Sarawak</title></programme>
+<programme start="20210302214500 +0800" stop="20210302215900 +0800" channel="AWANI"><title lang="en">(L) Awani Tonight</title></programme>
+<programme start="20210302215900 +0800" stop="20210302220000 +0800" channel="AWANI"><title lang="en">AWANI Ringkas</title></programme>
+<programme start="20210302220000 +0800" stop="20210302223000 +0800" channel="AWANI"><title lang="en">(L) Consider This</title></programme>
+<programme start="20210302223000 +0800" stop="20210302230000 +0800" channel="AWANI"><title lang="en">Notepad with Ibrahim Sani</title></programme>
+<programme start="20210302230000 +0800" stop="20210302231500 +0800" channel="AWANI"><title lang="en">Awani Tonight</title></programme>
+<programme start="20210302231500 +0800" stop="20210302234500 +0800" channel="AWANI"><title lang="en">Consider This</title></programme>
+<programme start="20210302234500 +0800" stop="20210303000000 +0800" channel="AWANI"><title lang="en">Awani Sarawak</title></programme>
+
+<channel id="BOO">
+<display-name lang="en">BOO</display-name>
+</channel>
+<programme start="20210302121500 +0800" stop="20210302133000 +0800" channel="BOO"><title lang="en">Judas Ghost</title></programme>
+<programme start="20210302133000 +0800" stop="20210302150000 +0800" channel="BOO"><title lang="en">Behind The Trees</title></programme>
+<programme start="20210302150000 +0800" stop="20210302171500 +0800" channel="BOO"><title lang="en">Shake Rattle & Roll 15</title></programme>
+<programme start="20210302171500 +0800" stop="20210302184500 +0800" channel="BOO"><title lang="en">Flipped</title></programme>
+<programme start="20210302184500 +0800" stop="20210302201500 +0800" channel="BOO"><title lang="en">Seru</title></programme>
+<programme start="20210302201500 +0800" stop="20210302223000 +0800" channel="BOO"><title lang="en">The Immortal</title></programme>
+<programme start="20210302223000 +0800" stop="20210303000000 +0800" channel="BOO"><title lang="en">Pacarku Kuntilanak Kembar</title></programme>
+
+</tv>
