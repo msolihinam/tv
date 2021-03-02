@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U  x-tvg-url="https://raw.githubusercontent.com/msolihinam/tv/main/epg.xmltv"
 
 #EXTINF:101, tvg-id="" tvg-logo="https://raw.githubusercontent.com/msolihinam/tv/main/logo/TV1.png" tvg-name="TV1"  group-title="MALAYSIA",TV1
 https://rtm1mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/playlist.m3u8
