@@ -615,69 +615,6 @@
 <display-name lang="en">TV3</display-name>
 <url>mohdsolihin</url>
 </channel>
-<programme start="20210303043000 +0800" stop="20210303053000 +0800" channel="TV3">
-<title lang="en">Takdir Yang Tertulis</title>
-</programme>
-<programme start="20210303053000 +0800" stop="20210303063000 +0800" channel="TV3">
-<title lang="en">WOWSHOP</title>
-</programme>
-<programme start="20210303063000 +0800" stop="20210303080000 +0800" channel="TV3">
-<title lang="en">Tanyalah Ustaz</title>
-</programme>
-<programme start="20210303080000 +0800" stop="20210303093000 +0800" channel="TV3">
-<title lang="en">(L) Malaysia Hari Ini</title>
-</programme>
-<programme start="20210303093000 +0800" stop="20210303100000 +0800" channel="TV3">
-<title lang="en">(L) Buletin Pagi</title>
-</programme>
-<programme start="20210303100000 +0800" stop="20210303103000 +0800" channel="TV3">
-<title lang="en">Paw Patrol</title>
-</programme>
-<programme start="20210303103000 +0800" stop="20210303110000 +0800" channel="TV3">
-<title lang="en">Fairly Odd Parents</title>
-</programme>
-<programme start="20210303110000 +0800" stop="20210303113000 +0800" channel="TV3">
-<title lang="en">WOW SHOP</title>
-</programme>
-<programme start="20210303113000 +0800" stop="20210303120000 +0800" channel="TV3">
-<title lang="en">Fiesta</title>
-</programme>
-<programme start="20210303120000 +0800" stop="20210303130000 +0800" channel="TV3">
-<title lang="en">(L) Wanita Hari Ini</title>
-</programme>
-<programme start="20210303130000 +0800" stop="20210303133000 +0800" channel="TV3">
-<title lang="en">WOW SHOP</title>
-</programme>
-<programme start="20210303133000 +0800" stop="20210303140000 +0800" channel="TV3">
-<title lang="en">(L) Buletin 130</title>
-</programme>
-<programme start="20210303140000 +0800" stop="20210303150000 +0800" channel="TV3">
-<title lang="en">Aku Cinta Dia</title>
-</programme>
-<programme start="20210303150000 +0800" stop="20210303160000 +0800" channel="TV3">
-<title lang="en">Dia</title>
-</programme>
-<programme start="20210303160000 +0800" stop="20210303170000 +0800" channel="TV3">
-<title lang="en">Yehh Jadu Hai Jinn Kai</title>
-</programme>
-<programme start="20210303170000 +0800" stop="20210303173000 +0800" channel="TV3">
-<title lang="en">Boboiboy</title>
-</programme>
-<programme start="20210303173000 +0800" stop="20210303190000 +0800" channel="TV3">
-<title lang="en">Setelah Ku Dimiliki</title>
-</programme>
-<programme start="20210303190000 +0800" stop="20210303200000 +0800" channel="TV3">
-<title lang="en">Pujaan Hati Kanda</title>
-</programme>
-<programme start="20210303200000 +0800" stop="20210303210000 +0800" channel="TV3">
-<title lang="en">(L) Buletin Utama</title>
-</programme>
-<programme start="20210303210000 +0800" stop="20210303220000 +0800" channel="TV3">
-<title lang="en">Shopee 3.3</title>
-</programme>
-<programme start="20210303220000 +0800" stop="20210304230000 +0800" channel="TV3">
-<title lang="en">Aku Yang Kau Gelar Isteri</title>
-</programme>
 <programme start="20210304000000 +0800" stop="20210304003000 +0800" channel="TV3">
 <title lang="en">(L) Nightline</title>
 </programme>
