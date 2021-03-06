@@ -45,14 +45,14 @@ https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/stream04/streamPlaylist.m
 #EXTINF:206, tvg-id="BOO" tvg-logo="https://raw.githubusercontent.com/msolihinam/tv/main/logo/Boo.png" tvg-name="BOO"  group-title="ASTRO",BOO
 http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8
 
+#EXTINF:110, tvg-id="OKEY" tvg-logo="https://raw.githubusercontent.com/msolihinam/tv/main/logo/Okey.png" tvg-name="OKEY"  group-title="MALAYSIA",TV OKEY
+https://rtmokeymobile.secureswiftcontent.com/Origin02/ngrp:RTM2/playlist.m3u8
+
 #EXTINF:105, tvg-id="BERITA" tvg-logo="https://raw.githubusercontent.com/msolihinam/tv/main/logo/Berita_RTM.png" tvg-name="BERITA"  group-title="MALAYSIA",BERITA RTM
 https://rtmbesmobile.secureswiftcontent.com/Origin03/ngrp:RTM3/playlist.m3u8
 
 #EXTINF:106, tvg-id="RTMSPORTS" tvg-logo="https://raw.githubusercontent.com/msolihinam/tv/main/logo/RTM_Sports.png" tvg-name="RTMSPORTS"  group-title="MALAYSIA",RTM SPORTS HD
 https://rtmsportshdmobile.secureswiftcontent.com/Origin02/ngrp:RTM2/playlist.m3u8
-
-#EXTINF:110, tvg-id="OKEY" tvg-logo="https://raw.githubusercontent.com/msolihinam/tv/main/logo/Okey.png" tvg-name="OKEY"  group-title="MALAYSIA",TV OKEY
-https://rtmokeymobile.secureswiftcontent.com/Origin02/ngrp:RTM2/playlist.m3u8
 
 #EXTINF:111, tvg-id="PERTIWI" tvg-logo="https://raw.githubusercontent.com/msolihinam/tv/main/logo/Pertiwi.png" tvg-name="PERTIWI"  group-title="MALAYSIA",PERTIWI TV
 https://mn-nl.mncdn.com/pertiwitv/pertiwitv/playlist.m3u8
@@ -95,21 +95,6 @@ http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Q
 
 #EXTINF:551, tvg-id="NATGEOWILD" tvg-logo="https://raw.githubusercontent.com/msolihinam/tv/main/logo/NatGeoWild.png" tvg-name="NATGEOWILD"  group-title="ASTRO",NATIONAL GEOGRAPHIC WILD
 http://mags.vip:2086/live/jav/jav123/67074.ts
-
-#EXTINF:803, tvg-id="" tvg-logo="https://raw.githubusercontent.com/msolihinam/tv/main/logo/GoShop.png" tvg-name=""  group-title="ASTRO",GO SHOP
-https://agsplayback01.astro.com.my/CH1/master_AGS_RAYA.m3u8
-
-#EXTINF:803, tvg-id="" tvg-logo="https://raw.githubusercontent.com/msolihinam/tv/main/logo/Mandarin.png" tvg-name=""  group-title="ASTRO",GO SHOP 2
-https://agsplayback01.astro.com.my/CH2/master_GOSHOP2.m3u8
-
-#EXTINF:803, tvg-id="" tvg-logo="https://raw.githubusercontent.com/msolihinam/tv/main/logo/Ruuma.png" tvg-name=""  group-title="ASTRO",RUUMA
-https://agsplayback01.astro.com.my/CH1/master_GOSHOP.m3u8
-
-#EXTINF:803, tvg-id="" tvg-logo="https://raw.githubusercontent.com/msolihinam/tv/main/logo/Gaaya.png" tvg-name=""  group-title="ASTRO",GAAYA
-https://agsplayback01.astro.com.my/CH3/master_GOSHOP3.m3u8
-
-#EXTINF:803, tvg-id="" tvg-logo="https://raw.githubusercontent.com/msolihinam/tv/main/logo/Vaanavil.png" tvg-name=""  group-title="ASTRO",VAANAVIL
-https://agsplayback01.astro.com.my/CH3/master_VAANGOSHOP5.m3u8
 
 #EXTINF:99, group-title="TEST",TEST CHANNEL @ MOHD SOLIHIN
 https://liveanevia.mncnow.id/live/eds/NatGeoWild/sa_dash_vmx/NatGeoWild.mpd
