@@ -96,5 +96,5 @@ http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Q
 #EXTINF:551, tvg-id="NATGEOWILD" tvg-logo="https://raw.githubusercontent.com/msolihinam/tv/main/logo/NatGeoWild.png" tvg-name="NATGEOWILD"  group-title="ASTRO",NATIONAL GEOGRAPHIC WILD
 http://mags.vip:2086/live/jav/jav123/67074.ts
 
-#EXTINF:99, group-title="TEST",TEST CHANNEL @ MOHD SOLIHIN
-https://liveanevia.mncnow.id/live/eds/NatGeoWild/sa_dash_vmx/NatGeoWild.mpd
+#EXTINF:103, tvg-id="TV3" tvg-logo="https://raw.githubusercontent.com/msolihinam/tv/main/logo/TV3.png" tvg-name="TV3"  group-title="MALAYSIA",TV3
+http://50.7.161.82:8278/streams/d/TV3/playlist.m3u8
