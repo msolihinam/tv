@@ -88,16 +88,16 @@ http://36.37.252.114:888/Apple/OneTV-044/playlist.m3u8
 rtmp://ivi.bupt.edu.cn:1935/livetv/starsports
 
 #EXTINF:804, tvg-id="BEINSPORTS1" tvg-logo="https://raw.githubusercontent.com/msolihinam/tv/main/logo/BEINEng1.png" tvg-name="BEINSPORTS1"  group-title="OTHERS",BEIN SPORTS 1
-#https://www.livedoomovies.com/02_epl2_720p/chunklist.m3u8
+https://www.livedoomovies.com/02_epl2_720p/chunklist.m3u8
 
 #EXTINF:400, tvg-id="TVN" tvg-logo="https://raw.githubusercontent.com/msolihinam/tv/main/logo/TVN.png" tvg-name="TVN"  group-title="OTHERS",TVN
 http://50.7.161.82:8278/streams/d/TVN/playlist.m3u8
 
 #EXTINF:401, tvg-id="HBOASIA" tvg-logo="https://raw.githubusercontent.com/msolihinam/tv/main/logo/HBO.png" tvg-name="HBO"  group-title="OTHERS",HBO
-#http://fdtvapps.xyz/channel/hbo.m3u8
+http://fdtvapps.xyz/channel/hbo.m3u8
 
 #EXTINF:402, tvg-id="HBOHITS" tvg-logo="https://raw.githubusercontent.com/msolihinam/tv/main/logo/HBOHits.png" tvg-name="HBOHITS"  group-title="OTHERS",HBO HITS
-http://36.37.252.114:888/Apple/OneTV-031/playlist.m3u8
+http://fdtvapps.xyz/channel/hbohits.m3u8
 
 #EXTINF:403, tvg-id="CINEMAX" tvg-logo="https://raw.githubusercontent.com/msolihinam/tv/main/logo/Cinemax.png" tvg-name="CINEMAX"  group-title="OTHERS",CINEMAX
 http://36.37.252.114:888/Apple/OneTV-029/playlist.m3u8
