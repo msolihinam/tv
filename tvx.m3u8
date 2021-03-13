@@ -93,6 +93,9 @@ https://www.livedoomovies.com/02_epl2_720p/chunklist.m3u8
 #EXTINF:400, tvg-id="TVN" tvg-logo="https://raw.githubusercontent.com/msolihinam/tv/main/logo/TVN.png" tvg-name="TVN"  group-title="OTHERS",TVN
 http://50.7.161.82:8278/streams/d/TVN/playlist.m3u8
 
+#EXTINF:403, tvg-name="ONE"  tvg-logo="https://raw.githubusercontent.com/msolihinam/tv/main/logo/One.png" tvg-name="ONE"  group-title="OTHERS", SONY ONE
+http://50.7.161.82:8278/streams/d/SetOne/playlist.m3u8
+
 #EXTINF:401, tvg-id="HBOASIA" tvg-logo="https://raw.githubusercontent.com/msolihinam/tv/main/logo/HBO.png" tvg-name="HBO"  group-title="OTHERS",HBO
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
 
@@ -108,8 +111,11 @@ https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8
 #EXTINF:402, tvg-id="HBOHITS" tvg-logo="https://raw.githubusercontent.com/msolihinam/tv/main/logo/HBOHits.png" tvg-name="HBOHITS"  group-title="OTHERS",HBO HITS Indonesia
 http://fdtvapps.xyz/channel/hbohits.m3u8
 
-#EXTINF:403, tvg-name="ONE"  tvg-logo="https://raw.githubusercontent.com/msolihinam/tv/main/logo/One.png" tvg-name="ONE"  group-title="OTHERS", SONY ONE
-http://50.7.161.82:8278/streams/d/SetOne/playlist.m3u8
+#EXTINF:402, tvg-id="HBOSIGN" tvg-logo="https://raw.githubusercontent.com/msolihinam/tv/main/logo/HBOSign.png" tvg-name="HBOSIGN"  group-title="OTHERS", HBO SIGNATURE
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/index.m3u8
+
+#EXTINF:402, tvg-id="HBOFAMILY" tvg-logo="https://raw.githubusercontent.com/msolihinam/tv/main/logo/HBOFamily.png" tvg-name="HBOFAMILY"  group-title="OTHERS", HBO FAMILY
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/FAMILY/index.m3u8
 
 #EXTINF:404, tvg-id="CINEMAX" tvg-logo="https://raw.githubusercontent.com/msolihinam/tv/main/logo/Cinemax.png" tvg-name="CINEMAX"  group-title="OTHERS",CINEMAX
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
