@@ -96,19 +96,25 @@ http://50.7.161.82:8278/streams/d/TVN/playlist.m3u8
 #EXTINF:401, tvg-id="HBOASIA" tvg-logo="https://raw.githubusercontent.com/msolihinam/tv/main/logo/HBO.png" tvg-name="HBO"  group-title="OTHERS",HBO
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
 
-#EXTINF:402, tvg-id="HBOHITS" tvg-logo="https://raw.githubusercontent.com/msolihinam/tv/main/logo/HBOHits.png" tvg-name="HBOHITS"  group-title="OTHERS",HBO HITS
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8
+#EXTINF:401, tvg-id="HBOASIA" tvg-logo="https://raw.githubusercontent.com/msolihinam/tv/main/logo/HBO.png" tvg-name="HBO"  group-title="OTHERS",HBO Malay Sub
+http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
 
 #EXTINF:401, tvg-id="HBOASIA" tvg-logo="https://raw.githubusercontent.com/msolihinam/tv/main/logo/HBO.png" tvg-name="HBO"  group-title="OTHERS",HBO Indonesia
 http://fdtvapps.xyz/channel/hbo.m3u8
 
+#EXTINF:402, tvg-id="HBOHITS" tvg-logo="https://raw.githubusercontent.com/msolihinam/tv/main/logo/HBOHits.png" tvg-name="HBOHITS"  group-title="OTHERS",HBO HITS
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8
+
 #EXTINF:402, tvg-id="HBOHITS" tvg-logo="https://raw.githubusercontent.com/msolihinam/tv/main/logo/HBOHits.png" tvg-name="HBOHITS"  group-title="OTHERS",HBO HITS Indonesia
 http://fdtvapps.xyz/channel/hbohits.m3u8
 
-#EXTINF:403, tvg-id="CINEMAX" tvg-logo="https://raw.githubusercontent.com/msolihinam/tv/main/logo/Cinemax.png" tvg-name="CINEMAX"  group-title="OTHERS",CINEMAX
+#EXTINF:403, tvg-name="ONE"  tvg-logo="https://raw.githubusercontent.com/msolihinam/tv/main/logo/One.png" tvg-name="ONE"  group-title="OTHERS", SONY ONE
+http://50.7.161.82:8278/streams/d/SetOne/playlist.m3u8
+
+#EXTINF:404, tvg-id="CINEMAX" tvg-logo="https://raw.githubusercontent.com/msolihinam/tv/main/logo/Cinemax.png" tvg-name="CINEMAX"  group-title="OTHERS",CINEMAX
 http://36.37.252.114:888/Apple/OneTV-029/playlist.m3u8
 
-#EXTINF:-1, tvg-id="ANIMAL" tvg-logo="https://raw.githubusercontent.com/msolihinam/tv/main/logo/Animal.png" tvg-name="ANIMAL"  group-title="OTHERS", ANIMAL PLANET
+#EXTINF:550, tvg-id="ANIMAL" tvg-logo="https://raw.githubusercontent.com/msolihinam/tv/main/logo/Animal.png" tvg-name="ANIMAL"  group-title="OTHERS", ANIMAL PLANET
 http://50.7.161.82:8278/streams/d/AnimalPlanet/playlist.m3u8
 
 #EXTINF:551, tvg-id="NATGEO" tvg-logo="https://raw.githubusercontent.com/msolihinam/tv/main/logo/NatGeo.png" tvg-name="NATGEO"  group-title="OTHERS",NATIONAL GEOGRAPHIC
