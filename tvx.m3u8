@@ -45,6 +45,9 @@ http://ts.lemmovie.com/ec85b2d2-8539-4d40-bfc2-64abcf7e8984.m3u8
 #EXTINF:208, tvg-id="AWANI" tvg-logo="https://raw.githubusercontent.com/msolihinam/tv/main/logo/Awani.png" tvg-name="AWANI"  group-title="ASTRO",ASTRO AWANI
 https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/stream04/streamPlaylist.m3u8
 
+#EXTINF:211, tvg-id="ARENA" tvg-logo="https://raw.githubusercontent.com/msolihinam/tv/main/logo/Arena.png" tvg-name="ARENA" group-title="ASTRO",ASTRO ARENA
+http://50.7.161.82:8278/streams/d/Arena/playlist.m3u8
+
 #EXTINF:206, tvg-id="BOO" tvg-logo="https://raw.githubusercontent.com/msolihinam/tv/main/logo/Boo.png" tvg-name="BOO"  group-title="ASTRO",BOO
 http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8
 
@@ -84,17 +87,23 @@ http://36.37.252.114:888/Apple/OneTV-044/playlist.m3u8
 #EXTINF:804, tvg-id="STARSPORTS" tvg-logo="https://raw.githubusercontent.com/msolihinam/tv/main/logo/StarSports.png" tvg-name="STARSPORTS"  group-title="ASTRO",STAR SPORTS
 rtmp://ivi.bupt.edu.cn:1935/livetv/starsports
 
-#EXTINF:401, tvg-id="HBOASIA" tvg-logo="https://raw.githubusercontent.com/msolihinam/tv/main/logo/HBO.png" tvg-name="HBOASIA"  group-title="ASTRO",HBO ASIA
-http://36.37.252.114:888/Apple/OneTV-030/playlist.m3u8
+#EXTINF:400, tvg-id="TVN" tvg-logo="https://raw.githubusercontent.com/msolihinam/tv/main/logo/TVN.png" tvg-name="TVN"  group-title="OTHERS",TVN
+http://50.7.161.82:8278/streams/d/TVN/playlist.m3u8
 
-#EXTINF:402, tvg-id="HBOHITS" tvg-logo="https://raw.githubusercontent.com/msolihinam/tv/main/logo/HBOHits.png" tvg-name="HBOHITS"  group-title="ASTRO",HBO HITS
+#EXTINF:401, tvg-id="HBOASIA" tvg-logo="https://raw.githubusercontent.com/msolihinam/tv/main/logo/HBO.png" tvg-name="HBO"  group-title="OTHERS",HBO
+#http://fdtvapps.xyz/channel/hbo.m3u8
+
+#EXTINF:402, tvg-id="HBOHITS" tvg-logo="https://raw.githubusercontent.com/msolihinam/tv/main/logo/HBOHits.png" tvg-name="HBOHITS"  group-title="OTHERS",HBO HITS
 http://36.37.252.114:888/Apple/OneTV-031/playlist.m3u8
 
-#EXTINF:403, tvg-id="CINEMAX" tvg-logo="https://raw.githubusercontent.com/msolihinam/tv/main/logo/Cinemax.png" tvg-name="CINEMAX"  group-title="ASTRO",CINEMAX
+#EXTINF:403, tvg-id="CINEMAX" tvg-logo="https://raw.githubusercontent.com/msolihinam/tv/main/logo/Cinemax.png" tvg-name="CINEMAX"  group-title="OTHERS",CINEMAX
 http://36.37.252.114:888/Apple/OneTV-029/playlist.m3u8
 
-#EXTINF:551, tvg-id="NATGEO" tvg-logo="https://raw.githubusercontent.com/msolihinam/tv/main/logo/NatGeo.png" tvg-name="NATGEO"  group-title="ASTRO",NATIONAL GEOGRAPHIC
+#EXTINF:-1, tvg-id="ANIMAL" tvg-logo="https://raw.githubusercontent.com/msolihinam/tv/main/logo/Animal.png" tvg-name="ANIMAL"  group-title="OTHERS", ANIMAL PLANET
+http://50.7.161.82:8278/streams/d/AnimalPlanet/playlist.m3u8
+
+#EXTINF:551, tvg-id="NATGEO" tvg-logo="https://raw.githubusercontent.com/msolihinam/tv/main/logo/NatGeo.png" tvg-name="NATGEO"  group-title="OTHERS",NATIONAL GEOGRAPHIC
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/597
 
-#EXTINF:551, tvg-id="NATGEOWILD" tvg-logo="https://raw.githubusercontent.com/msolihinam/tv/main/logo/NatGeoWild.png" tvg-name="NATGEOWILD"  group-title="ASTRO",NATIONAL GEOGRAPHIC WILD
-http://mags.vip:2086/live/jav/jav123/67074.ts
+#EXTINF:551, tvg-id="NATGEOWILD" tvg-logo="https://raw.githubusercontent.com/msolihinam/tv/main/logo/NatGeoWild.png" tvg-name="NATGEOWILD"  group-title="OTHERS",NATIONAL GEOGRAPHIC WILD
+http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8
