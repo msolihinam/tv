@@ -88,7 +88,7 @@ http://36.37.252.114:888/Apple/OneTV-044/playlist.m3u8
 rtmp://ivi.bupt.edu.cn:1935/livetv/starsports
 
 #EXTINF:804, tvg-id="BEINSPORTS1" tvg-logo="https://raw.githubusercontent.com/msolihinam/tv/main/logo/BEINEng1.png" tvg-name="BEINSPORTS1"  group-title="OTHERS",BEIN SPORTS 1
-https://www.livedoomovies.com/02_epl2_720p/chunklist.m3u8
+http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1437.m3u8
 
 #EXTINF:400, tvg-id="TVN" tvg-logo="https://raw.githubusercontent.com/msolihinam/tv/main/logo/TVN.png" tvg-name="TVN"  group-title="OTHERS",TVN
 http://50.7.161.82:8278/streams/d/TVN/playlist.m3u8
