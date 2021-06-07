@@ -99,6 +99,9 @@ http://185.180.221.194:8278/streams/d/Nickjr/playlist.m3u8
 #EXTINF:-1, tvg-id="NICKELODEON" tvg-logo="https://raw.githubusercontent.com/msolihinam/tv/main/logo/Nickelodeon.png" tvg-name="NICKELODEON"  group-title="OTHERS",NICKELODEON
 http://185.180.221.194:8278/streams/d/Nickelodeon/playlist.m3u8
 
+#EXTINF:-1, tvg-id="CN" tvg-logo="https://raw.githubusercontent.com/msolihinam/tv/main/logo/CartoonNetwork.png" tvg-name="CN"  group-title="OTHERS",CARTOON NETWORK
+http://185.180.221.194:8278/streams/d/Cn/playlist.m3u8
+
 #EXTINF:-1, tvg-id="TVN" tvg-logo="https://raw.githubusercontent.com/msolihinam/tv/main/logo/TVN.png" tvg-name="TVN"  group-title="OTHERS",TVN
 http://185.180.221.194:8278/streams/d/TVN/playlist.m3u8
 
