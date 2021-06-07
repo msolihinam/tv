@@ -66,6 +66,9 @@ http://185.180.221.194:8278/streams/d/Assp3/playlist.m3u8
 #EXTINF:-1, tvg-id="SUPERSPORT3" tvg-logo="https://raw.githubusercontent.com/msolihinam/tv/main/logo/SuperSport4.png" tvg-name="SUPERSPORT4"  group-title="SPORTS",ASTRO SUPERSPORT 4
 http://185.180.221.194:8278/streams/d/Assp4/playlist.m3u8
 
+#EXTINF:-1, tvg-id="AFN" tvg-logo="https://raw.githubusercontent.com/msolihinam/tv/main/logo/AFN.png" tvg-name="AFN"  group-title="ASTRO",AFN
+http://185.180.221.194:8278/streams/d/Afc/playlist.m3u8
+
 #EXTINF:-1, tvg-id="NAURA" tvg-logo="https://raw.githubusercontent.com/msolihinam/tv/main/logo/Naura.png" tvg-name="NAURA"  group-title="ASTRO",ASTRO NAURA
 http://185.180.221.194:8278/streams/d/Naura/playlist.m3u8
 
@@ -84,8 +87,17 @@ http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1437.m3u8
 #EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/logo/n7f8ev1600884470.png" group-title="SPORTS",BEIN SPORTS Xtra
 http://77.83.117.60:8888/02_epl1_720p_UK/chunklist.m3u8
 
-#EXTINF:-1, tvg-id="TVN" tvg-logo="https://raw.githubusercontent.com/msolihinam/tv/main/logo/Animax.png" tvg-name="TVN"  group-title="OTHERS",ANIMAX
+#EXTINF:-1, tvg-id="ANIMAX" tvg-logo="https://raw.githubusercontent.com/msolihinam/tv/main/logo/Animax.png" tvg-name="TVN"  group-title="OTHERS",ANIMAX
 http://185.180.221.194:8278/streams/d/Animax/playlist.m3u8
+
+#EXTINF:-1, tvg-id="DISNEY" tvg-logo="https://raw.githubusercontent.com/msolihinam/tv/main/logo/Disney.png" tvg-name="DISNEY"  group-title="OTHERS",DISNEY CHANNEL
+http://185.180.221.194:8278/streams/d/Disneyxd/playlist.m3u8
+
+#EXTINF:-1, tvg-id="NICKJR" tvg-logo="https://raw.githubusercontent.com/msolihinam/tv/main/logo/NickJr.png" tvg-name="NICKJR"  group-title="OTHERS",NICK JR
+http://185.180.221.194:8278/streams/d/Nickjr/playlist.m3u8
+
+#EXTINF:-1, tvg-id="NICKELODEON" tvg-logo="https://raw.githubusercontent.com/msolihinam/tv/main/logo/Nickelodeon.png" tvg-name="NICKELODEON"  group-title="OTHERS",NICKELODEON
+http://185.180.221.194:8278/streams/d/Nickelodeon/playlist.m3u8
 
 #EXTINF:-1, tvg-id="TVN" tvg-logo="https://raw.githubusercontent.com/msolihinam/tv/main/logo/TVN.png" tvg-name="TVN"  group-title="OTHERS",TVN
 http://185.180.221.194:8278/streams/d/TVN/playlist.m3u8
@@ -101,6 +113,9 @@ http://185.180.221.194:8278/streams/d/Axn/playlist.m3u8
 
 #EXTINF:-1, tvg-id="CINEMAX" tvg-logo="https://raw.githubusercontent.com/msolihinam/tv/main/logo/Cinemax.png" tvg-name="CINEMAX"  group-title="MOVIE",CINEMAX
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
+
+#EXTINF:-1, tvg-id="WARNER" tvg-logo="https://raw.githubusercontent.com/msolihinam/tv/main/logo/WarnerTV.png" tvg-name="WARNER"  group-title="MOVIE",WARNER TV
+http://185.180.221.194:8278/streams/d/WarnerTV/playlist.m3u8
 
 #EXTINF:-1, tvg-id="HBOASIA" tvg-logo="https://raw.githubusercontent.com/msolihinam/tv/main/logo/HBO.png" tvg-name="HBO"  group-title="MOVIE",HBO
 http://185.180.221.194:8278/streams/d/Hbo/playlist.m3u8
