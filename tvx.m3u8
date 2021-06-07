@@ -144,12 +144,14 @@ https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
 http://50.7.161.82:8278/streams/d/AnimalPlanet/playlist.m3u8
 
 #EXTINF:551, tvg-id="NATGEO" tvg-logo="https://raw.githubusercontent.com/msolihinam/tv/main/logo/NatGeo.png" tvg-name="NATGEO"  group-title="OTHERS",NATIONAL GEOGRAPHIC
+http://185.180.221.194:8278/streams/d/Natgeo/playlist.m3u8
 https://nonton.site:8443/provision/pp/37389
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/597
 
-#EXTINF:552, tvg-id="NATGEOWILD" tvg-logo="https://raw.githubusercontent.com/msolihinam/tv/main/logo/NatGeoWild.png" tvg-name="NATGEOWILD"  group-title="OTHERS",NATIONAL GEOGRAPHIC WILD
+#EXTINF:552, tvg-id="NATGEOWILD" tvg-logo="https://raw.githubusercontent.com/msolihinam/tv/main/logo/NatGeoWild.png" tvg-name="NATGEOWILD"  group-title="OTHERS",NAT GEO WILD
 https://nonton.site:8443/provision/pp/37388
 http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8
 
-#EXTINF:552, tvg-id="NATGEO" tvg-logo="https://raw.githubusercontent.com/msolihinam/tv/main/logo/NatGeo.png" tvg-name="NATGEOPEO"  group-title="OTHERS",NATIONAL GEOGRAPHIC PEOPLE
+#EXTINF:552, tvg-id="NATGEO" tvg-logo="https://raw.githubusercontent.com/msolihinam/tv/main/logo/NatGeoPeople.png" tvg-name="NATGEOPEO"  group-title="OTHERS",NAT GEO PEOPLE
+http://185.180.221.194:8278/streams/d/Natgeopeople/playlist.m3u8
 https://nonton.site:8443/provision/pp/37413
