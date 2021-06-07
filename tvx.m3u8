@@ -113,7 +113,7 @@ http://185.180.221.194:8278/streams/d/Animax/playlist.m3u8
 #EXTINF:400, tvg-id="TVN" tvg-logo="https://raw.githubusercontent.com/msolihinam/tv/main/logo/TVN.png" tvg-name="TVN"  group-title="OTHERS",TVN
 http://50.7.161.82:8278/streams/d/TVN/playlist.m3u8
 
-#EXTINF:400, tvg-id="TVN" tvg-logo="https://raw.githubusercontent.com/msolihinam/tv/main/logo/TVN.png" tvg-name="TVN"  group-title="OTHERS",TVN MOVIES
+#EXTINF:400, tvg-id="TVN" tvg-logo="https://raw.githubusercontent.com/msolihinam/tv/main/logo/TVNMovies.png" tvg-name="TVN"  group-title="OTHERS",TVN MOVIES
 https://nonton.site:8443/provision/pp/37376
 
 #EXTINF:403, tvg-name="ONE"  tvg-logo="https://raw.githubusercontent.com/msolihinam/tv/main/logo/One.png" tvg-name="ONE"  group-title="OTHERS",ONE
@@ -125,14 +125,8 @@ https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
 #EXTINF:401, tvg-id="HBOASIA" tvg-logo="https://raw.githubusercontent.com/msolihinam/tv/main/logo/HBO.png" tvg-name="HBO"  group-title="OTHERS",HBO Malay Sub
 http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
 
-#EXTINF:401, tvg-id="HBOASIA" tvg-logo="https://raw.githubusercontent.com/msolihinam/tv/main/logo/HBO.png" tvg-name="HBO"  group-title="OTHERS",HBO Indonesia
-http://fdtvapps.xyz/channel/hbo.m3u8
-
 #EXTINF:402, tvg-id="HBOHITS" tvg-logo="https://raw.githubusercontent.com/msolihinam/tv/main/logo/HBOHits.png" tvg-name="HBOHITS"  group-title="OTHERS",HBO HITS
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8
-
-#EXTINF:402, tvg-id="HBOHITS" tvg-logo="https://raw.githubusercontent.com/msolihinam/tv/main/logo/HBOHits.png" tvg-name="HBOHITS"  group-title="OTHERS",HBO HITS Indonesia
-http://fdtvapps.xyz/channel/hbohits.m3u8
 
 #EXTINF:402, tvg-id="HBOSIGN" tvg-logo="https://raw.githubusercontent.com/msolihinam/tv/main/logo/HBOSign.png" tvg-name="HBOSIGN"  group-title="OTHERS",HBO SIGNATURE
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/index.m3u8
@@ -152,8 +146,8 @@ https://nonton.site:8443/provision/pp/37389
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/597
 
 #EXTINF:552, tvg-id="NATGEOWILD" tvg-logo="https://raw.githubusercontent.com/msolihinam/tv/main/logo/NatGeoWild.png" tvg-name="NATGEOWILD"  group-title="OTHERS",NAT GEO WILD
-https://nonton.site:8443/provision/pp/37388
 http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8
+https://nonton.site:8443/provision/pp/37388
 
 #EXTINF:552, tvg-id="NATGEO" tvg-logo="https://raw.githubusercontent.com/msolihinam/tv/main/logo/NatGeoPeople.png" tvg-name="NATGEOPEO"  group-title="OTHERS",NAT GEO PEOPLE
 http://185.180.221.194:8278/streams/d/Natgeopeople/playlist.m3u8
