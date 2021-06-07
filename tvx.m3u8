@@ -96,6 +96,9 @@ https://bein-plutolive-vo.akamaized.net/playlist720bp.m3u8
 #EXTINF:400, tvg-id="TVN" tvg-logo="https://raw.githubusercontent.com/msolihinam/tv/main/logo/TVN.png" tvg-name="TVN"  group-title="OTHERS",TVN
 http://50.7.161.82:8278/streams/d/TVN/playlist.m3u8
 
+#EXTINF:400, tvg-id="TVN" tvg-logo="https://raw.githubusercontent.com/msolihinam/tv/main/logo/TVN.png" tvg-name="TVN"  group-title="OTHERS",TVN MOVIES
+https://nonton.site:8443/provision/pp/37376
+
 #EXTINF:403, tvg-name="ONE"  tvg-logo="https://raw.githubusercontent.com/msolihinam/tv/main/logo/One.png" tvg-name="ONE"  group-title="OTHERS",ONE
 http://50.7.161.82:8278/streams/d/SetOne/playlist.m3u8
 
@@ -127,10 +130,12 @@ https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
 http://50.7.161.82:8278/streams/d/AnimalPlanet/playlist.m3u8
 
 #EXTINF:551, tvg-id="NATGEO" tvg-logo="https://raw.githubusercontent.com/msolihinam/tv/main/logo/NatGeo.png" tvg-name="NATGEO"  group-title="OTHERS",NATIONAL GEOGRAPHIC
+https://nonton.site:8443/provision/pp/37389
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/597
 
-#EXTINF:551, tvg-id="NATGEOWILD" tvg-logo="https://raw.githubusercontent.com/msolihinam/tv/main/logo/NatGeoWild.png" tvg-name="NATGEOWILD"  group-title="OTHERS",NATIONAL GEOGRAPHIC WILD
+#EXTINF:552, tvg-id="NATGEOWILD" tvg-logo="https://raw.githubusercontent.com/msolihinam/tv/main/logo/NatGeoWild.png" tvg-name="NATGEOWILD"  group-title="OTHERS",NATIONAL GEOGRAPHIC WILD
+https://nonton.site:8443/provision/pp/37388
 http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8
 
-#EXTINF:-1, TEST CHANNEL @MOHD SOLIHIN
-https://nonton.site:8443/novi/novi123/37376
+#EXTINF:552, tvg-id="NATGEO" tvg-logo="https://raw.githubusercontent.com/msolihinam/tv/main/logo/NatGeo.png" tvg-name="NATGEOPEO"  group-title="OTHERS",NATIONAL GEOGRAPHIC PEOPLE
+https://nonton.site:8443/provision/pp/37413
