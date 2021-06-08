@@ -78,10 +78,13 @@ http://50.7.161.82:8278/streams/d/Assp3/playlist.m3u8
 #EXTINF:-1, tvg-id="SUPERSPORT3" tvg-logo="https://raw.githubusercontent.com/msolihinam/tv/main/logo/SuperSport4.png" tvg-name="SUPERSPORT4"  group-title="SPORTS",ASTRO SUPERSPORT 4
 http://50.7.161.82:8278/streams/d/Assp4/playlist.m3u8
 
+#EXTINF:106, tvg-id="RTMSPORTS" tvg-logo="https://raw.githubusercontent.com/msolihinam/tv/main/logo/RTM_Sports.png" tvg-name="RTMSPORTS"  group-title="SPORTS",RTM SPORTS HD
+https://rtmsportshdmobile.secureswiftcontent.com/Origin02/ngrp:RTM2/playlist.m3u8
+
 #EXTINF:-1, tvg-id="STARSPORTS" tvg-logo="https://raw.githubusercontent.com/msolihinam/tv/main/logo/StarSports.png" tvg-name="STARSPORTS"  group-title="SPORTS",STAR SPORTS
 rtmp://ivi.bupt.edu.cn:1935/livetv/starsports
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/msolihinam/tv/main/logo/beINextra.png" group-title="SPORTS",BEIN SPORTS Xtra
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/msolihinam/tv/main/logo/BEINxtra.png" group-title="SPORTS",BEIN SPORTS Xtra
 http://77.83.117.60:8888/02_epl1_720p_UK/chunklist.m3u8
 
 #EXTINF:-1, tvg-id="BEINSPORTS2" tvg-logo="https://raw.githubusercontent.com/msolihinam/tv/main/logo/BEINEng2.png" tvg-name="BEINSPORTS2"  group-title="SPORTS",BEIN SPORTS 2
