@@ -10,7 +10,7 @@ https://rtm2mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/playlist.m3u8
 http://185.180.221.194:8278/streams/d/TV3/playlist.m3u8
 
 #EXTINF:-1, tvg-id="ALHIJRAH" tvg-logo="https://raw.githubusercontent.com/msolihinam/tv/main/logo/Hijrah.png" tvg-name="ALHIJRAH"  group-title="MALAYSIA",TV ALHIJRAH
-http://50.7.161.82:8278/streams/d/Alhijrah/playlist.m3u8
+http://185.180.221.194:8278/streams/d/Alhijrah/playlist.m3u8
 
 #EXTINF:-1, tvg-id="NTV7" tvg-logo="https://raw.githubusercontent.com/msolihinam/tv/main/logo/NTV7.png" tvg-name="NTV7"  group-title="MALAYSIA",NTV7
 http://185.180.221.194:8278/streams/d/NTV7/playlist.m3u8
@@ -22,7 +22,7 @@ http://185.180.221.194:8278/streams/d/TV8/playlist.m3u8
 http://185.180.221.194:8278/streams/d/TV9/playlist.m3u8
 
 #EXTINF:-1, tvg-id="DRAMA" tvg-logo="https://raw.githubusercontent.com/msolihinam/tv/main/logo/DramaSangat.png" tvg-name="DRAMA"  group-title="MALAYSIA",DRAMA SANGAT
-http://50.7.161.82:8278/streams/d/Dsangat/playlist.m3u8
+http://185.180.221.194:8278/streams/d/Dsangat/playlist.m3u8
 
 #EXTINF:-1, tvg-id="RIA" tvg-logo="https://raw.githubusercontent.com/msolihinam/tv/main/logo/Ria.png" tvg-name="RIA"  group-title="ASTRO",ASTRO RIA
 http://185.180.221.194:8278/streams/d/Ria/playlist.m3u8
@@ -84,70 +84,76 @@ rtmp://ivi.bupt.edu.cn:1935/livetv/starsports
 #EXTINF:-1, tvg-id="BEINSPORTS1" tvg-logo="https://raw.githubusercontent.com/msolihinam/tv/main/logo/BEINEng1.png" tvg-name="BEINSPORTS1"  group-title="SPORTS",BEIN SPORTS 1
 http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1437.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/logo/n7f8ev1600884470.png" group-title="SPORTS",BEIN SPORTS Xtra
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/msolihinam/tv/main/logo/beINEextra.png" group-title="SPORTS",BEIN SPORTS Xtra
 http://77.83.117.60:8888/02_epl1_720p_UK/chunklist.m3u8
 
-#EXTINF:-1, tvg-id="ANIMAX" tvg-logo="https://raw.githubusercontent.com/msolihinam/tv/main/logo/Animax.png" tvg-name="TVN"  group-title="OTHERS",ANIMAX
+#EXTINF:-1, tvg-id="WWE" tvg-logo="https://raw.githubusercontent.com/msolihinam/tv/main/logo/WWE.png" tvg-name="WWE"  group-title="SPORTS",WWE
+http://185.180.221.194:8278/streams/d/Wwe/playlist.m3u8
+
+#EXTINF:-1, tvg-id="ANIMAX" tvg-logo="https://raw.githubusercontent.com/msolihinam/tv/main/logo/Animax.png" tvg-name="TVN"  group-title="KIDS",ANIMAX
 http://185.180.221.194:8278/streams/d/Animax/playlist.m3u8
 
-#EXTINF:-1, tvg-id="DISNEY" tvg-logo="https://raw.githubusercontent.com/msolihinam/tv/main/logo/Disney.png" tvg-name="DISNEY"  group-title="OTHERS",DISNEY CHANNEL
+#EXTINF:-1, tvg-id="DISNEY" tvg-logo="https://raw.githubusercontent.com/msolihinam/tv/main/logo/Disney.png" tvg-name="DISNEY"  group-title="KIDS",DISNEY CHANNEL
 http://185.180.221.194:8278/streams/d/Disneyxd/playlist.m3u8
 
-#EXTINF:-1, tvg-id="NICKJR" tvg-logo="https://raw.githubusercontent.com/msolihinam/tv/main/logo/NickJr.png" tvg-name="NICKJR"  group-title="OTHERS",NICK JR
+#EXTINF:-1, tvg-id="NICKJR" tvg-logo="https://raw.githubusercontent.com/msolihinam/tv/main/logo/NickJr.png" tvg-name="NICKJR"  group-title="KIDS",NICK JR
 http://185.180.221.194:8278/streams/d/Nickjr/playlist.m3u8
 
-#EXTINF:-1, tvg-id="NICKELODEON" tvg-logo="https://raw.githubusercontent.com/msolihinam/tv/main/logo/Nickelodeon.png" tvg-name="NICKELODEON"  group-title="OTHERS",NICKELODEON
+#EXTINF:-1, tvg-id="NICKELODEON" tvg-logo="https://raw.githubusercontent.com/msolihinam/tv/main/logo/Nickelodeon.png" tvg-name="NICKELODEON"  group-title="KIDS",NICKELODEON
 http://185.180.221.194:8278/streams/d/Nickelodeon/playlist.m3u8
 
-#EXTINF:-1, tvg-id="CN" tvg-logo="https://raw.githubusercontent.com/msolihinam/tv/main/logo/CartoonNetwork.png" tvg-name="CN"  group-title="OTHERS",CARTOON NETWORK
+#EXTINF:-1, tvg-id="CN" tvg-logo="https://raw.githubusercontent.com/msolihinam/tv/main/logo/CartoonNetwork.png" tvg-name="CN"  group-title="KIDS",CARTOON NETWORK
 http://185.180.221.194:8278/streams/d/Cn/playlist.m3u8
 
-#EXTINF:-1, tvg-id="TVN" tvg-logo="https://raw.githubusercontent.com/msolihinam/tv/main/logo/TVN.png" tvg-name="TVN"  group-title="OTHERS",TVN
+#EXTINF:-1, tvg-id="TVN" tvg-logo="https://raw.githubusercontent.com/msolihinam/tv/main/logo/TVN.png" tvg-name="TVN"  group-title="KOREA",TVN
 http://185.180.221.194:8278/streams/d/TVN/playlist.m3u8
 
-#EXTINF:-1, tvg-id="TVN" tvg-logo="https://raw.githubusercontent.com/msolihinam/tv/main/logo/TVNMovies.png" tvg-name="TVN"  group-title="OTHERS",TVN MOVIES
+#EXTINF:-1, tvg-id="TVN" tvg-logo="https://raw.githubusercontent.com/msolihinam/tv/main/logo/TVNMovies.png" tvg-name="TVN"  group-title="KOREA",TVN MOVIES
 http://185.180.221.194:8278/streams/d/Tvnmovie/playlist.m3u8
 
-#EXTINF:-1, tvg-name="ONE"  tvg-logo="https://raw.githubusercontent.com/msolihinam/tv/main/logo/One.png" tvg-name="ONE"  group-title="OTHERS",ONE
+#EXTINF:-1, tvg-name="ONE"  tvg-logo="https://raw.githubusercontent.com/msolihinam/tv/main/logo/One.png" tvg-name="ONE"  group-title="KOREA",ONE
 http://185.180.221.194:8278/streams/d/SetOne/playlist.m3u8
 
-#EXTINF:-1, tvg-id="AXN" tvg-logo="https://raw.githubusercontent.com/msolihinam/tv/main/logo/AXN.png" tvg-name="AXN"  group-title="MOVIE",AXN
+#EXTINF:-1, tvg-name="KBS"  tvg-logo="https://raw.githubusercontent.com/msolihinam/tv/main/logo/KBSWorld.png" tvg-name="KBS"  group-title="KOREA",KBS World
+http://185.180.221.194:8278/streams/d/KBS/playlist.m3u8
+
+#EXTINF:-1, tvg-id="AXN" tvg-logo="https://raw.githubusercontent.com/msolihinam/tv/main/logo/AXN.png" tvg-name="AXN"  group-title="MOVIES",AXN
 http://185.180.221.194:8278/streams/d/Axn/playlist.m3u8
 
-#EXTINF:-1, tvg-id="CINEMAX" tvg-logo="https://raw.githubusercontent.com/msolihinam/tv/main/logo/Cinemax.png" tvg-name="CINEMAX"  group-title="MOVIE",CINEMAX
+#EXTINF:-1, tvg-id="CINEMAX" tvg-logo="https://raw.githubusercontent.com/msolihinam/tv/main/logo/Cinemax.png" tvg-name="CINEMAX"  group-title="MOVIES",CINEMAX
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
 
-#EXTINF:-1, tvg-id="WARNER" tvg-logo="https://raw.githubusercontent.com/msolihinam/tv/main/logo/WarnerTV.png" tvg-name="WARNER"  group-title="MOVIE",WARNER TV
+#EXTINF:-1, tvg-id="WARNER" tvg-logo="https://raw.githubusercontent.com/msolihinam/tv/main/logo/WarnerTV.png" tvg-name="WARNER"  group-title="MOVIES",WARNER TV
 http://185.180.221.194:8278/streams/d/WarnerTV/playlist.m3u8
 
-#EXTINF:-1, tvg-id="HBOASIA" tvg-logo="https://raw.githubusercontent.com/msolihinam/tv/main/logo/HBO.png" tvg-name="HBO"  group-title="MOVIE",HBO
+#EXTINF:-1, tvg-id="HBOASIA" tvg-logo="https://raw.githubusercontent.com/msolihinam/tv/main/logo/HBO.png" tvg-name="HBO"  group-title="MOVIES",HBO
 http://185.180.221.194:8278/streams/d/Hbo/playlist.m3u8
 
-#EXTINF:-1, tvg-id="HBOHITS" tvg-logo="https://raw.githubusercontent.com/msolihinam/tv/main/logo/HBOHits.png" tvg-name="HBOHITS"  group-title="MOVIE",HBO HITS
+#EXTINF:-1, tvg-id="HBOHITS" tvg-logo="https://raw.githubusercontent.com/msolihinam/tv/main/logo/HBOHits.png" tvg-name="HBOHITS"  group-title="MOVIES",HBO HITS
 http://185.180.221.194:8278/streams/d/Hbohits/playlist.m3u8
 
-#EXTINF:-1, tvg-id="HBOSIGN" tvg-logo="https://raw.githubusercontent.com/msolihinam/tv/main/logo/HBOSign.png" tvg-name="HBOSIGN"  group-title="MOVIE",HBO SIGNATURE
+#EXTINF:-1, tvg-id="HBOSIGN" tvg-logo="https://raw.githubusercontent.com/msolihinam/tv/main/logo/HBOSign.png" tvg-name="HBOSIGN"  group-title="MOVIES",HBO SIGNATURE
 http://185.180.221.194:8278/streams/d/Hbosignature/playlist.m3u8
 
-#EXTINF:-1, tvg-id="HBOFAMILY" tvg-logo="https://raw.githubusercontent.com/msolihinam/tv/main/logo/HBOFamily.png" tvg-name="HBOFAMILY"  group-title="MOVIE",HBO FAMILY
+#EXTINF:-1, tvg-id="HBOFAMILY" tvg-logo="https://raw.githubusercontent.com/msolihinam/tv/main/logo/HBOFamily.png" tvg-name="HBOFAMILY"  group-title="MOVIES",HBO FAMILY
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/FAMILY/index.m3u8
 
-#EXTINF:-1, tvg-id="FOX" tvg-logo="https://raw.githubusercontent.com/msolihinam/tv/main/logo/Fox.png" tvg-name="FOX"  group-title="MOVIE",FOX
+#EXTINF:-1, tvg-id="FOX" tvg-logo="https://raw.githubusercontent.com/msolihinam/tv/main/logo/Fox.png" tvg-name="FOX"  group-title="MOVIES",FOX
 http://185.180.221.194:8278/streams/d/Foxhd/playlist.m3u8
 
-#EXTINF:-1, tvg-id="FOXMOVIES" tvg-logo="https://raw.githubusercontent.com/msolihinam/tv/main/logo/FoxMovies.png" tvg-name="FOXMOVIES"  group-title="MOVIE",FOX MOVIES
+#EXTINF:-1, tvg-id="FOXMOVIES" tvg-logo="https://raw.githubusercontent.com/msolihinam/tv/main/logo/FoxMovies.png" tvg-name="FOXMOVIES"  group-title="MOVIES",FOX MOVIES
 http://185.180.221.194:8278/streams/d/Foxmovie/playlist.m3u8
 
-#EXTINF:-1, tvg-id="FOXLIFE" tvg-logo="https://raw.githubusercontent.com/msolihinam/tv/main/logo/FoxLife.png" tvg-name="FOXLIFE"  group-title="MOVIE",FOX LIFE
+#EXTINF:-1, tvg-id="FOXLIFE" tvg-logo="https://raw.githubusercontent.com/msolihinam/tv/main/logo/FoxLife.png" tvg-name="FOXLIFE"  group-title="MOVIES",FOX LIFE
 http://185.180.221.194:8278/streams/d/Foxlife/playlist.m3u8
 
-#EXTINF:-1, tvg-id="FOXCRIME" tvg-logo="https://raw.githubusercontent.com/msolihinam/tv/main/logo/FoxCrime.png" tvg-name="FOXCRIME"  group-title="MOVIE",FOX CRIME
+#EXTINF:-1, tvg-id="FOXCRIME" tvg-logo="https://raw.githubusercontent.com/msolihinam/tv/main/logo/FoxCrime.png" tvg-name="FOXCRIME"  group-title="MOVIES",FOX CRIME
 http://185.180.221.194:8278/streams/d/Foxcrime/playlist.m3u8
 
-#EXTINF:-1, tvg-id="FOXACTIONMOVIES" tvg-logo="https://raw.githubusercontent.com/msolihinam/tv/main/logo/FoxActionMovies.png" tvg-name="FOXACTIONMOVIES"  group-title="MOVIE",FOX ACTION MOVIES
+#EXTINF:-1, tvg-id="FOXACTIONMOVIES" tvg-logo="https://raw.githubusercontent.com/msolihinam/tv/main/logo/FoxActionMovies.png" tvg-name="FOXACTIONMOVIES"  group-title="MOVIES",FOX ACTION MOVIES
 http://185.180.221.194:8278/streams/d/Foxactionhd/playlist.m3u8
 
-#EXTINF:-1, tvg-id="FOXFAMILYMOVIES" tvg-logo="https://raw.githubusercontent.com/msolihinam/tv/main/logo/FoxFamilyMovies.png" tvg-name="FOXFAMILYMOVIES"  group-title="MOVIE",FOX FAMILY MOVIES
+#EXTINF:-1, tvg-id="FOXFAMILYMOVIES" tvg-logo="https://raw.githubusercontent.com/msolihinam/tv/main/logo/FoxFamilyMovies.png" tvg-name="FOXFAMILYMOVIES"  group-title="MOVIES",FOX FAMILY MOVIES
 http://185.180.221.194:8278/streams/d/Foxfamily/playlist.m3u8
 
 #EXTINF:-1, tvg-id="FOXSPORTS" tvg-logo="https://raw.githubusercontent.com/msolihinam/tv/main/logo/FoxSports.png" tvg-name="FOXSPORTS"  group-title="SPORTS",FOX SPORTS
@@ -156,14 +162,20 @@ http://185.180.221.194:8278/streams/d/Foxsports/playlist.m3u8
 #EXTINF:-1, tvg-id="FOXSPORTS3" tvg-logo="https://raw.githubusercontent.com/msolihinam/tv/main/logo/FoxSports3.png" tvg-name="FOXSPORTS3"  group-title="SPORTS",FOX SPORTS 3
 http://185.180.221.194:8278/streams/d/Foxsports3/playlist.m3u8
 
-#EXTINF:-1, tvg-id="ANIMAL" tvg-logo="https://raw.githubusercontent.com/msolihinam/tv/main/logo/Animal.png" tvg-name="ANIMAL"  group-title="OTHERS",ANIMAL PLANET
+#EXTINF:-1, tvg-id="ANIMAL" tvg-logo="https://raw.githubusercontent.com/msolihinam/tv/main/logo/Animal.png" tvg-name="ANIMAL"  group-title="DOCUMENTARY",ANIMAL PLANET
 http://185.180.221.194:8278/streams/d/AnimalPlanet/playlist.m3u8
 
-#EXTINF:-1, tvg-id="NATGEO" tvg-logo="https://raw.githubusercontent.com/msolihinam/tv/main/logo/NatGeo.png" tvg-name="NATGEO"  group-title="OTHERS",NATIONAL GEOGRAPHIC
+#EXTINF:-1, tvg-id="NATGEO" tvg-logo="https://raw.githubusercontent.com/msolihinam/tv/main/logo/NatGeo.png" tvg-name="NATGEO"  group-title="DOCUMENTARY",NATIONAL GEOGRAPHIC
 http://185.180.221.194:8278/streams/d/Natgeo/playlist.m3u8
 
-#EXTINF:-1, tvg-id="NATGEOWILD" tvg-logo="https://raw.githubusercontent.com/msolihinam/tv/main/logo/NatGeoWild.png" tvg-name="NATGEOWILD"  group-title="OTHERS",NAT GEO WILD
+#EXTINF:-1, tvg-id="NATGEOWILD" tvg-logo="https://raw.githubusercontent.com/msolihinam/tv/main/logo/NatGeoWild.png" tvg-name="NATGEOWILD"  group-title="DOCUMENTARY",NAT GEO WILD
 http://185.180.221.194:8278/streams/d/Natgeowild/playlist.m3u8
 
-#EXTINF:-1, tvg-id="NATGEOPEO" tvg-logo="https://raw.githubusercontent.com/msolihinam/tv/main/logo/NatGeoPeople.png" tvg-name="NATGEOPEO"  group-title="OTHERS",NAT GEO PEOPLE
+#EXTINF:-1, tvg-id="NATGEOPEO" tvg-logo="https://raw.githubusercontent.com/msolihinam/tv/main/logo/NatGeoPeople.png" tvg-name="NATGEOPEO"  group-title="DOCUMENTARY",NAT GEO PEOPLE
 http://185.180.221.194:8278/streams/d/Natgeopeople/playlist.m3u8
+
+#EXTINF:-1, tvg-id="DISCOVERY" tvg-logo="https://raw.githubusercontent.com/msolihinam/tv/main/logo/Discovery.png" tvg-name="DISCOVERY"  group-title="DOCUMENTARY",DISCOVERY CHANNEL
+http://185.180.221.194:8278/streams/d/Discoveryhd/playlist.m3u8
+
+#EXTINF:-1, tvg-id="HISTORY" tvg-logo="https://raw.githubusercontent.com/msolihinam/tv/main/logo/History.png" tvg-name="HISTORY"  group-title="DOCUMENTARY",HISTORY CHANNEL
+http://185.180.221.194:8278/streams/d/History/playlist.m3u8
