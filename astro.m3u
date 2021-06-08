@@ -27,25 +27,25 @@ http://185.180.221.194:8278/streams/d/TV9/playlist.m3u8
 #EXTINF:-1, tvg-id="DRAMA" tvg-logo="https://raw.githubusercontent.com/msolihinam/tv/main/logo/DramaSangat.png" tvg-name="DRAMA"  group-title="MALAYSIA",DRAMA SANGAT
 http://185.180.221.194:8278/streams/d/Dsangat/playlist.m3u8
 
-#EXTINF:-1, tvg-id="RIA" tvg-logo="https://raw.githubusercontent.com/msolihinam/tv/main/logo/Ria.png" tvg-name="RIA"  group-title="ASTRO",ASTRO RIA
+#EXTINF:-1, tvg-id="RIA" tvg-logo="https://raw.githubusercontent.com/msolihinam/tv/main/logo/Ria.png" tvg-name="RIA"  group-title="ASTRO",RIA
 http://185.180.221.194:8278/streams/d/Ria/playlist.m3u8
 
-#EXTINF:-1, tvg-id="PRIMA" tvg-logo="https://raw.githubusercontent.com/msolihinam/tv/main/logo/Prima.png" tvg-name="PRIMA"  group-title="ASTRO",ASTRO PRIMA
+#EXTINF:-1, tvg-id="PRIMA" tvg-logo="https://raw.githubusercontent.com/msolihinam/tv/main/logo/Prima.png" tvg-name="PRIMA"  group-title="ASTRO",PRIMA
 http://185.180.221.194:8278/streams/d/Prima/playlist.m3u8
 
-#EXTINF:-1, tvg-id="OASIS" tvg-logo="https://raw.githubusercontent.com/msolihinam/tv/main/logo/Oasis.png" tvg-name="OASIS"  group-title="ASTRO",ASTRO OASIS
+#EXTINF:-1, tvg-id="OASIS" tvg-logo="https://raw.githubusercontent.com/msolihinam/tv/main/logo/Oasis.png" tvg-name="OASIS"  group-title="ASTRO",OASIS
 http://185.180.221.194:8278/streams/d/Oasis/playlist.m3u8
 
-#EXTINF:-1, tvg-id="CITRA" tvg-logo="https://raw.githubusercontent.com/msolihinam/tv/main/logo/Citra.png" tvg-name="CITRA"  group-title="ASTRO",ASTRO CITRA
+#EXTINF:-1, tvg-id="CITRA" tvg-logo="https://raw.githubusercontent.com/msolihinam/tv/main/logo/Citra.png" tvg-name="CITRA"  group-title="ASTRO",CITRA
 http://185.180.221.194:8278/streams/d/Citra/playlist.m3u8
 
-#EXTINF:-1, tvg-id="WARNA" tvg-logo="https://raw.githubusercontent.com/msolihinam/tv/main/logo/Warna.png" tvg-name="WARNA"  group-title="ASTRO",ASTRO WARNA
+#EXTINF:-1, tvg-id="WARNA" tvg-logo="https://raw.githubusercontent.com/msolihinam/tv/main/logo/Warna.png" tvg-name="WARNA"  group-title="ASTRO",WARNA
 http://185.180.221.194:8278/streams/d/Warna/playlist.m3u8
 
-#EXTINF:-1, tvg-id="CERIA" tvg-logo="https://raw.githubusercontent.com/msolihinam/tv/main/logo/Ceria.png" tvg-name="CERIA"  group-title="ASTRO",ASTRO CERIA
+#EXTINF:-1, tvg-id="CERIA" tvg-logo="https://raw.githubusercontent.com/msolihinam/tv/main/logo/Ceria.png" tvg-name="CERIA"  group-title="ASTRO",CERIA
 http://185.180.221.194:8278/streams/d/Ceria/playlist.m3u8
 
-#EXTINF:-1, tvg-id="AWANI" tvg-logo="https://raw.githubusercontent.com/msolihinam/tv/main/logo/Awani.png" tvg-name="AWANI"  group-title="ASTRO",ASTRO AWANI
+#EXTINF:-1, tvg-id="AWANI" tvg-logo="https://raw.githubusercontent.com/msolihinam/tv/main/logo/Awani.png" tvg-name="AWANI"  group-title="ASTRO",AWANI
 http://185.180.221.194:8278/streams/d/Awani/playlist.m3u8
 
 #EXTINF:-1, tvg-id="BOO" tvg-logo="https://raw.githubusercontent.com/msolihinam/tv/main/logo/Boo.png" tvg-name="BOO"  group-title="ASTRO",BOO
@@ -66,19 +66,19 @@ http://185.180.221.194:8278/streams/d/Hello/playlist.m3u8
 #EXTINF:-1, tvg-id="OKEY" tvg-logo="https://raw.githubusercontent.com/msolihinam/tv/main/logo/Okey.png" tvg-name="OKEY"  group-title="MALAYSIA",TV OKEY
 https://rtmokeymobile.secureswiftcontent.com/Origin02/ngrp:RTM2/playlist.m3u8
 
-#EXTINF:-1, tvg-id="ARENA" tvg-logo="https://raw.githubusercontent.com/msolihinam/tv/main/logo/Arena.png" tvg-name="ARENA" group-title="SPORTS",ASTRO ARENA
+#EXTINF:-1, tvg-id="ARENA" tvg-logo="https://raw.githubusercontent.com/msolihinam/tv/main/logo/Arena.png" tvg-name="ARENA" group-title="SPORTS",ARENA
 http://185.180.221.194:8278/streams/d/Arena/playlist.m3u8
 
-#EXTINF:-1, tvg-id="SUPERSPORT2" tvg-logo="https://raw.githubusercontent.com/msolihinam/tv/main/logo/SuperSport.png" tvg-name="SUPERSPORT"  group-title="SPORTS",ASTRO SUPERSPORT
+#EXTINF:-1, tvg-id="SUPERSPORT2" tvg-logo="https://raw.githubusercontent.com/msolihinam/tv/main/logo/SuperSport.png" tvg-name="SUPERSPORT"  group-title="SPORTS",SUPERSPORT
 http://50.7.161.82:8278/streams/d/Assp1/playlist.m3u8
 
-#EXTINF:-1, tvg-id="SUPERSPORT2" tvg-logo="https://raw.githubusercontent.com/msolihinam/tv/main/logo/SuperSport2.png" tvg-name="SUPERSPORT2"  group-title="SPORTS",ASTRO SUPERSPORT 2
+#EXTINF:-1, tvg-id="SUPERSPORT2" tvg-logo="https://raw.githubusercontent.com/msolihinam/tv/main/logo/SuperSport2.png" tvg-name="SUPERSPORT2"  group-title="SPORTS",SUPERSPORT 2
 http://50.7.161.82:8278/streams/d/Assp2/playlist.m3u8
 
-#EXTINF:-1, tvg-id="SUPERSPORT3" tvg-logo="https://raw.githubusercontent.com/msolihinam/tv/main/logo/SuperSport3.png" tvg-name="SUPERSPORT3"  group-title="SPORTS",ASTRO SUPERSPORT 3
+#EXTINF:-1, tvg-id="SUPERSPORT3" tvg-logo="https://raw.githubusercontent.com/msolihinam/tv/main/logo/SuperSport3.png" tvg-name="SUPERSPORT3"  group-title="SPORTS",SUPERSPORT 3
 http://50.7.161.82:8278/streams/d/Assp3/playlist.m3u8
 
-#EXTINF:-1, tvg-id="SUPERSPORT3" tvg-logo="https://raw.githubusercontent.com/msolihinam/tv/main/logo/SuperSport4.png" tvg-name="SUPERSPORT4"  group-title="SPORTS",ASTRO SUPERSPORT 4
+#EXTINF:-1, tvg-id="SUPERSPORT3" tvg-logo="https://raw.githubusercontent.com/msolihinam/tv/main/logo/SuperSport4.png" tvg-name="SUPERSPORT4"  group-title="SPORTS",SUPERSPORT 4
 http://50.7.161.82:8278/streams/d/Assp4/playlist.m3u8
 
 #EXTINF:106, tvg-id="RTMSPORTS" tvg-logo="https://raw.githubusercontent.com/msolihinam/tv/main/logo/RTM_Sports.png" tvg-name="RTMSPORTS"  group-title="SPORTS",RTM SPORTS HD
