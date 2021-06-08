@@ -51,6 +51,18 @@ http://185.180.221.194:8278/streams/d/Boo/playlist.m3u8
 #EXTINF:-1, tvg-id="AOD" tvg-logo="https://raw.githubusercontent.com/msolihinam/tv/main/logo/AOD.png" tvg-name="AOD"  group-title="ASTRO",AOD
 http://185.180.221.194:8278/streams/d/AodHD/playlist.m3u8
 
+#EXTINF:-1, tvg-id="AFN" tvg-logo="https://raw.githubusercontent.com/msolihinam/tv/main/logo/AFN.png" tvg-name="AFN"  group-title="ASTRO",AFN
+http://185.180.221.194:8278/streams/d/Afc/playlist.m3u8
+
+#EXTINF:-1, tvg-id="NAURA" tvg-logo="https://raw.githubusercontent.com/msolihinam/tv/main/logo/Naura.png" tvg-name="NAURA"  group-title="ASTRO",ASTRO NAURA
+http://185.180.221.194:8278/streams/d/Naura/playlist.m3u8
+
+#EXTINF:-1, tvg-id="HELLO" tvg-logo="https://raw.githubusercontent.com/msolihinam/tv/main/logo/HelloTV.png" tvg-name="HELLO"  group-title="ASTRO",ASTRO HELLO
+http://185.180.221.194:8278/streams/d/Hello/playlist.m3u8
+
+#EXTINF:-1, tvg-id="OKEY" tvg-logo="https://raw.githubusercontent.com/msolihinam/tv/main/logo/Okey.png" tvg-name="OKEY"  group-title="MALAYSIA",TV OKEY
+https://rtmokeymobile.secureswiftcontent.com/Origin02/ngrp:RTM2/playlist.m3u8
+
 #EXTINF:-1, tvg-id="ARENA" tvg-logo="https://raw.githubusercontent.com/msolihinam/tv/main/logo/Arena.png" tvg-name="ARENA" group-title="SPORTS",ASTRO ARENA
 http://185.180.221.194:8278/streams/d/Arena/playlist.m3u8
 
@@ -66,25 +78,13 @@ http://185.180.221.194:8278/streams/d/Assp3/playlist.m3u8
 #EXTINF:-1, tvg-id="SUPERSPORT3" tvg-logo="https://raw.githubusercontent.com/msolihinam/tv/main/logo/SuperSport4.png" tvg-name="SUPERSPORT4"  group-title="SPORTS",ASTRO SUPERSPORT 4
 http://185.180.221.194:8278/streams/d/Assp4/playlist.m3u8
 
-#EXTINF:-1, tvg-id="AFN" tvg-logo="https://raw.githubusercontent.com/msolihinam/tv/main/logo/AFN.png" tvg-name="AFN"  group-title="ASTRO",AFN
-http://185.180.221.194:8278/streams/d/Afc/playlist.m3u8
-
-#EXTINF:-1, tvg-id="NAURA" tvg-logo="https://raw.githubusercontent.com/msolihinam/tv/main/logo/Naura.png" tvg-name="NAURA"  group-title="ASTRO",ASTRO NAURA
-http://185.180.221.194:8278/streams/d/Naura/playlist.m3u8
-
-#EXTINF:-1, tvg-id="HELLO" tvg-logo="https://raw.githubusercontent.com/msolihinam/tv/main/logo/HelloTV.png" tvg-name="HELLO"  group-title="ASTRO",ASTRO HELLO
-http://185.180.221.194:8278/streams/d/Hello/playlist.m3u8
-
-#EXTINF:-1, tvg-id="OKEY" tvg-logo="https://raw.githubusercontent.com/msolihinam/tv/main/logo/Okey.png" tvg-name="OKEY"  group-title="MALAYSIA",TV OKEY
-https://rtmokeymobile.secureswiftcontent.com/Origin02/ngrp:RTM2/playlist.m3u8
-
 #EXTINF:-1, tvg-id="STARSPORTS" tvg-logo="https://raw.githubusercontent.com/msolihinam/tv/main/logo/StarSports.png" tvg-name="STARSPORTS"  group-title="SPORTS",STAR SPORTS
 rtmp://ivi.bupt.edu.cn:1935/livetv/starsports
 
 #EXTINF:-1, tvg-id="BEINSPORTS1" tvg-logo="https://raw.githubusercontent.com/msolihinam/tv/main/logo/BEINEng1.png" tvg-name="BEINSPORTS1"  group-title="SPORTS",BEIN SPORTS 1
 http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1437.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/msolihinam/tv/main/logo/beINEextra.png" group-title="SPORTS",BEIN SPORTS Xtra
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/msolihinam/tv/main/logo/beINextra.png" group-title="SPORTS",BEIN SPORTS Xtra
 http://77.83.117.60:8888/02_epl1_720p_UK/chunklist.m3u8
 
 #EXTINF:-1, tvg-id="WWE" tvg-logo="https://raw.githubusercontent.com/msolihinam/tv/main/logo/WWE.png" tvg-name="WWE"  group-title="SPORTS",WWE
