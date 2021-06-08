@@ -81,8 +81,14 @@ http://50.7.161.82:8278/streams/d/Assp4/playlist.m3u8
 #EXTINF:106, tvg-id="RTMSPORTS" tvg-logo="https://raw.githubusercontent.com/msolihinam/tv/main/logo/RTM_Sports.png" tvg-name="RTMSPORTS"  group-title="SPORTS",RTM SPORTS HD
 https://rtmsportshdmobile.secureswiftcontent.com/Origin02/ngrp:RTM2/playlist.m3u8
 
-#EXTINF:-1, tvg-id="STARSPORTS" tvg-logo="https://raw.githubusercontent.com/msolihinam/tv/main/logo/StarSports.png" tvg-name="STARSPORTS"  group-title="SPORTS",STAR SPORTS
-rtmp://ivi.bupt.edu.cn:1935/livetv/starsports
+#EXTINF:-1, tvg-id="FOXSPORTS" tvg-logo="https://raw.githubusercontent.com/msolihinam/tv/main/logo/FoxSports.png" tvg-name="FOXSPORTS"  group-title="SPORTS",FOX SPORTS
+http://185.180.221.194:8278/streams/d/Foxsports/playlist.m3u8
+
+#EXTINF:-1, tvg-id="FOXSPORTS2" tvg-logo="https://raw.githubusercontent.com/msolihinam/tv/main/logo/FoxSports2.png" tvg-name="FOXSPORTS2"  group-title="SPORTS",FOX SPORTS 2
+http://185.180.221.194:8278/streams/d/Foxsports2/playlist.m3u8
+
+#EXTINF:-1, tvg-id="FOXSPORTS3" tvg-logo="https://raw.githubusercontent.com/msolihinam/tv/main/logo/FoxSports3.png" tvg-name="FOXSPORTS3"  group-title="SPORTS",FOX SPORTS 3
+http://185.180.221.194:8278/streams/d/Foxsports3/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/msolihinam/tv/main/logo/BEINxtra.png" group-title="SPORTS",BEIN SPORTS Xtra
 http://77.83.117.60:8888/02_epl1_720p_UK/chunklist.m3u8
@@ -98,6 +104,9 @@ http://185.180.221.194:8278/streams/d/Animax/playlist.m3u8
 
 #EXTINF:-1, tvg-id="DISNEY" tvg-logo="https://raw.githubusercontent.com/msolihinam/tv/main/logo/Disney.png" tvg-name="DISNEY"  group-title="KIDS",DISNEY CHANNEL
 http://185.180.221.194:8278/streams/d/Disneyxd/playlist.m3u8
+
+#EXTINF:-1, tvg-id="DISNEYJR" tvg-logo="https://raw.githubusercontent.com/msolihinam/tv/main/logo/DisneyJr.png" tvg-name="DISNEYJR"  group-title="KIDS",DISNEY JUNIOR
+http://185.180.221.194:8278/streams/d/Disneyjr/playlist.m3u8
 
 #EXTINF:-1, tvg-id="NICKJR" tvg-logo="https://raw.githubusercontent.com/msolihinam/tv/main/logo/NickJr.png" tvg-name="NICKJR"  group-title="KIDS",NICK JR
 http://185.180.221.194:8278/streams/d/Nickjr/playlist.m3u8
@@ -158,12 +167,6 @@ http://185.180.221.194:8278/streams/d/Foxactionhd/playlist.m3u8
 
 #EXTINF:-1, tvg-id="FOXFAMILYMOVIES" tvg-logo="https://raw.githubusercontent.com/msolihinam/tv/main/logo/FoxFamilyMovies.png" tvg-name="FOXFAMILYMOVIES"  group-title="MOVIES",FOX FAMILY MOVIES
 http://185.180.221.194:8278/streams/d/Foxfamily/playlist.m3u8
-
-#EXTINF:-1, tvg-id="FOXSPORTS" tvg-logo="https://raw.githubusercontent.com/msolihinam/tv/main/logo/FoxSports.png" tvg-name="FOXSPORTS"  group-title="SPORTS",FOX SPORTS
-http://185.180.221.194:8278/streams/d/Foxsports/playlist.m3u8
-
-#EXTINF:-1, tvg-id="FOXSPORTS3" tvg-logo="https://raw.githubusercontent.com/msolihinam/tv/main/logo/FoxSports3.png" tvg-name="FOXSPORTS3"  group-title="SPORTS",FOX SPORTS 3
-http://185.180.221.194:8278/streams/d/Foxsports3/playlist.m3u8
 
 #EXTINF:-1, tvg-id="ANIMAL" tvg-logo="https://raw.githubusercontent.com/msolihinam/tv/main/logo/Animal.png" tvg-name="ANIMAL"  group-title="DOCUMENTARY",ANIMAL PLANET
 http://185.180.221.194:8278/streams/d/AnimalPlanet/playlist.m3u8
