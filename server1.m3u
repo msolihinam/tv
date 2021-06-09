@@ -141,6 +141,9 @@ https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
 #EXTINF:-1, tvg-id="WARNER" tvg-logo="https://raw.githubusercontent.com/msolihinam/tv/main/logo/WarnerTV.png" tvg-name="WARNER"  group-title="MOVIES",WARNER TV
 http://185.180.221.194:8278/streams/d/WarnerTV/playlist.m3u8
 
+#EXTINF:-1, tvg-id="HITS" tvg-logo="https://raw.githubusercontent.com/msolihinam/tv/main/logo/Hits.png" tvg-name="HITS"  group-title="MOVIES",HITS MOVIES
+http://185.180.221.194:8278/streams/d/Hits/playlist.m3u8
+
 #EXTINF:-1, tvg-id="HBOASIA" tvg-logo="https://raw.githubusercontent.com/msolihinam/tv/main/logo/HBO.png" tvg-name="HBO"  group-title="MOVIES",HBO
 http://185.180.221.194:8278/streams/d/Hbo/playlist.m3u8
 
