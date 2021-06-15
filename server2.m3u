@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/weareblahs/epg/master/astro.xml"
 
 #EXTINF:-1, tvg-id="TV1" tvg-logo="https://raw.githubusercontent.com/msolihinam/tv/main/logo/TV1.png" tvg-name="TV1"  group-title="MALAYSIA",TV1
 http://50.7.161.82:8278/streams/d/TV1/playlist.m3u8
