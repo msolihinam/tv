@@ -112,11 +112,6 @@ http://50.7.161.82:8278/streams/d/Assp3/playlist.m3u8
 http://50.7.161.82:8278/streams/d/Assp4/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=hhttps://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TXpJd09Ydy1abnBlNEY5SnZfOG1RcVRsR2R4czUtY3V0bm5rVTJYZVpYblNyNGJKZXEtOTZtbl9ZSDlwUDJ2bGFRblh1eHJOd3Y1cVFmRmJlOFBKbUxWOFgtSUgtcEFNV0lSaW5aQk1jb0tfcjFGVmdUUkdpRlJUT0ZXREtaOEl3R2d4b3NsRmVvVlpMb0lFSml5ZWF0LTFfamx4R2JpdVpPUDVYWWlvRUI2TjRRTHdieEFDTVRsbGZNTWNhc2ZBeTZtSkJaMVJFeVV1elZaMlVEMHpQR3NTSGRremQyeEtaVDk3eVNHWHpxdUFKSVhkb0lsMC1RNEM1X1BiRkxXdG9QWjZwdWs5WFpTYmFtMGZiOFRUYjVJeVdQcVVMUE1XWktWNnhvaVk4U3FmUW51SXJwM2VmM1lUcUp6ZTRtWF9OU3JwM2ktZ1BONVZwazZyOGE0cFR3dVRGRTZjJmNvbnRleHRUeXBlPW5vbmUmaWQ9MTMyMjUxNDciLCJhY2NvdW50X2lkIjozMDg5NjMzLCJjb250ZW50X2lkIjoiYmRhN2Y3NGJfODQyZl80ZjBlX2IxNDJfMzk1ZGFkZDkxZjA3IiwiZmlsZXMiOiIiLCJ1c2VyX3Rva2VuIjoiZGpKOE16SXdPWHctWm5wZTRGOUp2XzhtUXFUbEdkeHM1LWN1dG5ua1UyWGVaWG5TcjRiSmVxLTk2bW5fWUg5cFAydmxhUW5YdXhyTnd2NXFRZkZiZThQSm1MVjhYLUlILXBBTVdJUmluWkJNY29LX3IxRlZnVFJHaUZSVE9GV0RLWjhJd0dneG9zbEZlb1ZaTG9JRUppeWVhdC0xX2pseEdiaXVaT1A1WFlpb0VCNk40UUx3YnhBQ01UbGxmTU1jYXNmQXk2bUpCWjFSRXlVdXpWWjJVRDB6UEdzU0hka3pkMnhLWlQ5N3lTR1h6cXVBSklYZG9JbDAtUTRDNV9QYkZMV3RvUFo2cHVrOVhaU2JhbTBmYjhUVGI1SXlXUHFVTFBNV1pLVjZ4b2lZOFNxZlFudUlycDNlZjNZVHFKemU0bVhfTlNycDNpLWdQTjVWcGs2cjhhNHBUd3VURkU2YyIsInVkaWQiOiIiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjMyMDl9&signature=tnHS5424hlPOsAYvlMlSVYUGMAc%3d&sessionId=3d499d5f-f9cf-c574-6ac2-d68464fb2933:56edbecb-5c81-121c-01cd-f110d1676ce5&clientTag=html5:v1.7.5&referrer=aHR0cHM6Ly9zb29rYS5teS9lbi9wbGF5Ly1sLS1tc2MtZ3JvdXAtc3RhZ2UtZGF5LTIvMTA5NDQ4OS9wbGF5ZXI/bGluZWFySWQ9MTAwMDI0OTkwJmlzTGl2ZT10cnVl
-#EXTINF:-1 group-title="SPORTS" tvg-id="815" tvg-chno="815" tvg-logo="https://raw.githubusercontent.com/msolihinam/tv/main/logo/EGG.png",eGG Network
-https://linear01-playback.sooka.my/CH2/masterCH2.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=OTIxNTAzMWQtNzEyZS0zMGNkLTg1MmUtYjMxZWE2NDViMzAx
 #EXTINF:-1 group-title="SPORTS" tvg-id="816" tvg-chno="816" tvg-logo="https://raw.githubusercontent.com/msolihinam/tv/main/logo/FoxSports.png",FOX SPORTS
 http://1.9.62.158/PLTV/88888888/224/3221227608/3221227608.mpd
@@ -257,8 +252,3 @@ http://185.180.221.194:8278/streams/d/Discoveryhd/playlist.m3u8
 
 #EXTINF:-1, tvg-id="555" tvg-logo="https://raw.githubusercontent.com/msolihinam/tv/main/logo/History.png" tvg-name="HISTORY"  group-title="DOCUMENTARY",HISTORY CHANNEL
 http://185.180.221.194:8278/streams/d/History/playlist.m3u8
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=OTIxNTAzMWQtNzEyZS0zMGNkLTg1MmUtYjMxZWE2NDViMzAx
-#EXTINF:-1 group-title="News" tvg-id="CHN" tvg-chno="633" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716073249333u7e.png",Parlimen Malaysia
-http://1.9.58.102/PLTV/88888888/224/3221227546/3221227546.mpd
