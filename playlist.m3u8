@@ -4,21 +4,17 @@
 http://3.0.20.58:8000/play/Arena/index.m3u8
 #EXTINF:-1, tvg-id="811" tvg-logo="https://raw.githubusercontent.com/msolihinam/tv/main/logo/SuperSport.png",SUPERSPORT 1
 http://3.0.20.58:8000/play/ASSP1/index.m3u8
-#EXTINF:-1, tvg-id="811" tvg-logo="https://raw.githubusercontent.com/msolihinam/tv/main/logo/SuperSport2.png",SUPERSPORT 2
+#EXTINF:-1, tvg-id="812" tvg-logo="https://raw.githubusercontent.com/msolihinam/tv/main/logo/SuperSport2.png",SUPERSPORT 2
 http://3.0.20.58:8000/play/ASSP2/index.m3u8
-#EXTINF:-1, tvg-id="811" tvg-logo="https://raw.githubusercontent.com/msolihinam/tv/main/logo/SuperSport3.png",SUPERSPORT 3
+#EXTINF:-1, tvg-id="813" tvg-logo="https://raw.githubusercontent.com/msolihinam/tv/main/logo/SuperSport3.png",SUPERSPORT 3
 http://3.0.20.58:8000/play/ASSP3/index.m3u8
-#EXTINF:-1, tvg-id="811" tvg-logo="https://raw.githubusercontent.com/msolihinam/tv/main/logo/SuperSport4.png",SUPERSPORT 4
+#EXTINF:-1, tvg-id="814" tvg-logo="https://raw.githubusercontent.com/msolihinam/tv/main/logo/SuperSport4.png",SUPERSPORT 4
 http://3.0.20.58:8000/play/ASSP4/index.m3u8
-#EXTINF:-1, tvg-id="811" tvg-logo="https://raw.githubusercontent.com/msolihinam/tv/main/logo/SuperSport.png",SUPERSPORT X
-http://3.0.20.58:8000/play/ASSPX/index.m3u8
-#EXTINF:-1, tvg-id="811" tvg-logo="https://raw.githubusercontent.com/msolihinam/tv/main/logo/SuperSport.png",SUPERSPORT X1
-http://3.0.20.58:8000/play/ASSPX1/index.m3u8
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/msolihinam/tv/main/logo/beINMax2.png",beIN Max 2
 http://3.0.20.58:8000/play/BeinMax2/index.m3u8
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/msolihinam/tv/main/logo/beINMax3.png",beIN Max 3
 http://3.0.20.58:8000/play/BeinMax3/index.m3u8
-#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/msolihinam/tv/main/logo/beINMax4.png",Bein 4 MAX
+#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/msolihinam/tv/main/logo/beINMax4.png",Bein Max 4
 http://3.0.20.58:8000/play/BeinMax4/index.m3u8
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/msolihinam/tv/main/logo/beINPremium.png",Bein Premium 1
 http://3.0.20.58:8000/play/Bein1Premium/index.m3u8
@@ -40,5 +36,3 @@ http://3.0.20.58:8000/play/Bein-Sport-5/index.m3u8
 http://3.0.20.58:8000/play/Bein-Sport-6/index.m3u8
 #EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/msolihinam/tv/main/logo/beINsports7.png",Bein Sport 7
 http://3.0.20.58:8000/play/Bein-Sport-7/index.m3u8
-#EXTINF:-1,TVRI SPORT
-http://3.0.20.58:8000/play/TVRIHD/index.m3u8
