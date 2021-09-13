@@ -1,10 +1,10 @@
 #EXTM3U x-tvg-url="https://weareblahs.github.io/epg/mytv.xml" url-tvg="https://weareblahs.github.io/epg/mytv.xml" refresh="1440" max-conn="1" refresh="24"
 
 #EXTINF:-1 tvg-id="101" tvg-logo="https://raw.githubusercontent.com/msolihinam/tv/main/logo/TV1.png",TV1
-https://rtmlive01.secureswiftcontent.com/rtmchannel/01-1080.m3u8
+https://rtmlive01.secureswiftcontent.com/rtmchannel/01-1080.m3u8|Referer=https://rtmklik.rtm.gov.my
 
 #EXTINF:-1 tvg-id="102" tvg-logo="https://raw.githubusercontent.com/msolihinam/tv/main/logo/TV2.png",TV2
-https://rtmlive05.secureswiftcontent.com/rtmchannel/05-1080.m3u8
+https://rtmlive05.secureswiftcontent.com/rtmchannel/05-1080.m3u8|Referer=https://rtmklik.rtm.gov.my
 
 #EXTINF:-1 tvg-id="103" tvg-logo="https://raw.githubusercontent.com/msolihinam/tv/main/logo/TV3.png",TV3
 https://stream-05.sg1.dailymotion.com/sec(g0FwEewAeL3w7b14lFp08rUL1gD13fwocIqjlG8CXx8)/dm/3/x7a7rpm/s/live-3.m3u8
@@ -22,17 +22,17 @@ https://stream-02.sg1.dailymotion.com/sec(g0FwEewAeL3w7b14lFp08hZiyZVTEtg5MymrIG
 https://stream-02.sg1.dailymotion.com/sec(g0FwEewAeL3w7b14lFp08gIQG_32WtK0IfLM08wM9uw)/dm/3/x7a7rf7/s/live-3.m3u8
 
 #EXTINF:-1 tvg-id="113" tvg-logo="https://raw.githubusercontent.com/msolihinam/tv/main/logo/TV6.png",TV6
-https://rtmlive07.secureswiftcontent.com/rtmchannel/07-1080.m3u8
+https://rtmlive07.secureswiftcontent.com/rtmchannel/07-1080.m3u8|Referer=https://rtmklik.rtm.gov.my
 
 #EXTINF:-1 tvg-id="122" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/122.png",TVS
 https://v-t-e-r.github.io/Umbrella/Playlist/Ch/TVSwak.m3u8
 
 #EXTINF:-1 tvg-id="110" tvg-logo="https://raw.githubusercontent.com/msolihinam/tv/main/logo/Okey.png",OKEY
-https://rtmlive02.secureswiftcontent.com/rtmchannel/02-1080.m3u8
+https://rtmlive02.secureswiftcontent.com/rtmchannel/02-1080.m3u8|Referer=https://rtmklik.rtm.gov.my
 
 #EXTINF:-1 tvg-id="111" tvg-logo="https://raw.githubusercontent.com/msolihinam/tv/main/logo/RTM_Sports.png",Sukan RTM
-https://rtmlive06.secureswiftcontent.com/rtmchannel/06-1080.m3u8
+https://rtmlive06.secureswiftcontent.com/rtmchannel/06-1080.m3u8|Referer=https://rtmklik.rtm.gov.my
 
 #EXTINF:-1 tvg-id="123" tvg-logo="https://raw.githubusercontent.com/msolihinam/tv/main/logo/Berita_RTM.png",Berita RTM
-https://rtmlive03.secureswiftcontent.com/rtmchannel/03-1080.m3u8
+https://rtmlive03.secureswiftcontent.com/rtmchannel/03-1080.m3u8|Referer=https://rtmklik.rtm.gov.my
 
