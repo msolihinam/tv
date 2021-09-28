@@ -9,10 +9,13 @@ https://raw.githubusercontent.com/msolihinam/tv/main/TV2.m3u8|Referer=https://rt
 #EXTINF:-1 tvg-id="103" tvg-logo="https://raw.githubusercontent.com/msolihinam/tv/main/logo/TV3.png",TV3
 https://raw.githubusercontent.com/msolihinam/tv/main/TV3.m3u8|Referer=https://www.dailymotion.com/embed/video/k3GVzd2cWbveXyrApah
 
-#EXTINF:-1 tvg-id="105" tvg-logo="https://raw.githubusercontent.com/msolihinam/tv/main/logo/DramaSangat.png",Drama Sangat
+#EXTINF:-1 tvg-id="105" tvg-logo="https://raw.githubusercontent.com/msolihinam/tv/main/logo/DramaSangat.png",DRAMA SANGAT
 https://raw.githubusercontent.com/msolihinam/tv/main/Drama.m3u8|Referer=https://www.dailymotion.com/embed/video/x6zvnex
 
-#EXTINF:-1 tvg-id="107" tvg-logo="https://raw.githubusercontent.com/msolihinam/tv/main/logo/Didik7.png",DidikTV KPM
+#EXTINF:-1, tvg-id="114" tvg-logo="https://raw.githubusercontent.com/msolihinam/tv/main/logo/Hijrah.png",TV ALHIJRAH
+http://50.7.17.176:61980/myplay/c_58008/index.m3u8?key=84sMRUPQINIyjXdqCI5AiQ&expires=1654942380
+
+#EXTINF:-1 tvg-id="107" tvg-logo="https://raw.githubusercontent.com/msolihinam/tv/main/logo/Didik7.png",DIDIK TV
 https://raw.githubusercontent.com/msolihinam/tv/main/Didik.m3u8|Referer=https://www.dailymotion.com/embed/video/kxm1wihUkjNiINrAqlg
 
 #EXTINF:-1 tvg-id="108" tvg-logo="https://raw.githubusercontent.com/msolihinam/tv/main/logo/8TV.png",8TV
@@ -30,10 +33,10 @@ https://raw.githubusercontent.com/msolihinam/tv/main/TVS.m3u8
 #EXTINF:-1 tvg-id="110" tvg-logo="https://raw.githubusercontent.com/msolihinam/tv/main/logo/Okey.png",OKEY
 https://raw.githubusercontent.com/msolihinam/tv/main/Okey.m3u8|Referer=https://rtmklik.rtm.gov.my/
 
-#EXTINF:-1 tvg-id="111" tvg-logo="https://raw.githubusercontent.com/msolihinam/tv/main/logo/SukanRTM.png",Sukan RTM
+#EXTINF:-1 tvg-id="111" tvg-logo="https://raw.githubusercontent.com/msolihinam/tv/main/logo/SukanRTM.png",SUKAN RTM
 https://raw.githubusercontent.com/msolihinam/tv/main/Sukan.m3u8|Referer=https://rtmklik.rtm.gov.my/
 
-#EXTINF:-1 tvg-id="123" tvg-logo="https://raw.githubusercontent.com/msolihinam/tv/main/logo/Berita_RTM.png",Berita RTM
+#EXTINF:-1 tvg-id="123" tvg-logo="https://raw.githubusercontent.com/msolihinam/tv/main/logo/Berita_RTM.png",BERITA RTM
 https://raw.githubusercontent.com/msolihinam/tv/main/Berita.m3u8|Referer=https://rtmklik.rtm.gov.my/
 
 #EXTINF:-1 tvg-id="104" tvg-logo="https://raw.githubusercontent.com/msolihinam/tv/main/logo/Ria.png",RIA
@@ -50,6 +53,9 @@ http://50.7.17.176:61980/myplay/c_58037/index.m3u8?key=84sMRUPQINIyjXdqCI5AiQ&ex
 
 #EXTINF:-1, tvg-id="108" tvg-logo="https://raw.githubusercontent.com/msolihinam/tv/main/logo/Citra.png",CITRA
 http://50.7.161.82:8278/streams/d/Citra/playlist.m3u8
+
+#EXTINF:-1, tvg-id="404" tvg-logo="https://raw.githubusercontent.com/msolihinam/tv/main/logo/Boo.png",BOO
+http://50.7.17.176:61980/myplay/c_58038/index.m3u8?key=84sMRUPQINIyjXdqCI5AiQ&expires=1654942380
 
 #EXTINF:-1 tvg-id="501" tvg-logo="https://raw.githubusercontent.com/msolihinam/tv/main/logo/Awani.png",AWANI
 https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
