@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://weareblahs.github.io/epg/mytv.xml" url-tvg="https://weareblahs.github.io/epg/mytv.xml" refresh="1440" max-conn="1" refresh="24"
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/weareblahs/epg/master/mytv.xml" url-tvg="https://raw.githubusercontent.com/weareblahs/epg/master/astro.xml" refresh="1440" max-conn="1" refresh="24"
 
 #EXTINF:-1 tvg-id="101" tvg-logo="https://raw.githubusercontent.com/msolihinam/tv/main/logo/TV1.png",TV1
 https://raw.githubusercontent.com/msolihinam/tv/main/TV1.m3u8|Referer=https://rtmklik.rtm.gov.my/
@@ -36,11 +36,24 @@ https://raw.githubusercontent.com/msolihinam/tv/main/Sukan.m3u8|Referer=https://
 #EXTINF:-1 tvg-id="123" tvg-logo="https://raw.githubusercontent.com/msolihinam/tv/main/logo/Berita_RTM.png",Berita RTM
 https://raw.githubusercontent.com/msolihinam/tv/main/Berita.m3u8|Referer=https://rtmklik.rtm.gov.my/
 
-#EXTINF:-1 tvg-id="501" tvg-logo="https://raw.githubusercontent.com/msolihinam/tv/main/logo/Awani.png",Awani
+#EXTINF:-1 tvg-id="501" tvg-logo="https://raw.githubusercontent.com/msolihinam/tv/main/logo/Awani.png",AWANI
 https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
 
-#EXTINF:-1 tvg-id="801" tvg-logo="https://raw.githubusercontent.com/msolihinam/tv/main/logo/Arena.png",Arena
+#EXTINF:-1 tvg-id="801" tvg-logo="https://raw.githubusercontent.com/msolihinam/tv/main/logo/Arena.png",ARENA
 http://50.7.161.82:8278/streams/d/arena_pye/playlist.m3u8
 
-#EXTINF:-1 tvg-id="104" tvg-logo="https://raw.githubusercontent.com/msolihinam/tv/main/logo/Ria.png",Ria
+#EXTINF:-1 tvg-id="104" tvg-logo="https://raw.githubusercontent.com/msolihinam/tv/main/logo/Ria.png",RIA
 http://50.7.17.176:61980/myplay/c_58040/index.m3u8?key=84sMRUPQINIyjXdqCI5AiQ&expires=1654942380
+
+#EXTINF:-1 tvg-id="105" tvg-logo="https://raw.githubusercontent.com/msolihinam/tv/main/logo/Prima.png",PRIMA
+http://50.7.161.82:8277/streams/d/prima_pye/playlist.m3u8
+
+#EXTINF:-1, tvg-id="106" tvg-logo="https://raw.githubusercontent.com/msolihinam/tv/main/logo/Oasis.png",OASIS
+http://50.7.161.82:8277/streams/d/Oasis/playlist.m3u8
+
+#EXTINF:-1, tvg-id="107" tvg-logo="https://raw.githubusercontent.com/msolihinam/tv/main/logo/Warna.png",WARNA
+http://50.7.17.176:61980/myplay/c_58037/index.m3u8?key=84sMRUPQINIyjXdqCI5AiQ&expires=1654942380
+
+#EXTINF:-1, tvg-id="108" tvg-logo="https://raw.githubusercontent.com/msolihinam/tv/main/logo/Citra.png",CITRA
+http://50.7.161.82:8278/streams/d/Citra/playlist.m3u8
+
