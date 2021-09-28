@@ -39,5 +39,8 @@ https://raw.githubusercontent.com/msolihinam/tv/main/Berita.m3u8|Referer=https:/
 #EXTINF:-1 tvg-id="501" tvg-logo="https://raw.githubusercontent.com/msolihinam/tv/main/logo/Awani.png",Awani
 https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
 
-#EXTINF:-1 tvg-id="501" tvg-logo="https://raw.githubusercontent.com/msolihinam/tv/main/logo/Arena.png",Arena
+#EXTINF:-1 tvg-id="801" tvg-logo="https://raw.githubusercontent.com/msolihinam/tv/main/logo/Arena.png",Arena
 http://50.7.161.82:8278/streams/d/arena_pye/playlist.m3u8
+
+#EXTINF:-1 tvg-id="104" tvg-logo="https://raw.githubusercontent.com/msolihinam/tv/main/logo/Ria.png",Ria
+http://50.7.17.176:61980/myplay/c_58040/index.m3u8?key=84sMRUPQINIyjXdqCI5AiQ&expires=1654942380
